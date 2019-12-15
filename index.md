@@ -1,4 +1,5 @@
 # Heavenly Upgrades
+
 Name | Cost | Description
 ------------- | ------------- | -----
 Legacy | 1 | This is the first heavenly upgrade; it unlocks the <b>Heavenly chips</b> system.<line></line>Each time you ascend, the cookies you made in your past life are turned into <b>heavenly chips</b> and <b>prestige</b>.<line></line><b>Heavenly chips</b> can be spent on a variety of permanent transcendental upgrades.<line></line>Your <b>prestige level</b> also gives you a permanent <b>+1% CpS</b> per level.
