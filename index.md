@@ -1,6 +1,6 @@
 # Index
 
-Currently on <b>v6</b>.
+Currently on <b>v6</b> (Android).
 
 ## [Achievements](achievements.html)
 
