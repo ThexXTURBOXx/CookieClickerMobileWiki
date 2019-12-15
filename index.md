@@ -1,4 +1,376 @@
-# Heavenly Upgrades
+# Unofficial Cookie Clicker Mobile Wiki
+
+Currently on <b>v6</b>.
+
+## Achievements
+
+- Wake and bake
+- Making some dough
+- So baked right now
+- Fledgling bakery
+- Affluent bakery
+- World-famous bakery
+- Cosmic bakery
+- Galactic bakery
+- Universal bakery
+- Timeless bakery
+- Infinite bakery
+- Immortal bakery
+- Don't stop me now
+- You can stop now
+- Cookies all the way down
+- Overdose
+- How?
+- The land of milk and cookies
+- He who controls the cookies controls the universe
+- Tonight on Hoarders
+- Are you gonna eat all that?
+- We're gonna need a bigger bakery
+- In the mouth of madness
+- Brought to you by the letter (Cookie Icon)
+- The dreams in which I'm baking are the best I've ever had
+- Set for life
+- Panic! at Nabisco
+- Bursting at the seams
+- Just about full
+- Hungry for more
+- Feed me, Orteil
+- And then what?
+- I think it's safe to say you've got it made
+- Casual baking
+- Hardcore baking
+- Steady tasty stream
+- Cookie monster
+- Mass producer
+- Cookie vortex
+- Cookie pulsar
+- Cookie quasar
+- Oh hey, you're still here
+- Let's never bake again
+- A world filled with cookies
+- When this baby hits 36 quadrillion cookies per hour
+- Fast and delicious
+- Cookiehertz : a really, really tasty hertz
+- Woops, you solved world hunger
+- Turbopuns
+- Faster menner
+- And yet you're still hungry
+- The Abakening
+- There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been?
+- Fast
+- Knead for speed
+- Well the cookies start coming and they don't stop coming
+- I don't know if you've noticed but all these icons are very slightly off-center
+- The proof of the cookie is in the baking
+- If it's worth doing, it's worth overdoing
+- Running with scissors
+- Rarefied air
+- Push it to the limit
+- Green cookies sleep furiously
+- Leisurely pace
+- Hypersonic
+- Gotta go fast
+- Grandma's cookies
+- Sloppy kisses
+- Retirement home
+- My first farm
+- Reap what you sow
+- Farm ill
+- Production chain
+- Industrial revolution
+- Global warming
+- You know the drill
+- Excavation site
+- Hollow the planet
+- Expedition
+- Galactic highway
+- Far far away
+- Transmutation
+- Transmogrification
+- Gold member
+- A whole new world
+- Now you're thinking
+- Dimensional shift
+- Time warp
+- Alternate timeline
+- Rewriting history
+- Antibatter
+- Quirky quarks
+- It does matter!
+- Friend of the ancients
+- Ruler of the ancients
+- Perfected agriculture
+- Ultimate automation
+- Can you dig it
+- Type II civilization
+- Gild wars
+- Brain-split
+- Time duke
+- Molecular maestro
+- Lone photon
+- Dazzling glimmer
+- Blinding flash
+- Unending glow
+- The old never bothered me anyway
+- Homegrown
+- Technocracy
+- The center of the Earth
+- We come in peace
+- The secrets of the universe
+- Realm of the Mad God
+- Forever and ever
+- Walk the planck
+- Rise and shine
+- Pretty penny
+- Fit the bill
+- A loan in the dark
+- Need for greed
+- It's the economy, stupid
+- Your time to shrine
+- Shady sect
+- New-age cult
+- Organized religion
+- Fanaticism
+- Bewitched
+- The sorcerer's apprentice
+- Charms and enchantments
+- Curses and maledictions
+- Magic kingdom
+- The agemaster
+- To oldly go
+- Gardener extraordinaire
+- Tectonic ambassador
+- Rise of the machines
+- Acquire currency
+- Zealotry
+- The wizarding world
+- Parsec-masher
+- The work of a lifetime
+- A place lost in time
+- Heat death
+- Microcosm
+- Bright future
+- Seedy business
+- Freak fracking
+- Modern times
+- The nerve of war
+- Wololo
+- And now for my next trick, I'll need a volunteer from the audience
+- It's not delivery
+- Gold, Jerry! Gold!
+- Forbidden zone
+- cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com
+- Scientists baffled everywhere
+- Harmony of the spheres
+- You and the beanstalk
+- Romancing the stone
+- Ex machina
+- And I need it now
+- Pray on the weak
+- It's a kind of magic
+- Make it so
+- All that glitters is gold
+- H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠̫̖̣͙̬͘ͅC̨̦̺̩̲̥͉̭͚̜̻̝̣̼͙̮̯̪o̴̡͇̘͎̞̲͇̦̲͞͡m̸̩̺̝̣̹̱͚̬̥̫̳̼̞̘̯͘ͅẹ͇̺̜́̕͢s̶̙̟̱̥̮̯̰̦͓͇͖͖̝͘͘͞
+- Way back then
+- Exotic matter
+- At the end of the tunnel
+- Lucked out
+- What are the odds
+- Grandma needs a new pair of shoes
+- Million to one shot, doc
+- As luck would have it
+- Ever in your favor
+- Be a lady
+- Dicey business
+- Aged well
+- 101st birthday
+- Defense of the ancients
+- Harvest moon
+- Mine?
+- In full gear
+- Treacle tart economics
+- Holy cookies, grandma!
+- The Prestige
+- That's just peanuts to space
+- Worth its weight in lead
+- What happens in the vortex stays in the vortex
+- Invited to yesterday's party
+- Downsizing
+- My eyes
+- Maybe a chance in hell, actually
+- Make like a tree
+- Cave story
+- In-cog-neato
+- Save your breath because that's all you've got left
+- Vengeful and almighty
+- Spell it out for you
+- Space space space space space
+- Don't get used to yourself, you're gonna have to change
+- Objects in the mirror dimension are closer than they appear
+- Groundhog day
+- A matter of perspective
+- Optical illusion
+- Jackpot
+- But wait 'til you get older
+- Sharpest tool in the shed
+- Hey now, you're a rock
+- Break the mold
+- Get the show on, get paid
+- My world's on fire, how about yours
+- The meteor men beg to differ
+- Only shooting stars
+- We could all use a little change
+- Your brain gets smart but your head gets dumb
+- The years start coming
+- What a concept
+- You'll never shine if you don't glow
+- You'll never know if you don't go
+- Self-contained
+- Threw you for a loop
+- The sum of its parts
+- Bears repeating
+- More of the same
+- Last recurse
+- Out of one, many
+- An example of recursion
+- For more information on this achievement, please refer to its title
+- I'm so meta, even this achievement
+- Never get bored
+- Click delegator
+- Finger clickin' good
+- Click (starring Adam Sandler)
+- Gushing grannies
+- Panic at the bingo
+- Frantiquities
+- I hate manure
+- Rake in the dough
+- Overgrowth
+- Never dig down
+- Quarry on
+- Sedimentalism
+- The incredible machine
+- Yes I love technology
+- Labor of love
+- Vested interest
+- Paid in full
+- Reverse funnel system
+- New world order
+- Church of Cookiology
+- Thus spoke you
+- Hocus pocus
+- Too many rabbits, not enough hats
+- Manafest destiny
+- And beyond
+- The most precious cargo
+- Neither snow nor rain nor heat nor gloom of night
+- Magnum Opus
+- The Aureate
+- I've got the Midas touch
+- With strange eons
+- Ever more hideous
+- Which eternal lie
+- Spacetime jigamaroo
+- Be kind, rewind
+- D&eacute;j&agrave; vu
+- Supermassive
+- Infinitesimal
+- Powers of Ten
+- Praise the sun
+- A still more glorious dawn
+- Now the dark days are gone
+- Fingers crossed
+- Just a statistic
+- Murphy's wild guess
+- The needs of the many
+- Eating its own
+- We must go deeper
+- Click
+- Double-click
+- Mouse wheel
+- Of Mice and Men
+- The Digital
+- Extreme polydactyly
+- Dr. T
+- Thumbs, phalanges, metacarpals
+- With her finger and her thumb
+- Clicktastic
+- Clickathlon
+- Clickolympics
+- Clickorama
+- Clickasmic
+- Clickageddon
+- Clicknarok
+- Clickastrophe
+- Clickataclysm
+- The ultimate clickdown
+- All the other kids with the pumped up clicks
+- One...more...click...
+- Centennial
+- Centennial and a half
+- Bicentennial
+- Bicentennial and a half
+- Tricentennial
+- Tricentennial and a half
+- Quadricentennial
+- Quadricentennial and a half
+- Quincentennial
+- Golden cookie
+- Lucky cookie
+- A stroke of luck
+- Fortune
+- Leprechaun
+- Black cat's paw
+- Just wrong
+- Elder
+- Veteran
+- Elder nap
+- Elder slumber
+- Elder calm
+- Itchscratcher
+- Wrinklesquisher
+- Moistburster
+- Last Chance to See
+- Early bird
+- Fading luck
+- Builder
+- Architect
+- Engineer
+- Lord of Constructs
+- Enhancer
+- Augmenter
+- Upgrader
+- Lord of Progress
+- Polymath
+- Renaissance baker
+- The elder scrolls
+- One with everything
+- Mathematician
+- Base 10
+- Rebirth
+- Resurrection
+- Reincarnation
+- Endless cycle
+- Sacrifice
+- Oblivion
+- From scratch
+- Nihilism
+- Dematerialize
+- Nil zero zilch
+- Transcendence
+- Obliterate
+- Negative void
+- To crumbs, you say?
+- You get nothing
+- Humble rebeginnings
+- The end of the world
+- Oh, you're back
+- Lazarus
+- Smurf account
+- If at first you don't succeed
+- When the cookies ascend just right
+- Wholesome
+
+## Heavenly Upgrades
 
 Name | Cost | Description
 ------------- | ------------- | -----
