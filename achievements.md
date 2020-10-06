@@ -1,6 +1,6 @@
 # Achievements
 
-Currently on <b>v6</b> (Android).
+Currently on <b>v7</b> (Android).
 
 Name | Description
 ------------- | ------------- 
@@ -348,7 +348,7 @@ Moistburster | Burst <b>200 Wrinklers</b>.
 Rebirth | Ascend at least <b>once</b>.
 Resurrection | Ascend <b>10 times</b>.
 Reincarnation | Ascend <b>100 times</b>.
-Endless cycle | Ascend <b>1000 times</b>.
+Endless cycle (SHADOW) | Ascend <b>1000 times</b>.
 Sacrifice | Ascend with <b>1 million</b> cookies baked.
 Oblivion | Ascend with <b>1 billion</b> cookies baked.
 From scratch | Ascend with <b>1 trillion</b> cookies baked.
@@ -366,6 +366,6 @@ Oh, you're back | Ascend with <b>1 quattuordecillion</b> cookies baked.
 Lazarus | Ascend with <b>1 quindecillion</b> cookies baked.
 Smurf account | Ascend with <b>1 sexdecillion</b> cookies baked.
 If at first you don't succeed | Ascend with <b>1 septendecillion</b> cookies baked.
-When the cookies ascend just right | Ascend with exactly <b>1 trillion cookies</b>.
+When the cookies ascend just right (SHADOW) | Ascend with exactly <b>1 trillion cookies</b>.
 Wholesome | Unlock <b>100%</b> of your heavenly chips power.
-Last Chance to See | Burst the near-extinct <b>Shiny Wrinkler</b>.
+Last Chance to See (SHADOW) | Burst the near-extinct <b>Shiny Wrinkler</b>.
