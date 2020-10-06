@@ -6,6 +6,6 @@ Currently on <b>v7</b> (Android).
 
 ## [Heavenly Upgrades](heavenly.html)
 
-## [Toolbox](toolbox.html)
+## [Save Editing](saveediting.html)
 
 ## [Community Patches](patches.html)
