@@ -2,10 +2,10 @@
 
 Currently on <b>v7</b> (Android).
 
-## [Achievements](achievements.html)
+## [Achievements](achievements)
 
-## [Heavenly Upgrades](heavenly.html)
+## [Heavenly Upgrades](heavenly)
 
-## [Save Editing](saveediting.html)
+## [Save Editing](saveediting)
 
-## [Community Patches](patches.html)
+## [Community Patches](patches)

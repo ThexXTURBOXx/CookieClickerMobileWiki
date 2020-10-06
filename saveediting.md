@@ -41,4 +41,4 @@ If you want to cheat on your Alpha save, edit the file ``CookieClickerSaveTest.t
 ## CCMobileToolbox (Very easy - BROKEN RIGHT NOW)
 
 **RIGHT NOW, IT DOESN'T WORK, WILL MAYBE FIX LATER**<br>
-The [Cookie Clicker Mobile Toolbox](toolbox.md) allows one to convert saves between patches and create backups and restore them.
+The [Cookie Clicker Mobile Toolbox](toolbox) allows one to convert saves between patches and create backups and restore them.

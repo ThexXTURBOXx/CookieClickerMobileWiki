@@ -15,14 +15,14 @@ It's a little program, written in Java, which enables support for:
 ## Install and preparations
 
 ### Windows
-1. Download a [community patch](patches.md) on your phone, install it and collect at least 1 cookie in there
+1. Download a [community patch](patches) on your phone, install it and collect at least 1 cookie in there
 2. Download the toolbox
 3. [Install adb](https://www.xda-developers.com/install-adb-windows-macos-linux/), if not already installed and add it to your ``PATH``
 4. [Install Java](https://www.java.com/de/download/) (at least 8), if not already installed
 5. Enable developer options on your phone and enable USB Debugging in the developer options
 
 ### Linux
-1. Download a [community patch](patches.md) on your phone, install it and collect at least 1 cookie in there
+1. Download a [community patch](patches) on your phone, install it and collect at least 1 cookie in there
 2. Download my program on a Linux computer
 3. Install adb with ``sudo apt install android-tools-adb``, if not already installed and add it to your ``environment``
 4. Install Java (at least 8) with ``sudo apt-get install openjdk-8-jre``, if not already installed
