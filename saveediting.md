@@ -1,6 +1,16 @@
 # Save Editing
 
-## Converting Alpha Save to Live Save (Pretty easy - With these instructions, even your grandpa can do it)
+## Converting Alpha Save to Live Save (Very easy - With these instructions, even your grandpa can do it)
+
+### Using Weird Z the Cppkiemeister's Script
+
+1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
+2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
+3. On Windows, install the Git Bash or MinGW Bash
+4. Download the Script in the [Discord Message](https://discordapp.com/channels/412363381891137536/581236824349868042/763114003064029245)
+5. Just do ``./restoreAlphaSave.sh`` and approve on your phone
+
+### Manual conversion
 
 1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
 2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
