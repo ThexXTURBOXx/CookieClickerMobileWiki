@@ -8,7 +8,7 @@
 2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
 3. On Windows, install the Git Bash or MinGW Bash
 4. Download the Script in the [Discord Message](https://discordapp.com/channels/412363381891137536/581236824349868042/763114003064029245)
-5. Do ``chmod +x ./restoreAlphaSave.sh`` to allow creating new folders and files
+5. Do ``chmod +x ./restoreAlphaSave.sh`` to make it executable
 6. Just do ``./restoreAlphaSave.sh`` and approve on your phone
 
 ### Manual conversion
