@@ -244,6 +244,7 @@ Rewriting history | Have <b>100</b> time machines.
 Time duke | Have <b>150</b> time machines.
 Forever and ever | Have <b>200</b> time machines.
 Heat death | Have <b>250</b> time machines.
+cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com | Have <b>300</b> time machines.
 Way back then | Have <b>350</b> time machines.
 Invited to yesterday's party | Have <b>400</b> time machines.
 Groundhog day | Have <b>450</b> time machines.
@@ -271,7 +272,6 @@ Blinding flash | Have <b>100</b> prisms.
 Unending glow | Have <b>150</b> prisms.
 Rise and shine | Have <b>200</b> prisms.
 Bright future | Have <b>250</b> prisms.
-cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com | Have <b>300</b> time machines.
 Harmony of the spheres | Have <b>300</b> prisms.
 At the end of the tunnel | Have <b>350</b> prisms.
 My eyes | Have <b>400</b> prisms.
