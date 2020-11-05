@@ -1,5 +1,21 @@
 # Save Editing
 
+* TOC {:toc}
+
+## Backup and Restore (Very easy - Just do what I tell you to do)
+
+### Backup
+
+1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
+2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
+3. You have to execute the following command in the terminal now: ``adb backup org.dashnet.cookieclicker`` and confirm on your phone, which creates a file "backup.ab"
+
+### Restore
+
+1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
+2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
+3. You have to execute the following command in the terminal now: ``adb restore backup.ab`` and confirm on your phone, which will load the save from the file "backup.ab".
+
 ## Converting Alpha Save to Live Save (Very easy - With these instructions, even your grandpa can do it)
 
 ### Using Weird Z the Cppkiemeister's Script
