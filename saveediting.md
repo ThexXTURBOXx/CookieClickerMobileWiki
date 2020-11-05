@@ -1,6 +1,7 @@
 # Save Editing
 
-* TOC {:toc}
+Table of contents:
+{:toc}
 
 ## Backup and Restore (Very easy - Just do what I tell you to do)
 
