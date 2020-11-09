@@ -1,7 +1,12 @@
 # Save Editing
 
 Table of contents:
+<div id="inline_toc" markdown="1">
+
+* TOC
 {:toc}
+
+</div>
 
 ## Backup and Restore (Very easy - Just do what I tell you to do)
 
