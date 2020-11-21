@@ -1,6 +1,6 @@
-# Save Editing
+<h1>Save Editing</h1>
 
-``adb backup`` and ``adb restore`` can normally be replaced by using [Helium](https://github.com/koush/support-wiki/wiki/Helium-Wiki).
+``adb backup`` and ``adb restore`` can normally be replaced by using [Helium](https://github.com/koush/support-wiki/wiki/Helium-Desktop-Installer-and-Android-App).
 
 **PLEASE BE CONFIDENT IN EVERYTHING YOU DO. I AM NOT LIABLE FOR ANY DAMAGES THAT MAY EASILY OCCUR DURING THESE PROCESSES.**
 
