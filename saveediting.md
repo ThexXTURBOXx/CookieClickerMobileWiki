@@ -1,5 +1,9 @@
 # Save Editing
 
+``adb backup`` and ``adb restore`` can normally be replaced by using [Helium](https://github.com/koush/support-wiki/wiki/Helium-Wiki).
+
+**PLEASE BE CONFIDENT IN EVERYTHING YOU DO. I AM NOT LIABLE FOR ANY DAMAGES THAT MAY EASILY OCCUR DURING THESE PROCESSES.**
+
 Table of contents:
 <div id="inline_toc" markdown="1">
 
