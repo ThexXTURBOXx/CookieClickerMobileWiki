@@ -1,6 +1,6 @@
 # Heavenly Upgrades
 
-Currently on <b>v7.1</b> (Android).
+Currently on <b>v7.23</b> (Android).
 
 Name | Cost | Description
 ------------- | ------------- | -----
