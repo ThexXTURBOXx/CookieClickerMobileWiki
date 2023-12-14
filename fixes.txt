@@ -1,0 +1,10 @@
+NameInApp|NameInOutput|NameAlternative|Description
+Wake and bake|||Bake <b>100</b> cookies in one ascension.
+Brought to you by the letter <div style="display:inline-block;background:url(img/cookicon.png);width:16px;height:16px;"></div>|Brought to you by the letter 🍪||Bake <b>1 undecillion</b> cookies in one ascension.
+Cookiehertz: a really, really tasty hertz|Cookiehertz : a really, really tasty hertz||
+There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been?||There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd &amp; Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been?|
+The center of the Earth||Center of the Earth|
+H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠̫̖̣͙̬͘ͅC̨̦̺̩̲̥͉̭͚̜̻̝̣̼͙̮̯̪o̴̡͇̘͎̞̲͇̦̲͞͡m̸̩̺̝̣̹̱͚̬̥̫̳̼̞̘̯͘ͅẹ͇̺̜́̕͢s̶̙̟̱̥̮̯̰̦͓͇͖͖̝͘͘͞|||Have <b>350 portals</b>.
+D&eacute;j&agrave; vu||Déjà vu|
+Though fools seldom differ||Though fool seldom differ|
+Clicktastic|||Make <b>1,000 cookies</b> from clicking.
