@@ -1,6 +1,6 @@
 # Community Patches
 
-**Trixter'S patch (TrixMod) has many more releases than listed below. You can find all of them by searching for `by:Trixter#8901 in:mobile-cookie-clicker` (or similar) in the [Cookie Clicker discord](https://discord.gg/cookie)**
+**Trixter's patch (TrixMod) has many more releases than listed below. You can find all of them by searching for `by:Trixter#8901 in:mobile-cookie-clicker` (or similar) in the [Cookie Clicker discord](https://discord.gg/cookie)**
 
 Name | Live Version | Patch Version | Download | Changes
 ------------- | ------------- | ------------- | ------------- | ------------- 
