@@ -74,7 +74,7 @@ The Abakening | Bake <b>1 sextillion</b> cookies per second.
 There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been? | Bake <b>10 sextillion</b> cookies per second.
 Fast | Bake <b>1 septillion</b> cookies per second.<br><i>Wow!</i>
 Knead for speed | Bake <b>10 septillion</b> cookies per second.<br><i>How did we not make that one yet?</i>
-Well the cookies start coming and they don't stop coming | Bake <b>100 septillion</b> cookies per second.<br><i>"Didn't make sense not to click for fun<b>."</b></i><br><i>Didn't make sense not to click for fun.</i>
+Well the cookies start coming and they don't stop coming | Bake <b>100 septillion</b> cookies per second.<br><i>Didn't make sense not to click for fun.</i>
 I don't know if you've noticed but all these icons are very slightly off-center | Bake <b>1 octillion</b> cookies per second.
 The proof of the cookie is in the baking | Bake <b>10 octillion</b> cookies per second.<br><i>How can you have any cookies if you don't bake your dough?</i>
 If it's worth doing, it's worth overdoing | Bake <b>1 nonillion</b> cookies per second.
