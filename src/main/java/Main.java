@@ -21,14 +21,14 @@ public class Main {
         addExtraAchievementData();
     }
 
-    private static final List<Heavenly> HEAVENLIES = new ArrayList<>();
+    private static final List<Heavenly> HEAVENLY_LIST = new ArrayList<>();
 
     @AllArgsConstructor
     private static class Heavenly implements Comparable<Heavenly> {
         private int id;
         private double order;
         private String name;
-        private String name2;
+        private String altName;
         private String desc;
         private long cost;
 
@@ -80,7 +80,7 @@ public class Main {
                 continue;
             }
             if (upgrade && heavenly && line.startsWith("});")) {
-                HEAVENLIES.add(new Heavenly(Integer.parseInt(idStr), Double.parseDouble(orderStr),
+                HEAVENLY_LIST.add(new Heavenly(Integer.parseInt(idStr), Double.parseDouble(orderStr),
                         nameStr, "", descStr, Long.parseLong(costStr)));
                 nameStr = "";
                 idStr = "";
@@ -91,23 +91,23 @@ public class Main {
                 continue;
             }
         }
-        Collections.sort(HEAVENLIES);
+        Collections.sort(HEAVENLY_LIST);
 
-        for (Heavenly h : HEAVENLIES) {
+        for (Heavenly h : HEAVENLY_LIST) {
             File fileFixes = new File("fixes.txt");
             reader = new BufferedReader(new FileReader(fileFixes));
             while (h.desc.isEmpty() && (line = reader.readLine()) != null) {
                 String[] split = (line.trim() + " ").split("\\|");
                 if (h.name.equalsIgnoreCase(split[0])) {
                     h.name = split[1].isEmpty() ? h.name : split[1];
-                    h.name2 = split[2].isEmpty() ? h.name2 : split[2];
+                    h.altName = split[2].isEmpty() ? h.altName : split[2];
                     h.desc = split[3].trim();
                 }
             }
             reader.close();
         }
 
-        for (Heavenly h : HEAVENLIES)
+        for (Heavenly h : HEAVENLY_LIST)
             export.println(h.name + " | " + String.format(Locale.ROOT, "%,d", h.cost) + " | " + h.desc);
         export.flush();
         export.close();
@@ -120,8 +120,9 @@ public class Main {
         private int id;
         private double order;
         private String name;
-        private String name2;
+        private String altName;
         private String desc;
+        private String desc2;
         private boolean shadow;
 
         @Override
@@ -138,6 +139,7 @@ public class Main {
         String nameStr = "";
         String idStr = "";
         String descStr = "";
+        String desc2Str = "";
         String orderStr = "";
         boolean shadow = false;
         boolean achievement = false;
@@ -159,6 +161,10 @@ public class Main {
                 descStr = line.replaceFirst("desc:\\s*`", "").replace("`,", "");
                 continue;
             }
+            if (achievement && line.startsWith("q:")) {
+                desc2Str = line.replaceFirst("q:\\s*`", "").replace("`,", "");
+                continue;
+            }
             if (achievement && line.startsWith("order:")) {
                 orderStr = line.replaceFirst("order:\\s*", "").replace(",", "");
                 continue;
@@ -169,10 +175,11 @@ public class Main {
             }
             if (achievement && line.startsWith("});")) {
                 ACHIEV_LIST.add(new Achiev(Integer.parseInt(idStr), Double.parseDouble(orderStr),
-                        nameStr, "", descStr, shadow));
+                        nameStr, "", descStr, desc2Str, shadow));
                 nameStr = "";
                 idStr = "";
                 descStr = "";
+                desc2Str = "";
                 orderStr = "";
                 shadow = false;
                 achievement = false;
@@ -196,7 +203,7 @@ public class Main {
                 String[] split = (line.trim() + " ").split("\\|");
                 if (a.name.equalsIgnoreCase(split[0])) {
                     a.name = split[1].isEmpty() ? a.name : split[1];
-                    a.name2 = split[2].isEmpty() ? a.name2 : split[2];
+                    a.altName = split[2].isEmpty() ? a.altName : split[2];
                     a.desc = split[3].trim();
                 }
             }
@@ -214,12 +221,16 @@ public class Main {
                     line = reader.readLine().trim();
                     if (line.matches("^<td.*>.+")) {
                         String name = line.replaceFirst("<td.*?>", "");
-                        if (name.equalsIgnoreCase(a.name) || name.equalsIgnoreCase(a.name2)) {
+                        if (name.equalsIgnoreCase(a.name) || name.equalsIgnoreCase(a.altName)) {
                             line = reader.readLine().trim();
                             if (line.matches("^</td.*>")) {
                                 line = reader.readLine().trim();
                                 if (line.matches("^<td.*>.+")) {
                                     a.desc = line.replaceFirst("<td.*?>", "");
+                                    if (a.desc.contains(a.desc2)) {
+                                        a.desc = a.desc.replace("<br><i>" + a.desc2 + "</i>", "");
+                                        a.desc = a.desc.replace("<br><i>\"" + a.desc2 + "\"</i>", "");
+                                    }
                                 }
                             }
                         }
@@ -230,8 +241,13 @@ public class Main {
             if (a.desc.isEmpty()) {
                 System.out.println(a.name);
             }
+            if (a.desc.contains("<br>") && !a.desc2.isEmpty() && !a.name.equals("Cookie-dunker")) {
+                // Cookie-dunker is correct as-is
+                System.out.println(a.name);
+            }
             a.desc = a.desc.replace("<div class=\"line\"></div>", "<br>");
-            export.println(a.name + (a.shadow ? " [SHADOW]" : "") + " | " + a.desc);
+            export.println(a.name + (a.shadow ? " [SHADOW]" : "") + " | " + a.desc +
+                           (!a.desc2.isEmpty() ? "<br><i>" + a.desc2 + "</i>" : ""));
         }
         export.flush();
         export.close();
