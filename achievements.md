@@ -336,240 +336,240 @@ Elder calm | Declare a covenant with the grandmatriarchs.
 Itchscratcher | Burst <b>1 wrinkler</b>.
 Wrinklesquisher | Burst <b>50 wrinklers</b>.
 Moistburster | Burst <b>200 wrinklers</b>.
-Last Chance to See | Burst the near-extinct <b>shiny wrinkler</b>.
-Early bird | Click a golden cookie <b>less than 1 second after it spawns</b>.
-Fading luck | Click a golden cookie <b>less than 1 second before it dies</b>.
-Builder | Own <b>100</b> buildings.
-Architect | Own <b>500</b> buildings.
-Engineer | Own <b>1,000</b> buildings.
-Lord of Constructs | Own <b>2,000</b> buildings.
-Grand design | Own <b>5,000 buildings</b>.
-Ecumenopolis | Own <b>7,500 buildings</b>.
-Myriad | Own <b>10,000 buildings</b>.
-Enhancer | Purchase <b>20</b> upgrades.
-Augmenter | Purchase <b>50</b> upgrades.
-Upgrader | Purchase <b>100</b> upgrades.
-Lord of Progress | Purchase <b>200</b> upgrades.
-The full picture | Purchase <b>300 upgrades</b>.
-When there's nothing left to add | Purchase <b>400 upgrades</b>.
-Kaizen | Purchase <b>500 upgrades</b>.
-Beyond quality | Purchase <b>600 upgrades</b>.
-Oft we mar what's well | Purchase <b>700 upgrades</b>.
-Polymath | Own <b>300</b> upgrades and <b>3,000</b> buildings.
-Renaissance baker | Own <b>400</b> upgrades and <b>4,000</b> buildings.
-The elder scrolls | Own a combined <b>777</b> grandmas and cursors.
-One with everything | Have <b>at least 1</b> of every building.
-Mathematician | Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128).
-Base 10 | Have at least <b>10 of the most expensive object, 20 of the second-most expensive, 30 of the next</b> and so on.
-Rebirth | Ascend at least once.
-Resurrection | Ascend <b>10 times</b>.
-Reincarnation | Ascend <b>100 times</b>.
-Endless cycle | Ascend <b>1,000 times</b>.
-Sacrifice | Ascend with <b>1 million</b> cookies baked.
-Oblivion | Ascend with <b>1 billion</b> cookies baked.
-From scratch | Ascend with <b>1 trillion</b> cookies baked.
-Nihilism | Ascend with <b>1 quadrillion</b> cookies baked.
-Dematerialize | Ascend with <b>1 quintillion</b> cookies baked.
-Nil zero zilch | Ascend with <b>1 sextillion</b> cookies baked.
-Transcendence | Ascend with <b>1 septillion</b> cookies baked.
-Obliterate | Ascend with <b>1 octillion</b> cookies baked.
-Negative void | Ascend with <b>1 nonillion</b> cookies baked.
-To crumbs, you say? | Ascend with <b>1 decillion</b> cookies baked.
-You get nothing | Ascend with <b>1 undecillion</b> cookies baked.
-Humble rebeginnings | Ascend with <b>1 duodecillion</b> cookies baked.
-The end of the world | Ascend with <b>1 tredecillion</b> cookies baked.
-Oh, you're back | Ascend with <b>1 quattuordecillion</b> cookies baked.
-Lazarus | Ascend with <b>1 quindecillion</b> cookies baked.
-Smurf account | Ascend with <b>1 sexdecillion</b> cookies baked.
-If at first you don't succeed | Ascend with <b>1 septendecillion</b> cookies baked.
-No more room in hell | Ascend with <b>1 octodecillion cookies</b> baked.
-When the cookies ascend just right | Ascend with exactly <b>1 trillion cookies</b>.
-Wholesome | Unlock <b>100%</b> of your heavenly chips power.
-Okay boomer | Have <b>600 grandmas</b>.
-They moistly come at night | Have <b>650 grandmas</b>.
-And now you're even older | Have <b>700 grandmas</b>.
-Overripe | Have <b>550 farms</b>.
-In the green | Have <b>600 farms</b>.
-It's grown on you | Have <b>650 farms</b>.
-Au naturel | Have <b>700 farms</b>.
-Rock on | Have <b>550 mines</b>.
-Mountain out of a molehill, but like in a good way | Have <b>600 mines</b>.
-Don't let the walls cave in on you | Have <b>650 mines</b>.
-Dirt-rich | Have <b>700 mines</b>.
-Self-manmade man | Have <b>550 factories</b>.
-The wheels of progress | Have <b>600 factories</b>.
-Replaced by robots | Have <b>650 factories</b>.
-Bots build bots | Have <b>700 factories</b>.
-Checks out | Have <b>550 banks</b>.
-That's rich | Have <b>600 banks</b>.
-Financial prodigy | Have <b>650 banks</b>.<br><i>"Imagine how it would be, to be at the top making cash money."</i>
-Getting that bag | Have <b>700 banks</b>.
-Living on a prayer | Have <b>550 temples</b>.
-Preaches and cream | Have <b>600 temples</b>.
-And I will pray to a big god | Have <b>650 temples</b>.
-The leader is good, the leader is great | Have <b>700 temples</b>.
-Higitus figitus migitus mum | Have <b>550 wizard towers</b>.
-Magic thinking | Have <b>600 wizard towers</b>.
-Shosple Colupis | Have <b>650 wizard towers</b>.
-You don't think they could've used... it couldn't have been ma- | Have <b>700 wizard towers</b>.
-The incredible journey | Have <b>550 shipments</b>.
-Is there life on Mars? | Have <b>600 shipments</b>.<br><i>"Yes, there is. You're currently using it as filling in experimental flavor prototype #810657."</i>
-False vacuum | Have <b>650 shipments</b>.
-Signed, sealed, delivered | Have <b>700 shipments</b>.
-Just a phase | Have <b>550 alchemy labs</b>.
-Bad chemistry | Have <b>600 alchemy labs</b>.
-Metallic taste | Have <b>650 alchemy labs</b>.
-Sugar, spice, and everything nice | Have <b>700 alchemy labs</b>.<br><i>"These were the ingredients chosen to create the perfect cookies."</i>
-Don't let me leave, Murph | Have <b>550 portals</b>.
-Reduced to gibbering heaps | Have <b>600 portals</b>.
-Swiss cheese | Have <b>650 portals</b>.
-Not even remotely close to Kansas anymore | Have <b>700 portals</b>.
-Caveman to cosmos | Have <b>550 time machines</b>.
-Back already? | Have <b>600 time machines</b>.
-But the future refused to change | Have <b>650 time machines</b>.
-I only meant to stay a while | Have <b>700 time machines</b>.
-Particular tastes | Have <b>550 antimatter condensers</b>.
-Nuclear throne | Have <b>600 antimatter condensers</b>.
-What's the dark matter with you | Have <b>650 antimatter condensers</b>.
-Not 20 years away forever | Have <b>700 antimatter condensers</b>.
-A light snack | Have <b>550 prisms</b>.
-Making light of the situation | Have <b>600 prisms</b>.
-Enlightenment | Have <b>650 prisms</b>.
-Bright side of the Moon | Have <b>700 prisms</b>.
-Tempting fate | Have <b>550 chancemakers</b>.
-Flip a cookie. Chips, I win. Crust, you lose. | Have <b>600 chancemakers</b>.
-Never tell me the odds | Have <b>650 chancemakers</b>.
-Riding the Mersenne twister | Have <b>700 chancemakers</b>.
-Tautological | Have <b>550 fractal engines</b>.
-In and of itself | Have <b>600 fractal engines</b>.
-Blowing an Apollonian gasket | Have <b>650 fractal engines</b>.
-Divide and conquer | Have <b>700 fractal engines</b>.
-F12 | Have <b>1 javascript console</b>.
-Variable success | Have <b>50 javascript consoles</b>.
-No comments | Have <b>100 javascript consoles</b>.
-Up to code | Have <b>150 javascript consoles</b>.
-Works on my machine | Have <b>200 javascript consoles</b>.
-Technical debt | Have <b>250 javascript consoles</b>.
-Mind your language | Have <b>300 javascript consoles</b>.
-Inconsolable | Have <b>350 javascript consoles</b>.
-Closure | Have <b>400 javascript consoles</b>.
-Dude what if we're all living in a simulation like what if we're all just code on a computer somewhere | Have <b>450 javascript consoles</b>.
-Taking the back streets | Have <b>500 javascript consoles</b>.
-Curly braces | Have <b>550 javascript consoles</b>.<br><i>"Or as the French call them, mustache boxes.<br>Go well with quotes."</i>
-Duck typing | Have <b>600 javascript consoles</b>.<br><i>"Hello, this is a duck typing. Got any grapes?"</i>
-Get with the program | Have <b>650 javascript consoles</b>.
-Pebcakes | Have <b>700 javascript consoles</b>.<br><i>"Problem exists in my mouth!"</i>
-They'll never know what hit 'em | Have <b>1 idleverse</b>.
-Well-versed | Have <b>50 idleverses</b>.
-Ripe for the picking | Have <b>100 idleverses</b>.
-Unreal | Have <b>150 idleverses</b>.
-Once you've seen one | Have <b>200 idleverses</b>.
-Spoils and plunder | Have <b>250 idleverses</b>.
-Nobody exists on purpose, nobody belongs anywhere | Have <b>300 idleverses</b>.<br><i>"Come watch TV?"</i>
-Hyperspace expressway | Have <b>350 idleverses</b>.
-Versatile | Have <b>400 idleverses</b>.
-You are inevitable | Have <b>450 idleverses</b>.
-Away from this place | Have <b>500 idleverses</b>.
-Everywhere at once | Have <b>550 idleverses</b>.
-Reject reality, substitute your own | Have <b>600 idleverses</b>.
-Lost your cosmic marbles | Have <b>650 idleverses</b>.
-Greener on the other sides | Have <b>700 idleverses</b>.
-It's big brain time | Have <b>1 cortex baker</b>.
-Just my imagination | Have <b>50 cortex bakers</b>.
-Now there's an idea | Have <b>100 cortex bakers</b>.
-The organ that named itself | Have <b>150 cortex bakers</b>.
-Gyrification | Have <b>200 cortex bakers</b>.
-A trademarked portmanteau of "imagination" and "engineering" | Have <b>250 cortex bakers</b>.
-Mindfulness | Have <b>300 cortex bakers</b>.
-The 10% myth | Have <b>350 cortex bakers</b>.
-Don't think about it too hard | Have <b>400 cortex bakers</b>.
-Though fools seldom differ | Have <b>450 cortex bakers</b>.
-Looking kind of dumb | Have <b>500 cortex bakers</b>.
-A beautiful mind | Have <b>550 cortex bakers</b>.
-Cardinal synapses | Have <b>600 cortex bakers</b>.
-By will alone I set my mind in motion | Have <b>650 cortex bakers</b>.
-Where is my mind | Have <b>700 cortex bakers</b>.
-My own clone | Have <b>1 You</b>.
-Multiplicity | Have <b>50 You</b>.
-Born for this job | Have <b>100 You</b>.
-Episode II | Have <b>150 You</b>.
-Copy that | Have <b>200 You</b>.
-Life finds a way | Have <b>250 You</b>.
-Overcrowding | Have <b>300 You</b>.
-Strength in numbers | Have <b>350 You</b>.
-Army of me | Have <b>400 You</b>.
-Know thyself | Have <b>450 You</b>.<br><i>"Do you ever look at yourself in the mirror and wonder... What is going on inside your head?"</i>
-Didn't make sense not to live | Have <b>500 You</b>.
-Genetic bottleneck | Have <b>550 You</b>.
-Despite everything, it's still you | Have <b>600 You</b>.
-Everyone everywhere all at once | Have <b>650 You</b>.
-Introspection | Have <b>700 You</b>.
-A sometimes food | Bake <b>1 sexdecillion</b> cookies in one ascension.
-Not enough of a good thing | Bake <b>100 sexdecillion</b> cookies in one ascension.
-Horn of plenty | Bake <b>1 septendecillion</b> cookies in one ascension.
-Large and in charge | Bake <b>100 septendecillion</b> cookies in one ascension.
-Absolutely stuffed | Bake <b>1 octodecillion</b> cookies in one ascension.
-It's only wafer-thin | Bake <b>100 octodecillion</b> cookies in one ascension.<br><i>"Just the one!"</i>
-Think big | Bake <b>1 novemdecillion</b> cookies in one ascension.
-Hypersize me | Bake <b>100 novemdecillion</b> cookies in one ascension.
-Max capacity | Bake <b>1 vigintillion</b> cookies in one ascension.
-Fake it till you bake it | Bake <b>100 vigintillion</b> cookies in one ascension.
-History in the baking | Bake <b>1 unvigintillion</b> cookies in one ascension.
-What do you get for the baker who has everything | Bake <b>100 unvigintillion</b> cookies in one ascension.
-Bottomless pit | Bake <b>1 duovigintillion</b> cookies in one ascension.
-Rainy day fund | Bake <b>100 duovigintillion</b> cookies in one ascension.
-And a little extra | Bake <b>1 trevigintillion</b> cookies in one ascension.
-Bake him away, toys | Bake <b>1 duodecillion</b> cookies per second.
-You're #1 so why try harder | Bake <b>10 duodecillion</b> cookies per second.
-Haven't even begun to peak | Bake <b>1 tredecillion</b> cookies per second.
-What did we even eat before these | Bake <b>10 tredecillion</b> cookies per second.
-Heavy flow | Bake <b>100 tredecillion</b> cookies per second.
-More you say? | Bake <b>1 quattuordecillion</b> cookies per second.
-Keep going until I say stop | Bake <b>10 quattuordecillion</b> cookies per second.
-But I didn't say stop, did I? | Bake <b>1 quindecillion</b> cookies per second.
-With unrivaled fervor | Bake <b>10 quindecillion</b> cookies per second.
-I am speed | Bake <b>100 quindecillion</b> cookies per second.
-And on and on | Bake <b>1 sexdecillion</b> cookies per second.
-Everything happens so much | Bake <b>10 sexdecillion</b> cookies per second.
-I'll rest when I'm dead | Bake <b>1 septendecillion</b> cookies per second.
-Can we get much higher | Bake <b>10 septendecillion</b> cookies per second.
-Speed's the name of the game (no it's not it's called Cookie Clicker) | Bake <b>100 septendecillion</b> cookies per second.
-Quincentennial and a half | Have at least <b>550</b> of everything.
-Sexcentennial | Have at least <b>600</b> of everything.
-Sexcentennial and a half | Have at least <b>650</b> of everything.
-Septcentennial | Have at least <b>700</b> of everything.
-Inherited prototype | Make <b>10 octillion cookies</b> just from javascript consoles.
-A model of document object | Make <b>100 decillion cookies</b> just from javascript consoles.
-First-class citizen | Make <b>1 tredecillion cookies</b> just from javascript consoles.
-Fringe | Make <b>100 octillion cookies</b> just from idleverses.
-Coherence | Make <b>1 undecillion cookies</b> just from idleverses.
-Earth-616 | Make <b>10 tredecillion cookies</b> just from idleverses.
-Positive thinking | Make <b>1 nonillion cookies</b> just from cortex bakers.
-The thought that counts | Make <b>10 undecillion cookies</b> just from cortex bakers.
-Unthinkable | Make <b>100 tredecillion cookies</b> just from cortex bakers.
-Self-made | Make <b>10 nonillion cookies</b> just from You.
-Reproducible results | Make <b>100 undecillion cookies</b> just from You.
-That's all you | Make <b>1 quattuordecillion cookies</b> just from You.
-O Fortuna | Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
-The hunt is on | Unlock <b>1 egg</b>.
-Egging on | Unlock <b>7 eggs</b>.
-Mass Easteria | Unlock <b>14 eggs</b>.
-Hide & seek champion | Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
-Spooky cookies | Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
-Coming to town | Reach <b>Santa's 7th form</b>.
-All hail Santa | Reach <b>Santa's final form</b>.
-Let it snow | Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
-Oh deer | Pop <b>1 reindeer</b>.
-Sleigh of hand | Pop <b>50 reindeer</b>.
-Reindeer sleigher | Pop <b>200 reindeer</b>.
-Eldeer | Pop a reindeer <b>during an elder frenzy</b>.
-Olden days | Find the <b>forgotten madeleine</b>.
-Lovely cookies | Unlock <b>every Valentine-themed cookie</b>.
-Wrath cookie | Click a <b>wrath cookie</b>.
-Grandmapocalypse | Trigger the grandmapocalypse for the first time.
-Just plain lucky | You have <b>1 chance in 1 million</b> every second of earning this achievement.
-Jellicles | Own <b>10</b> kitten upgrades.
-You win a cookie | This is for baking 100 trillion cookies and making it on the local news.
-Cookie-dunker | Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.
-Here you go | Tap this achievement's slot.
-Wrinkler poker | Poke a wrinkler <b>50 times</b> without killing it.
+Last Chance to See [SHADOW] | Burst the near-extinct <b>shiny wrinkler</b>.
+Early bird [SHADOW] | Click a golden cookie <b>less than 1 second after it spawns</b>.
+Fading luck [SHADOW] | Click a golden cookie <b>less than 1 second before it dies</b>.
+Builder [SHADOW] | Own <b>100</b> buildings.
+Architect [SHADOW] | Own <b>500</b> buildings.
+Engineer [SHADOW] | Own <b>1,000</b> buildings.
+Lord of Constructs [SHADOW] | Own <b>2,000</b> buildings.
+Grand design [SHADOW] | Own <b>5,000 buildings</b>.
+Ecumenopolis [SHADOW] | Own <b>7,500 buildings</b>.
+Myriad [SHADOW] | Own <b>10,000 buildings</b>.
+Enhancer [SHADOW] | Purchase <b>20</b> upgrades.
+Augmenter [SHADOW] | Purchase <b>50</b> upgrades.
+Upgrader [SHADOW] | Purchase <b>100</b> upgrades.
+Lord of Progress [SHADOW] | Purchase <b>200</b> upgrades.
+The full picture [SHADOW] | Purchase <b>300 upgrades</b>.
+When there's nothing left to add [SHADOW] | Purchase <b>400 upgrades</b>.
+Kaizen [SHADOW] | Purchase <b>500 upgrades</b>.
+Beyond quality [SHADOW] | Purchase <b>600 upgrades</b>.
+Oft we mar what's well [SHADOW] | Purchase <b>700 upgrades</b>.
+Polymath [SHADOW] | Own <b>300</b> upgrades and <b>3,000</b> buildings.
+Renaissance baker [SHADOW] | Own <b>400</b> upgrades and <b>4,000</b> buildings.
+The elder scrolls [SHADOW] | Own a combined <b>777</b> grandmas and cursors.
+One with everything [SHADOW] | Have <b>at least 1</b> of every building.
+Mathematician [SHADOW] | Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128).
+Base 10 [SHADOW] | Have at least <b>10 of the most expensive object, 20 of the second-most expensive, 30 of the next</b> and so on.
+Rebirth [SHADOW] | Ascend at least once.
+Resurrection [SHADOW] | Ascend <b>10 times</b>.
+Reincarnation [SHADOW] | Ascend <b>100 times</b>.
+Endless cycle [SHADOW] | Ascend <b>1,000 times</b>.
+Sacrifice [SHADOW] | Ascend with <b>1 million</b> cookies baked.
+Oblivion [SHADOW] | Ascend with <b>1 billion</b> cookies baked.
+From scratch [SHADOW] | Ascend with <b>1 trillion</b> cookies baked.
+Nihilism [SHADOW] | Ascend with <b>1 quadrillion</b> cookies baked.
+Dematerialize [SHADOW] | Ascend with <b>1 quintillion</b> cookies baked.
+Nil zero zilch [SHADOW] | Ascend with <b>1 sextillion</b> cookies baked.
+Transcendence [SHADOW] | Ascend with <b>1 septillion</b> cookies baked.
+Obliterate [SHADOW] | Ascend with <b>1 octillion</b> cookies baked.
+Negative void [SHADOW] | Ascend with <b>1 nonillion</b> cookies baked.
+To crumbs, you say? [SHADOW] | Ascend with <b>1 decillion</b> cookies baked.
+You get nothing [SHADOW] | Ascend with <b>1 undecillion</b> cookies baked.
+Humble rebeginnings [SHADOW] | Ascend with <b>1 duodecillion</b> cookies baked.
+The end of the world [SHADOW] | Ascend with <b>1 tredecillion</b> cookies baked.
+Oh, you're back [SHADOW] | Ascend with <b>1 quattuordecillion</b> cookies baked.
+Lazarus [SHADOW] | Ascend with <b>1 quindecillion</b> cookies baked.
+Smurf account [SHADOW] | Ascend with <b>1 sexdecillion</b> cookies baked.
+If at first you don't succeed [SHADOW] | Ascend with <b>1 septendecillion</b> cookies baked.
+No more room in hell [SHADOW] | Ascend with <b>1 octodecillion cookies</b> baked.
+When the cookies ascend just right [SHADOW] | Ascend with exactly <b>1 trillion cookies</b>.
+Wholesome [SHADOW] | Unlock <b>100%</b> of your heavenly chips power.
+Okay boomer [SHADOW] | Have <b>600 grandmas</b>.
+They moistly come at night [SHADOW] | Have <b>650 grandmas</b>.
+And now you're even older [SHADOW] | Have <b>700 grandmas</b>.
+Overripe [SHADOW] | Have <b>550 farms</b>.
+In the green [SHADOW] | Have <b>600 farms</b>.
+It's grown on you [SHADOW] | Have <b>650 farms</b>.
+Au naturel [SHADOW] | Have <b>700 farms</b>.
+Rock on [SHADOW] | Have <b>550 mines</b>.
+Mountain out of a molehill, but like in a good way [SHADOW] | Have <b>600 mines</b>.
+Don't let the walls cave in on you [SHADOW] | Have <b>650 mines</b>.
+Dirt-rich [SHADOW] | Have <b>700 mines</b>.
+Self-manmade man [SHADOW] | Have <b>550 factories</b>.
+The wheels of progress [SHADOW] | Have <b>600 factories</b>.
+Replaced by robots [SHADOW] | Have <b>650 factories</b>.
+Bots build bots [SHADOW] | Have <b>700 factories</b>.
+Checks out [SHADOW] | Have <b>550 banks</b>.
+That's rich [SHADOW] | Have <b>600 banks</b>.
+Financial prodigy [SHADOW] | Have <b>650 banks</b>.<br><i>"Imagine how it would be, to be at the top making cash money."</i>
+Getting that bag [SHADOW] | Have <b>700 banks</b>.
+Living on a prayer [SHADOW] | Have <b>550 temples</b>.
+Preaches and cream [SHADOW] | Have <b>600 temples</b>.
+And I will pray to a big god [SHADOW] | Have <b>650 temples</b>.
+The leader is good, the leader is great [SHADOW] | Have <b>700 temples</b>.
+Higitus figitus migitus mum [SHADOW] | Have <b>550 wizard towers</b>.
+Magic thinking [SHADOW] | Have <b>600 wizard towers</b>.
+Shosple Colupis [SHADOW] | Have <b>650 wizard towers</b>.
+You don't think they could've used... it couldn't have been ma- [SHADOW] | Have <b>700 wizard towers</b>.
+The incredible journey [SHADOW] | Have <b>550 shipments</b>.
+Is there life on Mars? [SHADOW] | Have <b>600 shipments</b>.<br><i>"Yes, there is. You're currently using it as filling in experimental flavor prototype #810657."</i>
+False vacuum [SHADOW] | Have <b>650 shipments</b>.
+Signed, sealed, delivered [SHADOW] | Have <b>700 shipments</b>.
+Just a phase [SHADOW] | Have <b>550 alchemy labs</b>.
+Bad chemistry [SHADOW] | Have <b>600 alchemy labs</b>.
+Metallic taste [SHADOW] | Have <b>650 alchemy labs</b>.
+Sugar, spice, and everything nice [SHADOW] | Have <b>700 alchemy labs</b>.<br><i>"These were the ingredients chosen to create the perfect cookies."</i>
+Don't let me leave, Murph [SHADOW] | Have <b>550 portals</b>.
+Reduced to gibbering heaps [SHADOW] | Have <b>600 portals</b>.
+Swiss cheese [SHADOW] | Have <b>650 portals</b>.
+Not even remotely close to Kansas anymore [SHADOW] | Have <b>700 portals</b>.
+Caveman to cosmos [SHADOW] | Have <b>550 time machines</b>.
+Back already? [SHADOW] | Have <b>600 time machines</b>.
+But the future refused to change [SHADOW] | Have <b>650 time machines</b>.
+I only meant to stay a while [SHADOW] | Have <b>700 time machines</b>.
+Particular tastes [SHADOW] | Have <b>550 antimatter condensers</b>.
+Nuclear throne [SHADOW] | Have <b>600 antimatter condensers</b>.
+What's the dark matter with you [SHADOW] | Have <b>650 antimatter condensers</b>.
+Not 20 years away forever [SHADOW] | Have <b>700 antimatter condensers</b>.
+A light snack [SHADOW] | Have <b>550 prisms</b>.
+Making light of the situation [SHADOW] | Have <b>600 prisms</b>.
+Enlightenment [SHADOW] | Have <b>650 prisms</b>.
+Bright side of the Moon [SHADOW] | Have <b>700 prisms</b>.
+Tempting fate [SHADOW] | Have <b>550 chancemakers</b>.
+Flip a cookie. Chips, I win. Crust, you lose. [SHADOW] | Have <b>600 chancemakers</b>.
+Never tell me the odds [SHADOW] | Have <b>650 chancemakers</b>.
+Riding the Mersenne twister [SHADOW] | Have <b>700 chancemakers</b>.
+Tautological [SHADOW] | Have <b>550 fractal engines</b>.
+In and of itself [SHADOW] | Have <b>600 fractal engines</b>.
+Blowing an Apollonian gasket [SHADOW] | Have <b>650 fractal engines</b>.
+Divide and conquer [SHADOW] | Have <b>700 fractal engines</b>.
+F12 [SHADOW] | Have <b>1 javascript console</b>.
+Variable success [SHADOW] | Have <b>50 javascript consoles</b>.
+No comments [SHADOW] | Have <b>100 javascript consoles</b>.
+Up to code [SHADOW] | Have <b>150 javascript consoles</b>.
+Works on my machine [SHADOW] | Have <b>200 javascript consoles</b>.
+Technical debt [SHADOW] | Have <b>250 javascript consoles</b>.
+Mind your language [SHADOW] | Have <b>300 javascript consoles</b>.
+Inconsolable [SHADOW] | Have <b>350 javascript consoles</b>.
+Closure [SHADOW] | Have <b>400 javascript consoles</b>.
+Dude what if we're all living in a simulation like what if we're all just code on a computer somewhere [SHADOW] | Have <b>450 javascript consoles</b>.
+Taking the back streets [SHADOW] | Have <b>500 javascript consoles</b>.
+Curly braces [SHADOW] | Have <b>550 javascript consoles</b>.<br><i>"Or as the French call them, mustache boxes.<br>Go well with quotes."</i>
+Duck typing [SHADOW] | Have <b>600 javascript consoles</b>.<br><i>"Hello, this is a duck typing. Got any grapes?"</i>
+Get with the program [SHADOW] | Have <b>650 javascript consoles</b>.
+Pebcakes [SHADOW] | Have <b>700 javascript consoles</b>.<br><i>"Problem exists in my mouth!"</i>
+They'll never know what hit 'em [SHADOW] | Have <b>1 idleverse</b>.
+Well-versed [SHADOW] | Have <b>50 idleverses</b>.
+Ripe for the picking [SHADOW] | Have <b>100 idleverses</b>.
+Unreal [SHADOW] | Have <b>150 idleverses</b>.
+Once you've seen one [SHADOW] | Have <b>200 idleverses</b>.
+Spoils and plunder [SHADOW] | Have <b>250 idleverses</b>.
+Nobody exists on purpose, nobody belongs anywhere [SHADOW] | Have <b>300 idleverses</b>.<br><i>"Come watch TV?"</i>
+Hyperspace expressway [SHADOW] | Have <b>350 idleverses</b>.
+Versatile [SHADOW] | Have <b>400 idleverses</b>.
+You are inevitable [SHADOW] | Have <b>450 idleverses</b>.
+Away from this place [SHADOW] | Have <b>500 idleverses</b>.
+Everywhere at once [SHADOW] | Have <b>550 idleverses</b>.
+Reject reality, substitute your own [SHADOW] | Have <b>600 idleverses</b>.
+Lost your cosmic marbles [SHADOW] | Have <b>650 idleverses</b>.
+Greener on the other sides [SHADOW] | Have <b>700 idleverses</b>.
+It's big brain time [SHADOW] | Have <b>1 cortex baker</b>.
+Just my imagination [SHADOW] | Have <b>50 cortex bakers</b>.
+Now there's an idea [SHADOW] | Have <b>100 cortex bakers</b>.
+The organ that named itself [SHADOW] | Have <b>150 cortex bakers</b>.
+Gyrification [SHADOW] | Have <b>200 cortex bakers</b>.
+A trademarked portmanteau of "imagination" and "engineering" [SHADOW] | Have <b>250 cortex bakers</b>.
+Mindfulness [SHADOW] | Have <b>300 cortex bakers</b>.
+The 10% myth [SHADOW] | Have <b>350 cortex bakers</b>.
+Don't think about it too hard [SHADOW] | Have <b>400 cortex bakers</b>.
+Though fools seldom differ [SHADOW] | Have <b>450 cortex bakers</b>.
+Looking kind of dumb [SHADOW] | Have <b>500 cortex bakers</b>.
+A beautiful mind [SHADOW] | Have <b>550 cortex bakers</b>.
+Cardinal synapses [SHADOW] | Have <b>600 cortex bakers</b>.
+By will alone I set my mind in motion [SHADOW] | Have <b>650 cortex bakers</b>.
+Where is my mind [SHADOW] | Have <b>700 cortex bakers</b>.
+My own clone [SHADOW] | Have <b>1 You</b>.
+Multiplicity [SHADOW] | Have <b>50 You</b>.
+Born for this job [SHADOW] | Have <b>100 You</b>.
+Episode II [SHADOW] | Have <b>150 You</b>.
+Copy that [SHADOW] | Have <b>200 You</b>.
+Life finds a way [SHADOW] | Have <b>250 You</b>.
+Overcrowding [SHADOW] | Have <b>300 You</b>.
+Strength in numbers [SHADOW] | Have <b>350 You</b>.
+Army of me [SHADOW] | Have <b>400 You</b>.
+Know thyself [SHADOW] | Have <b>450 You</b>.<br><i>"Do you ever look at yourself in the mirror and wonder... What is going on inside your head?"</i>
+Didn't make sense not to live [SHADOW] | Have <b>500 You</b>.
+Genetic bottleneck [SHADOW] | Have <b>550 You</b>.
+Despite everything, it's still you [SHADOW] | Have <b>600 You</b>.
+Everyone everywhere all at once [SHADOW] | Have <b>650 You</b>.
+Introspection [SHADOW] | Have <b>700 You</b>.
+A sometimes food [SHADOW] | Bake <b>1 sexdecillion</b> cookies in one ascension.
+Not enough of a good thing [SHADOW] | Bake <b>100 sexdecillion</b> cookies in one ascension.
+Horn of plenty [SHADOW] | Bake <b>1 septendecillion</b> cookies in one ascension.
+Large and in charge [SHADOW] | Bake <b>100 septendecillion</b> cookies in one ascension.
+Absolutely stuffed [SHADOW] | Bake <b>1 octodecillion</b> cookies in one ascension.
+It's only wafer-thin [SHADOW] | Bake <b>100 octodecillion</b> cookies in one ascension.<br><i>"Just the one!"</i>
+Think big [SHADOW] | Bake <b>1 novemdecillion</b> cookies in one ascension.
+Hypersize me [SHADOW] | Bake <b>100 novemdecillion</b> cookies in one ascension.
+Max capacity [SHADOW] | Bake <b>1 vigintillion</b> cookies in one ascension.
+Fake it till you bake it [SHADOW] | Bake <b>100 vigintillion</b> cookies in one ascension.
+History in the baking [SHADOW] | Bake <b>1 unvigintillion</b> cookies in one ascension.
+What do you get for the baker who has everything [SHADOW] | Bake <b>100 unvigintillion</b> cookies in one ascension.
+Bottomless pit [SHADOW] | Bake <b>1 duovigintillion</b> cookies in one ascension.
+Rainy day fund [SHADOW] | Bake <b>100 duovigintillion</b> cookies in one ascension.
+And a little extra [SHADOW] | Bake <b>1 trevigintillion</b> cookies in one ascension.
+Bake him away, toys [SHADOW] | Bake <b>1 duodecillion</b> cookies per second.
+You're #1 so why try harder [SHADOW] | Bake <b>10 duodecillion</b> cookies per second.
+Haven't even begun to peak [SHADOW] | Bake <b>1 tredecillion</b> cookies per second.
+What did we even eat before these [SHADOW] | Bake <b>10 tredecillion</b> cookies per second.
+Heavy flow [SHADOW] | Bake <b>100 tredecillion</b> cookies per second.
+More you say? [SHADOW] | Bake <b>1 quattuordecillion</b> cookies per second.
+Keep going until I say stop [SHADOW] | Bake <b>10 quattuordecillion</b> cookies per second.
+But I didn't say stop, did I? [SHADOW] | Bake <b>1 quindecillion</b> cookies per second.
+With unrivaled fervor [SHADOW] | Bake <b>10 quindecillion</b> cookies per second.
+I am speed [SHADOW] | Bake <b>100 quindecillion</b> cookies per second.
+And on and on [SHADOW] | Bake <b>1 sexdecillion</b> cookies per second.
+Everything happens so much [SHADOW] | Bake <b>10 sexdecillion</b> cookies per second.
+I'll rest when I'm dead [SHADOW] | Bake <b>1 septendecillion</b> cookies per second.
+Can we get much higher [SHADOW] | Bake <b>10 septendecillion</b> cookies per second.
+Speed's the name of the game (no it's not it's called Cookie Clicker) [SHADOW] | Bake <b>100 septendecillion</b> cookies per second.
+Quincentennial and a half [SHADOW] | Have at least <b>550</b> of everything.
+Sexcentennial [SHADOW] | Have at least <b>600</b> of everything.
+Sexcentennial and a half [SHADOW] | Have at least <b>650</b> of everything.
+Septcentennial [SHADOW] | Have at least <b>700</b> of everything.
+Inherited prototype [SHADOW] | Make <b>10 octillion cookies</b> just from javascript consoles.
+A model of document object [SHADOW] | Make <b>100 decillion cookies</b> just from javascript consoles.
+First-class citizen [SHADOW] | Make <b>1 tredecillion cookies</b> just from javascript consoles.
+Fringe [SHADOW] | Make <b>100 octillion cookies</b> just from idleverses.
+Coherence [SHADOW] | Make <b>1 undecillion cookies</b> just from idleverses.
+Earth-616 [SHADOW] | Make <b>10 tredecillion cookies</b> just from idleverses.
+Positive thinking [SHADOW] | Make <b>1 nonillion cookies</b> just from cortex bakers.
+The thought that counts [SHADOW] | Make <b>10 undecillion cookies</b> just from cortex bakers.
+Unthinkable [SHADOW] | Make <b>100 tredecillion cookies</b> just from cortex bakers.
+Self-made [SHADOW] | Make <b>10 nonillion cookies</b> just from You.
+Reproducible results [SHADOW] | Make <b>100 undecillion cookies</b> just from You.
+That's all you [SHADOW] | Make <b>1 quattuordecillion cookies</b> just from You.
+O Fortuna [SHADOW] | Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
+The hunt is on [SHADOW] | Unlock <b>1 egg</b>.
+Egging on [SHADOW] | Unlock <b>7 eggs</b>.
+Mass Easteria [SHADOW] | Unlock <b>14 eggs</b>.
+Hide & seek champion [SHADOW] | Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
+Spooky cookies [SHADOW] | Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
+Coming to town [SHADOW] | Reach <b>Santa's 7th form</b>.
+All hail Santa [SHADOW] | Reach <b>Santa's final form</b>.
+Let it snow [SHADOW] | Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
+Oh deer [SHADOW] | Pop <b>1 reindeer</b>.
+Sleigh of hand [SHADOW] | Pop <b>50 reindeer</b>.
+Reindeer sleigher [SHADOW] | Pop <b>200 reindeer</b>.
+Eldeer [SHADOW] | Pop a reindeer <b>during an elder frenzy</b>.
+Olden days [SHADOW] | Find the <b>forgotten madeleine</b>.
+Lovely cookies [SHADOW] | Unlock <b>every Valentine-themed cookie</b>.
+Wrath cookie [SHADOW] | Click a <b>wrath cookie</b>.
+Grandmapocalypse [SHADOW] | Trigger the grandmapocalypse for the first time.
+Just plain lucky [SHADOW] | You have <b>1 chance in 1 million</b> every second of earning this achievement.
+Jellicles [SHADOW] | Own <b>10</b> kitten upgrades.
+You win a cookie [SHADOW] | This is for baking 100 trillion cookies and making it on the local news.
+Cookie-dunker [SHADOW] | Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.
+Here you go [SHADOW] | Tap this achievement's slot.
+Wrinkler poker [SHADOW] | Poke a wrinkler <b>50 times</b> without killing it.
