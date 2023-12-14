@@ -138,7 +138,7 @@ public class Main {
                 continue;
             }
         }
-        Collections.sort(ACHIEV_LIST);
+        //Collections.sort(ACHIEV_LIST);
         for (Achiev a : ACHIEV_LIST)
             export.println(a.name + "|" + a.desc);
         export.flush();

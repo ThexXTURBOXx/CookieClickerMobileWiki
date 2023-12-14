@@ -14,6 +14,23 @@ Don't stop me now|
 You can stop now|
 Cookies all the way down|
 Overdose|
+How?|
+The land of milk and cookies|
+He who controls the cookies controls the universe|
+Tonight on Hoarders|
+Are you gonna eat all that?|
+We're gonna need a bigger bakery|
+In the mouth of madness|
+Brought to you by the letter <div style="display:inline-block;background:url(img/cookicon.png);width:16px;height:16px;"></div>|
+The dreams in which I'm baking are the best I've ever had|
+Set for life|
+Panic! at Nabisco|
+Bursting at the seams|
+Just about full|
+Hungry for more|
+Feed me, Orteil|
+And then what?|
+I think it's safe to say you've got it made|
 Casual baking|
 Hardcore baking|
 Steady tasty stream|
@@ -24,19 +41,29 @@ Cookie pulsar|
 Cookie quasar|
 Oh hey, you're still here|
 Let's never bake again|
-Sacrifice|Ascend with <b>1 million</b> cookies baked.
-Oblivion|Ascend with <b>1 billion</b> cookies baked.
-From scratch|Ascend with <b>1 trillion</b> cookies baked.
-Clicktastic|
-Clickathlon|
-Clickolympics|
-Clickorama|
-Click|Have <b>1</b> cursor.
-Double-click|Have <b>2</b> cursors.
-Mouse wheel|Have <b>50</b> cursors.
-Of Mice and Men|Have <b>100</b> cursors.
-The Digital|Have <b>200</b> cursors.
-Just wrong|Sell a grandma.
+A world filled with cookies|
+When this baby hits 36 quadrillion cookies per hour|
+Fast and delicious|
+Cookiehertz: a really, really tasty hertz|
+Woops, you solved world hunger|
+Turbopuns|
+Faster menner|
+And yet you're still hungry|
+The Abakening|
+There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been?|
+Fast|
+Knead for speed|
+Well the cookies start coming and they don't stop coming|
+I don't know if you've noticed but all these icons are very slightly off-center|
+The proof of the cookie is in the baking|
+If it's worth doing, it's worth overdoing|
+Running with scissors|
+Rarefied air|
+Push it to the limit|
+Green cookies sleep furiously|
+Leisurely pace|
+Hypersonic|
+Gotta go fast|
 Grandma's cookies|
 Sloppy kisses|
 Retirement home|
@@ -61,46 +88,11 @@ Dimensional shift|
 Time warp|
 Alternate timeline|
 Rewriting history|
-One with everything|Have <b>at least 1</b> of every building.
-Mathematician|Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128).
-Base 10|Have at least <b>10 of the most expensive object, 20 of the second-most expensive, 30 of the next</b> and so on.
-Golden cookie|Click a <b>golden cookie</b>.
-Lucky cookie|Click <b>7 golden cookies</b>.
-A stroke of luck|Click <b>27 golden cookies</b>.
-Builder|Own <b>100</b> buildings.
-Architect|Own <b>500</b> buildings.
-Enhancer|Purchase <b>20</b> upgrades.
-Augmenter|Purchase <b>50</b> upgrades.
-Cookie-dunker|Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.
-Fortune|Click <b>77 golden cookies</b>.
-Elder nap|Appease the grandmatriarchs at least <b>once</b>.
-Elder slumber|Appease the grandmatriarchs at least <b>5 times</b>.
-Elder|Own at least <b>7</b> grandma types.
-Elder calm|Declare a covenant with the grandmatriarchs.
-Engineer|Own <b>1,000</b> buildings.
-Leprechaun|Click <b>777 golden cookies</b>.
-Black cat's paw|Click <b>7,777 golden cookies</b>.
-Nihilism|Ascend with <b>1 quadrillion</b> cookies baked.
 Antibatter|
 Quirky quarks|
 It does matter!|
-Upgrader|Purchase <b>100</b> upgrades.
-Centennial|Have at least <b>100</b> of everything.
-Clickasmic|
 Friend of the ancients|
 Ruler of the ancients|
-Wholesome|Unlock <b>100%</b> of your heavenly chips power.
-Just plain lucky|You have <b>1 chance in 1 million</b> every second of earning this achievement.
-Itchscratcher|Burst <b>1 wrinkler</b>.
-Wrinklesquisher|Burst <b>50 wrinklers</b>.
-Moistburster|Burst <b>200 wrinklers</b>.
-Spooky cookies|Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
-Coming to town|Reach <b>Santa's 7th form</b>.
-All hail Santa|Reach <b>Santa's final form</b>.
-Let it snow|Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
-Oh deer|Pop <b>1 reindeer</b>.
-Sleigh of hand|Pop <b>50 reindeer</b>.
-Reindeer sleigher|Pop <b>200 reindeer</b>.
 Perfected agriculture|
 Ultimate automation|
 Can you dig it|
@@ -113,27 +105,6 @@ Lone photon|
 Dazzling glimmer|
 Blinding flash|
 Unending glow|
-Lord of Constructs|Own <b>2,000</b> buildings.
-Lord of Progress|Purchase <b>200</b> upgrades.
-Bicentennial|Have at least <b>200</b> of everything.
-Lovely cookies|Unlock <b>every Valentine-themed cookie</b>.
-Centennial and a half|Have at least <b>150</b> of everything.
-You win a cookie|This is for baking 100 trillion cookies and making it on the local news.
-Click delegator|
-Gushing grannies|
-I hate manure|
-Never dig down|
-The incredible machine|
-And beyond|
-Magnum Opus|
-With strange eons|
-Spacetime jigamaroo|
-Supermassive|
-Praise the sun|
-Clickageddon|
-Clicknarok|
-Extreme polydactyly|Have <b>300</b> cursors.
-Dr. T|Have <b>400</b> cursors.
 The old never bothered me anyway|
 Homegrown|
 Technocracy|
@@ -144,15 +115,6 @@ Realm of the Mad God|
 Forever and ever|
 Walk the planck|
 Rise and shine|
-Dematerialize|Ascend with <b>1 quintillion</b> cookies baked.
-Nil zero zilch|Ascend with <b>1 sextillion</b> cookies baked.
-Transcendence|Ascend with <b>1 septillion</b> cookies baked.
-Obliterate|Ascend with <b>1 octillion</b> cookies baked.
-Negative void|Ascend with <b>1 nonillion</b> cookies baked.
-The hunt is on|Unlock <b>1 egg</b>.
-Egging on|Unlock <b>7 eggs</b>.
-Mass Easteria|Unlock <b>14 eggs</b>.
-Hide & seek champion|Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
 Pretty penny|
 Fit the bill|
 A loan in the dark|
@@ -168,28 +130,6 @@ The sorcerer's apprentice|
 Charms and enchantments|
 Curses and maledictions|
 Magic kingdom|
-Vested interest|
-New world order|
-Hocus pocus|
-Finger clickin' good|
-Panic at the bingo|
-Rake in the dough|
-Quarry on|
-Yes I love technology|
-Paid in full|
-Church of Cookiology|
-Too many rabbits, not enough hats|
-The most precious cargo|
-The Aureate|
-Ever more hideous|
-Be kind, rewind|
-Infinitesimal|
-A still more glorious dawn|
-Rebirth|Ascend at least once.
-Here you go|Tap this achievement's slot.
-Resurrection|Ascend <b>10 times</b>.
-Reincarnation|Ascend <b>100 times</b>.
-Endless cycle|Ascend <b>1,000 times</b>.
 The agemaster|
 To oldly go|
 Gardener extraordinaire|
@@ -204,32 +144,6 @@ A place lost in time|
 Heat death|
 Microcosm|
 Bright future|
-How?|
-The land of milk and cookies|
-He who controls the cookies controls the universe|
-Tonight on Hoarders|
-Are you gonna eat all that?|
-We're gonna need a bigger bakery|
-In the mouth of madness|
-Brought to you by the letter <div style="display:inline-block;background:url(img/cookicon.png);width:16px;height:16px;"></div>|
-A world filled with cookies|
-When this baby hits 36 quadrillion cookies per hour|
-Fast and delicious|
-Cookiehertz: a really, really tasty hertz|
-Woops, you solved world hunger|
-Turbopuns|
-Faster menner|
-And yet you're still hungry|
-The Abakening|
-There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been?|
-Fast|
-Bicentennial and a half|Have at least <b>250</b> of everything.
-Clickastrophe|
-Clickataclysm|
-Thumbs, phalanges, metacarpals|Have <b>500</b> cursors.
-Polymath|Own <b>300</b> upgrades and <b>3,000</b> buildings.
-The elder scrolls|Own a combined <b>777</b> grandmas and cursors.
-To crumbs, you say?|Ascend with <b>1 decillion</b> cookies baked.
 Seedy business|
 Freak fracking|
 Modern times|
@@ -242,18 +156,6 @@ Forbidden zone|
 cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com|
 Scientists baffled everywhere|
 Harmony of the spheres|
-Last Chance to See|Burst the near-extinct <b>shiny wrinkler</b>.
-Early bird|Click a golden cookie <b>less than 1 second after it spawns</b>.
-Fading luck|Click a golden cookie <b>less than 1 second before it dies</b>.
-Eldeer|Pop a reindeer <b>during an elder frenzy</b>.
-Tricentennial|Have at least <b>300</b> of everything.
-Knead for speed|
-Well the cookies start coming and they don't stop coming|
-I don't know if you've noticed but all these icons are very slightly off-center|
-The proof of the cookie is in the baking|
-If it's worth doing, it's worth overdoing|
-The dreams in which I'm baking are the best I've ever had|
-Set for life|
 You and the beanstalk|
 Romancing the stone|
 Ex machina|
@@ -266,20 +168,6 @@ H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠͘ͅ�
 Way back then|
 Exotic matter|
 At the end of the tunnel|
-Click (starring Adam Sandler)|
-Frantiquities|
-Overgrowth|
-Sedimentalism|
-Labor of love|
-Reverse funnel system|
-Thus spoke you|
-Manafest destiny|
-Neither snow nor rain nor heat nor gloom of night|
-I've got the Midas touch|
-Which eternal lie|
-D&eacute;j&agrave; vu|
-Powers of Ten|
-Now the dark days are gone|
 Lucked out|
 What are the odds|
 Grandma needs a new pair of shoes|
@@ -288,10 +176,6 @@ As luck would have it|
 Ever in your favor|
 Be a lady|
 Dicey business|
-Fingers crossed|
-Just a statistic|
-Murphy's wild guess|
-The ultimate clickdown|
 Aged well|
 101st birthday|
 Defense of the ancients|
@@ -321,31 +205,6 @@ Groundhog day|
 A matter of perspective|
 Optical illusion|
 Jackpot|
-Running with scissors|
-Rarefied air|
-Push it to the limit|
-Green cookies sleep furiously|
-Panic! at Nabisco|
-Bursting at the seams|
-Just about full|
-Hungry for more|
-All the other kids with the pumped up clicks|
-One...more...click...|
-You get nothing|Ascend with <b>1 undecillion</b> cookies baked.
-Humble rebeginnings|Ascend with <b>1 duodecillion</b> cookies baked.
-The end of the world|Ascend with <b>1 tredecillion</b> cookies baked.
-Oh, you're back|Ascend with <b>1 quattuordecillion</b> cookies baked.
-Lazarus|Ascend with <b>1 quindecillion</b> cookies baked.
-Leisurely pace|
-Hypersonic|
-Feed me, Orteil|
-And then what?|
-Tricentennial and a half|Have at least <b>350</b> of everything.
-Quadricentennial|Have at least <b>400</b> of everything.
-Quadricentennial and a half|Have at least <b>450</b> of everything.
-Quincentennial|Have at least <b>500</b> of everything.
-When the cookies ascend just right|Ascend with exactly <b>1 trillion cookies</b>.
-With her finger and her thumb|Have <b>600</b> cursors.
 But wait 'til you get older|
 Sharpest tool in the shed|
 Hey now, you're a rock|
@@ -371,13 +230,214 @@ An example of recursion|
 For more information on this achievement, please refer to its title|
 I'm so meta, even this achievement|
 Never get bored|
+Click delegator|
+Finger clickin' good|
+Click (starring Adam Sandler)|
+Gushing grannies|
+Panic at the bingo|
+Frantiquities|
+I hate manure|
+Rake in the dough|
+Overgrowth|
+Never dig down|
+Quarry on|
+Sedimentalism|
+The incredible machine|
+Yes I love technology|
+Labor of love|
+Vested interest|
+Paid in full|
+Reverse funnel system|
+New world order|
+Church of Cookiology|
+Thus spoke you|
+Hocus pocus|
+Too many rabbits, not enough hats|
+Manafest destiny|
+And beyond|
+The most precious cargo|
+Neither snow nor rain nor heat nor gloom of night|
+Magnum Opus|
+The Aureate|
+I've got the Midas touch|
+With strange eons|
+Ever more hideous|
+Which eternal lie|
+Spacetime jigamaroo|
+Be kind, rewind|
+D&eacute;j&agrave; vu|
+Supermassive|
+Infinitesimal|
+Powers of Ten|
+Praise the sun|
+A still more glorious dawn|
+Now the dark days are gone|
+Fingers crossed|
+Just a statistic|
+Murphy's wild guess|
 The needs of the many|
 Eating its own|
 We must go deeper|
-Gotta go fast|
-I think it's safe to say you've got it made|
-Renaissance baker|Own <b>400</b> upgrades and <b>4,000</b> buildings.
+Click|Have <b>1</b> cursor.
+Double-click|Have <b>2</b> cursors.
+Mouse wheel|Have <b>50</b> cursors.
+Of Mice and Men|Have <b>100</b> cursors.
+The Digital|Have <b>200</b> cursors.
+Extreme polydactyly|Have <b>300</b> cursors.
+Dr. T|Have <b>400</b> cursors.
+Thumbs, phalanges, metacarpals|Have <b>500</b> cursors.
+With her finger and her thumb|Have <b>600</b> cursors.
+Gotta hand it to you|Have <b>700 cursors</b>.
+The devil's workshop|Have <b>800 cursors</b>.
+All on deck|Have <b>900 cursors</b>.
+A round of applause|Have <b>1,000 cursors</b>.
+Clicktastic|
+Clickathlon|
+Clickolympics|
+Clickorama|
+Clickasmic|
+Clickageddon|
+Clicknarok|
+Clickastrophe|
+Clickataclysm|
+The ultimate clickdown|
+All the other kids with the pumped up clicks|
+One...more...click...|
+Clickety split|
+Ain't that a click in the head|
+What's not clicking|
+Centennial|Have at least <b>100</b> of everything.
+Centennial and a half|Have at least <b>150</b> of everything.
+Bicentennial|Have at least <b>200</b> of everything.
+Bicentennial and a half|Have at least <b>250</b> of everything.
+Tricentennial|Have at least <b>300</b> of everything.
+Tricentennial and a half|Have at least <b>350</b> of everything.
+Quadricentennial|Have at least <b>400</b> of everything.
+Quadricentennial and a half|Have at least <b>450</b> of everything.
+Quincentennial|Have at least <b>500</b> of everything.
+Golden cookie|Click a <b>golden cookie</b>.
+Lucky cookie|Click <b>7 golden cookies</b>.
+A stroke of luck|Click <b>27 golden cookies</b>.
+Fortune|Click <b>77 golden cookies</b>.
+Leprechaun|Click <b>777 golden cookies</b>.
+Black cat's paw|Click <b>7,777 golden cookies</b>.
+Just wrong|Sell a grandma.
+Elder|Own at least <b>7</b> grandma types.
 Veteran|Own at least <b>14</b> grandma types.
+Elder nap|Appease the grandmatriarchs at least <b>once</b>.
+Elder slumber|Appease the grandmatriarchs at least <b>5 times</b>.
+Elder calm|Declare a covenant with the grandmatriarchs.
+Itchscratcher|Burst <b>1 wrinkler</b>.
+Wrinklesquisher|Burst <b>50 wrinklers</b>.
+Moistburster|Burst <b>200 wrinklers</b>.
+Last Chance to See|Burst the near-extinct <b>shiny wrinkler</b>.
+Early bird|Click a golden cookie <b>less than 1 second after it spawns</b>.
+Fading luck|Click a golden cookie <b>less than 1 second before it dies</b>.
+Builder|Own <b>100</b> buildings.
+Architect|Own <b>500</b> buildings.
+Engineer|Own <b>1,000</b> buildings.
+Lord of Constructs|Own <b>2,000</b> buildings.
+Grand design|Own <b>5,000 buildings</b>.
+Ecumenopolis|Own <b>7,500 buildings</b>.
+Myriad|Own <b>10,000 buildings</b>.
+Enhancer|Purchase <b>20</b> upgrades.
+Augmenter|Purchase <b>50</b> upgrades.
+Upgrader|Purchase <b>100</b> upgrades.
+Lord of Progress|Purchase <b>200</b> upgrades.
+The full picture|Purchase <b>300 upgrades</b>.
+When there's nothing left to add|Purchase <b>400 upgrades</b>.
+Kaizen|Purchase <b>500 upgrades</b>.
+Beyond quality|Purchase <b>600 upgrades</b>.
+Oft we mar what's well|Purchase <b>700 upgrades</b>.
+Polymath|Own <b>300</b> upgrades and <b>3,000</b> buildings.
+Renaissance baker|Own <b>400</b> upgrades and <b>4,000</b> buildings.
+The elder scrolls|Own a combined <b>777</b> grandmas and cursors.
+One with everything|Have <b>at least 1</b> of every building.
+Mathematician|Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128).
+Base 10|Have at least <b>10 of the most expensive object, 20 of the second-most expensive, 30 of the next</b> and so on.
+Rebirth|Ascend at least once.
+Resurrection|Ascend <b>10 times</b>.
+Reincarnation|Ascend <b>100 times</b>.
+Endless cycle|Ascend <b>1,000 times</b>.
+Sacrifice|Ascend with <b>1 million</b> cookies baked.
+Oblivion|Ascend with <b>1 billion</b> cookies baked.
+From scratch|Ascend with <b>1 trillion</b> cookies baked.
+Nihilism|Ascend with <b>1 quadrillion</b> cookies baked.
+Dematerialize|Ascend with <b>1 quintillion</b> cookies baked.
+Nil zero zilch|Ascend with <b>1 sextillion</b> cookies baked.
+Transcendence|Ascend with <b>1 septillion</b> cookies baked.
+Obliterate|Ascend with <b>1 octillion</b> cookies baked.
+Negative void|Ascend with <b>1 nonillion</b> cookies baked.
+To crumbs, you say?|Ascend with <b>1 decillion</b> cookies baked.
+You get nothing|Ascend with <b>1 undecillion</b> cookies baked.
+Humble rebeginnings|Ascend with <b>1 duodecillion</b> cookies baked.
+The end of the world|Ascend with <b>1 tredecillion</b> cookies baked.
+Oh, you're back|Ascend with <b>1 quattuordecillion</b> cookies baked.
+Lazarus|Ascend with <b>1 quindecillion</b> cookies baked.
+Smurf account|Ascend with <b>1 sexdecillion</b> cookies baked.
+If at first you don't succeed|Ascend with <b>1 septendecillion</b> cookies baked.
+No more room in hell|Ascend with <b>1 octodecillion cookies</b> baked.
+When the cookies ascend just right|Ascend with exactly <b>1 trillion cookies</b>.
+Wholesome|Unlock <b>100%</b> of your heavenly chips power.
+Okay boomer|
+They moistly come at night|
+And now you're even older|
+Overripe|
+In the green|
+It's grown on you|
+Au naturel|
+Rock on|
+Mountain out of a molehill, but like in a good way|
+Don't let the walls cave in on you|
+Dirt-rich|
+Self-manmade man|
+The wheels of progress|
+Replaced by robots|
+Bots build bots|
+Checks out|
+That's rich|
+Financial prodigy|
+Getting that bag|
+Living on a prayer|
+Preaches and cream|
+And I will pray to a big god|
+The leader is good, the leader is great|
+Higitus figitus migitus mum|
+Magic thinking|
+Shosple Colupis|
+You don't think they could've used... it couldn't have been ma-|
+The incredible journey|
+Is there life on Mars?|
+False vacuum|
+Signed, sealed, delivered|
+Just a phase|
+Bad chemistry|
+Metallic taste|
+Sugar, spice, and everything nice|
+Don't let me leave, Murph|
+Reduced to gibbering heaps|
+Swiss cheese|
+Not even remotely close to Kansas anymore|
+Caveman to cosmos|
+Back already?|
+But the future refused to change|
+I only meant to stay a while|
+Particular tastes|
+Nuclear throne|
+What's the dark matter with you|
+Not 20 years away forever|
+A light snack|
+Making light of the situation|
+Enlightenment|
+Bright side of the Moon|
+Tempting fate|
+Flip a cookie. Chips, I win. Crust, you lose.|
+Never tell me the odds|
+Riding the Mersenne twister|
+Tautological|
+In and of itself|
+Blowing an Apollonian gasket|
+Divide and conquer|
 F12|
 Variable success|
 No comments|
@@ -389,61 +449,10 @@ Inconsolable|
 Closure|
 Dude what if we're all living in a simulation like what if we're all just code on a computer somewhere|
 Taking the back streets|
-Inherited prototype|
-A model of document object|
-First-class citizen|
-Bake him away, toys|
-You're #1 so why try harder|
-Haven't even begun to peak|
-A sometimes food|
-Not enough of a good thing|
-Horn of plenty|
-Smurf account|Ascend with <b>1 sexdecillion</b> cookies baked.
-If at first you don't succeed|Ascend with <b>1 septendecillion</b> cookies baked.
-O Fortuna|Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
-Jellicles|Own <b>10</b> kitten upgrades.
-Quincentennial and a half|Have at least <b>550</b> of everything.
-What did we even eat before these|
-Heavy flow|
-More you say?|
-Large and in charge|
-Absolutely stuffed|
-It's only wafer-thin|
-Clickety split|
-Gotta hand it to you|Have <b>700 cursors</b>.
-Okay boomer|
-Overripe|
-Rock on|
-Self-manmade man|
-Checks out|
-Living on a prayer|
-Higitus figitus migitus mum|
-The incredible journey|
-Just a phase|
-Don't let me leave, Murph|
-Caveman to cosmos|
-Particular tastes|
-A light snack|
-Tempting fate|
-Tautological|
 Curly braces|
-Olden days|Find the <b>forgotten madeleine</b>.
-The devil's workshop|Have <b>800 cursors</b>.
-In the green|
-Mountain out of a molehill, but like in a good way|
-The wheels of progress|
-That's rich|
-Preaches and cream|
-Magic thinking|
-Is there life on Mars?|
-Bad chemistry|
-Reduced to gibbering heaps|
-Back already?|
-Nuclear throne|
-Making light of the situation|
-Flip a cookie. Chips, I win. Crust, you lose.|
-In and of itself|
 Duck typing|
+Get with the program|
+Pebcakes|
 They'll never know what hit 'em|
 Well-versed|
 Ripe for the picking|
@@ -457,20 +466,8 @@ You are inevitable|
 Away from this place|
 Everywhere at once|
 Reject reality, substitute your own|
-Fringe|
-Coherence|
-Earth-616|
-Grand design|Own <b>5,000 buildings</b>.
-Ecumenopolis|Own <b>7,500 buildings</b>.
-The full picture|Purchase <b>300 upgrades</b>.
-When there's nothing left to add|Purchase <b>400 upgrades</b>.
-Sexcentennial|Have at least <b>600</b> of everything.
-Keep going until I say stop|
-But I didn't say stop, did I?|
-With unrivaled fervor|
-Think big|
-Hypersize me|
-Max capacity|
+Lost your cosmic marbles|
+Greener on the other sides|
 It's big brain time|
 Just my imagination|
 Now there's an idea|
@@ -484,49 +481,8 @@ Though fools seldom differ|
 Looking kind of dumb|
 A beautiful mind|
 Cardinal synapses|
-Positive thinking|
-The thought that counts|
-Unthinkable|
-They moistly come at night|
-It's grown on you|
-Don't let the walls cave in on you|
-Replaced by robots|
-Financial prodigy|
-And I will pray to a big god|
-Shosple Colupis|
-False vacuum|
-Metallic taste|
-Swiss cheese|
-But the future refused to change|
-What's the dark matter with you|
-Enlightenment|
-Never tell me the odds|
-Blowing an Apollonian gasket|
-Get with the program|
-Lost your cosmic marbles|
 By will alone I set my mind in motion|
-Ain't that a click in the head|
-Sexcentennial and a half|Have at least <b>650</b> of everything.
-I am speed|
-And on and on|
-Fake it till you bake it|
-History in the baking|
-Myriad|Own <b>10,000 buildings</b>.
-Kaizen|Purchase <b>500 upgrades</b>.
-Beyond quality|Purchase <b>600 upgrades</b>.
-Everything happens so much|
-I'll rest when I'm dead|
-What do you get for the baker who has everything|
-Bottomless pit|
-Can we get much higher|
-Speed's the name of the game (no it's not it's called Cookie Clicker)|
-Rainy day fund|
-And a little extra|
-Grandmapocalypse|Trigger the grandmapocalypse for the first time.
-Wrath cookie|Click a <b>wrath cookie</b>.
-No more room in hell|Ascend with <b>1 octodecillion cookies</b> baked.
-Wrinkler poker|Poke a wrinkler <b>50 times</b> without killing it.
-Septcentennial|Have at least <b>700</b> of everything.
+Where is my mind|
 My own clone|
 Multiplicity|
 Born for this job|
@@ -541,29 +497,73 @@ Didn't make sense not to live|
 Genetic bottleneck|
 Despite everything, it's still you|
 Everyone everywhere all at once|
+Introspection|
+A sometimes food|
+Not enough of a good thing|
+Horn of plenty|
+Large and in charge|
+Absolutely stuffed|
+It's only wafer-thin|
+Think big|
+Hypersize me|
+Max capacity|
+Fake it till you bake it|
+History in the baking|
+What do you get for the baker who has everything|
+Bottomless pit|
+Rainy day fund|
+And a little extra|
+Bake him away, toys|
+You're #1 so why try harder|
+Haven't even begun to peak|
+What did we even eat before these|
+Heavy flow|
+More you say?|
+Keep going until I say stop|
+But I didn't say stop, did I?|
+With unrivaled fervor|
+I am speed|
+And on and on|
+Everything happens so much|
+I'll rest when I'm dead|
+Can we get much higher|
+Speed's the name of the game (no it's not it's called Cookie Clicker)|
+Quincentennial and a half|Have at least <b>550</b> of everything.
+Sexcentennial|Have at least <b>600</b> of everything.
+Sexcentennial and a half|Have at least <b>650</b> of everything.
+Septcentennial|Have at least <b>700</b> of everything.
+Inherited prototype|
+A model of document object|
+First-class citizen|
+Fringe|
+Coherence|
+Earth-616|
+Positive thinking|
+The thought that counts|
+Unthinkable|
 Self-made|
 Reproducible results|
 That's all you|
-And now you're even older|
-Au naturel|
-Dirt-rich|
-Bots build bots|
-Getting that bag|
-The leader is good, the leader is great|
-You don't think they could've used... it couldn't have been ma-|
-Signed, sealed, delivered|
-Sugar, spice, and everything nice|
-Not even remotely close to Kansas anymore|
-I only meant to stay a while|
-Not 20 years away forever|
-Bright side of the Moon|
-Riding the Mersenne twister|
-Divide and conquer|
-Pebcakes|
-Greener on the other sides|
-Where is my mind|
-Introspection|
-Oft we mar what's well|Purchase <b>700 upgrades</b>.
-What's not clicking|
-All on deck|Have <b>900 cursors</b>.
-A round of applause|Have <b>1,000 cursors</b>.
+O Fortuna|Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
+The hunt is on|Unlock <b>1 egg</b>.
+Egging on|Unlock <b>7 eggs</b>.
+Mass Easteria|Unlock <b>14 eggs</b>.
+Hide & seek champion|Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
+Spooky cookies|Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
+Coming to town|Reach <b>Santa's 7th form</b>.
+All hail Santa|Reach <b>Santa's final form</b>.
+Let it snow|Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
+Oh deer|Pop <b>1 reindeer</b>.
+Sleigh of hand|Pop <b>50 reindeer</b>.
+Reindeer sleigher|Pop <b>200 reindeer</b>.
+Eldeer|Pop a reindeer <b>during an elder frenzy</b>.
+Olden days|Find the <b>forgotten madeleine</b>.
+Lovely cookies|Unlock <b>every Valentine-themed cookie</b>.
+Wrath cookie|Click a <b>wrath cookie</b>.
+Grandmapocalypse|Trigger the grandmapocalypse for the first time.
+Just plain lucky|You have <b>1 chance in 1 million</b> every second of earning this achievement.
+Jellicles|Own <b>10</b> kitten upgrades.
+You win a cookie|This is for baking 100 trillion cookies and making it on the local news.
+Cookie-dunker|Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.
+Here you go|Tap this achievement's slot.
+Wrinkler poker|Poke a wrinkler <b>50 times</b> without killing it.

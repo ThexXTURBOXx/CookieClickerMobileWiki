@@ -14,6 +14,23 @@ Don't stop me now | Bake <b>100 quintillion</b> cookies in one ascension.
 You can stop now | Bake <b>1 sextillion</b> cookies in one ascension.
 Cookies all the way down | Bake <b>100 sextillion</b> cookies in one ascension.
 Overdose | Bake <b>1 septillion</b> cookies in one ascension.
+How? | Bake <b>100 septillion</b> cookies in one ascension.
+The land of milk and cookies | Bake <b>1 octillion</b> cookies in one ascension.
+He who controls the cookies controls the universe | Bake <b>100 octillion</b> cookies in one ascension.<br><i>"The milk must flow!"</i>
+Tonight on Hoarders | Bake <b>1 nonillion</b> cookies in one ascension.
+Are you gonna eat all that? | Bake <b>100 nonillion</b> cookies in one ascension.
+We're gonna need a bigger bakery | Bake <b>1 decillion</b> cookies in one ascension.
+In the mouth of madness | Bake <b>100 decillion</b> cookies in one ascension.<br><i>"A cookie is just what we tell each other it is."</i>
+Brought to you by the letter <div style="display:inline-block;background:url(img/cookicon.png);width:16px;height:16px;"></div> | 
+The dreams in which I'm baking are the best I've ever had | Bake <b>100 undecillion </b>cookies in one ascension.
+Set for life | Bake <b>1 duodecillion </b>cookies in one ascension.
+Panic! at Nabisco | Bake <b>100 duodecillion</b> cookies in one ascension.
+Bursting at the seams | Bake <b>1 tredecillion</b> cookies in one ascension.
+Just about full | Bake <b>100 tredecillion</b> cookies in one ascension.
+Hungry for more | Bake <b>1 quattuordecillion</b> cookies in one ascension.
+Feed me, Orteil | Bake <b>100 quattuordecillion</b> cookies in one ascension.
+And then what? | Bake <b>1 quindecillion</b> cookies in one ascension.
+I think it's safe to say you've got it made | Bake <b>100 quindecillion</b> cookies in one ascension.
 Casual baking | Bake <b>1</b> cookie per second.
 Hardcore baking | Bake <b>10</b> cookies per second.
 Steady tasty stream | Bake <b>100</b> cookies per second.
@@ -24,19 +41,29 @@ Cookie pulsar | Bake <b>10 million</b> cookies per second.
 Cookie quasar | Bake <b>100 million</b> cookies per second.
 Oh hey, you're still here | Bake <b>1 billion</b> cookies per second.
 Let's never bake again | Bake <b>10 billion</b> cookies per second.
-Sacrifice | Ascend with <b>1 million</b> cookies baked.
-Oblivion | Ascend with <b>1 billion</b> cookies baked.
-From scratch | Ascend with <b>1 trillion</b> cookies baked.
-Clicktastic | Make <b>1,000 cookies</b> from <a href="/wiki/Big_Cookie" title="Big Cookie">clicking</a>.
-Clickathlon | Make <b>100,000 cookies</b> from clicking.
-Clickolympics | Make <b>10 million cookies</b> from clicking.
-Clickorama | Make <b>1 billion cookies</b> from clicking.
-Click | Have <b>1</b> cursor.
-Double-click | Have <b>2</b> cursors.
-Mouse wheel | Have <b>50</b> cursors.
-Of Mice and Men | Have <b>100</b> cursors.
-The Digital | Have <b>200</b> cursors.
-Just wrong | Sell a grandma.
+A world filled with cookies | Bake <b>1 trillion</b> cookies per second.
+When this baby hits 36 quadrillion cookies per hour | Bake <b>10 trillion</b> cookies per second.
+Fast and delicious | Bake <b>100 trillion</b> cookies per second.
+Cookiehertz: a really, really tasty hertz | 
+Woops, you solved world hunger | Bake <b>10 quadrillion</b> cookies per second.
+Turbopuns | Bake <b>1 quintillion</b> cookies per second.<br><i>"Mother Nature will be like "slowwwww dowwwwwn"."</i>
+Faster menner | Bake <b>10 quintillion</b> cookies per second.
+And yet you're still hungry | Bake <b>100 quintillion</b> cookies per second.
+The Abakening | Bake <b>1 sextillion</b> cookies per second.
+There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been? | 
+Fast | Bake <b>1 septillion</b> cookies per second.<br><i>"Wow!"</i>
+Knead for speed | Bake <b>10 septillion</b> cookies per second.<br><i>"How did we not make that one yet?"</i>
+Well the cookies start coming and they don't stop coming | Bake <b>100 septillion</b> cookies per second.<br><i>"Didn't make sense not to click for fun<b>."</b></i>
+I don't know if you've noticed but all these icons are very slightly off-center | Bake <b>1 octillion</b> cookies per second.
+The proof of the cookie is in the baking | Bake <b>10 octillion</b> cookies per second.<br><i>"How can you have any cookies if you don't bake your dough?"</i>
+If it's worth doing, it's worth overdoing | Bake <b>1 nonillion</b> cookies per second.
+Running with scissors | Bake <b>10 nonillion</b> cookies per second.
+Rarefied air | Bake <b>100 nonillion</b> cookies per second.
+Push it to the limit | Bake <b>1 decillion</b> cookies per second.
+Green cookies sleep furiously | Bake <b>10 decillion</b> cookies per second.
+Leisurely pace | Bake <b>1 undecillion</b> cookies per second.
+Hypersonic | Bake <b>10 undecillion</b> cookies per second.
+Gotta go fast | Bake <b>100 undecillion</b> cookies per second.
 Grandma's cookies | Have <b>1 grandma</b>.
 Sloppy kisses | Have <b>50 grandmas</b>.
 Retirement home | Have <b>100 grandmas</b>.
@@ -61,46 +88,11 @@ Dimensional shift | Have <b>100 portals</b>.
 Time warp | Have <b>1 time machine</b>.
 Alternate timeline | Have <b>50 time machines</b>.
 Rewriting history | Have <b>100 time machines</b>.
-One with everything | Have <b>at least 1</b> of every building.
-Mathematician | Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128).
-Base 10 | Have at least <b>10 of the most expensive object, 20 of the second-most expensive, 30 of the next</b> and so on.
-Golden cookie | Click a <b>golden cookie</b>.
-Lucky cookie | Click <b>7 golden cookies</b>.
-A stroke of luck | Click <b>27 golden cookies</b>.
-Builder | Own <b>100</b> buildings.
-Architect | Own <b>500</b> buildings.
-Enhancer | Purchase <b>20</b> upgrades.
-Augmenter | Purchase <b>50</b> upgrades.
-Cookie-dunker | Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.
-Fortune | Click <b>77 golden cookies</b>.
-Elder nap | Appease the grandmatriarchs at least <b>once</b>.
-Elder slumber | Appease the grandmatriarchs at least <b>5 times</b>.
-Elder | Own at least <b>7</b> grandma types.
-Elder calm | Declare a covenant with the grandmatriarchs.
-Engineer | Own <b>1,000</b> buildings.
-Leprechaun | Click <b>777 golden cookies</b>.
-Black cat's paw | Click <b>7,777 golden cookies</b>.
-Nihilism | Ascend with <b>1 quadrillion</b> cookies baked.
 Antibatter | Have <b>1 antimatter condenser</b>.
 Quirky quarks | Have <b>50 antimatter condensers</b>.
 It does matter! | Have <b>100 antimatter condensers</b>.
-Upgrader | Purchase <b>100</b> upgrades.
-Centennial | Have at least <b>100</b> of everything.
-Clickasmic | Make <b>100 billion cookies</b> from clicking.
 Friend of the ancients | Have <b>150 grandmas</b>.
 Ruler of the ancients | Have <b>200 grandmas</b>.
-Wholesome | Unlock <b>100%</b> of your heavenly chips power.
-Just plain lucky | You have <b>1 chance in 1 million</b> every second of earning this achievement.
-Itchscratcher | Burst <b>1 wrinkler</b>.
-Wrinklesquisher | Burst <b>50 wrinklers</b>.
-Moistburster | Burst <b>200 wrinklers</b>.
-Spooky cookies | Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
-Coming to town | Reach <b>Santa's 7th form</b>.
-All hail Santa | Reach <b>Santa's final form</b>.
-Let it snow | Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
-Oh deer | Pop <b>1 reindeer</b>.
-Sleigh of hand | Pop <b>50 reindeer</b>.
-Reindeer sleigher | Pop <b>200 reindeer</b>.
 Perfected agriculture | Have <b>150 farms</b>.
 Ultimate automation | Have <b>150 factories</b>.
 Can you dig it | Have <b>150 mines</b>.
@@ -113,27 +105,6 @@ Lone photon | Have <b>1 prism</b>.
 Dazzling glimmer | Have <b>50 prisms</b>.
 Blinding flash | Have <b>100 prisms</b>.
 Unending glow | Have <b>150 prisms</b>.
-Lord of Constructs | Own <b>2,000</b> buildings.
-Lord of Progress | Purchase <b>200</b> upgrades.
-Bicentennial | Have at least <b>200</b> of everything.
-Lovely cookies | Unlock <b>every Valentine-themed cookie</b>.
-Centennial and a half | Have at least <b>150</b> of everything.
-You win a cookie | This is for baking 100 trillion cookies and making it on the local news.
-Click delegator | Make <b>10 quintillion cookies</b> just from cursors.
-Gushing grannies | Make <b>10 quintillion cookies</b> just from grandmas.
-I hate manure | Make <b>100 trillion cookies</b> just from farms.
-Never dig down | Make <b>1 quadrillion cookies</b> just from mines.
-The incredible machine | Make <b>10 quadrillion cookies</b> just from factories.
-And beyond | Make <b>100 quintillion cookies</b> just from shipments.
-Magnum Opus | Make <b>1 sextillion cookies</b> just from alchemy labs.
-With strange eons | Make <b>10 sextillion cookies</b> just from portals.
-Spacetime jigamaroo | Make <b>100 sextillion cookies</b> just from time machines.
-Supermassive | Make <b>1 septillion cookies</b> just from antimatter condensers.
-Praise the sun | Make <b>10 septillion cookies</b> just from prisms.
-Clickageddon | Make <b>10 trillion cookies</b> from clicking.
-Clicknarok | Make <b>1 quadrillion cookies</b> from clicking.
-Extreme polydactyly | Have <b>300</b> cursors.
-Dr. T | Have <b>400</b> cursors.
 The old never bothered me anyway | Have <b>250 grandmas</b>.
 Homegrown | Have <b>200 farms</b>.
 Technocracy | Have <b>200 factories</b>.
@@ -144,15 +115,6 @@ Realm of the Mad God | Have <b>200 portals</b>.
 Forever and ever | Have <b>200 time machines</b>.
 Walk the planck | Have <b>200 antimatter condensers</b>.
 Rise and shine | Have <b>200 prisms</b>.
-Dematerialize | Ascend with <b>1 quintillion</b> cookies baked.
-Nil zero zilch | Ascend with <b>1 sextillion</b> cookies baked.
-Transcendence | Ascend with <b>1 septillion</b> cookies baked.
-Obliterate | Ascend with <b>1 octillion</b> cookies baked.
-Negative void | Ascend with <b>1 nonillion</b> cookies baked.
-The hunt is on | Unlock <b>1 egg</b>.
-Egging on | Unlock <b>7 eggs</b>.
-Mass Easteria | Unlock <b>14 eggs</b>.
-Hide & seek champion | Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
 Pretty penny | Have <b>1 bank</b>.
 Fit the bill | Have <b>50 banks</b>.
 A loan in the dark | Have <b>100 banks</b>.
@@ -168,28 +130,6 @@ The sorcerer's apprentice | Have <b>50 wizard towers</b>.
 Charms and enchantments | Have <b>100 wizard towers</b>.
 Curses and maledictions | Have <b>150 wizard towers</b>.
 Magic kingdom | Have <b>200 wizard towers</b>.
-Vested interest | Make <b>100 quadrillion cookies</b> just from banks.
-New world order | Make <b>1 quintillion cookies</b> just from temples.
-Hocus pocus | Make <b>10 quintillion cookies</b> just from wizard towers.
-Finger clickin' good | Make <b>100 septillion cookies</b> just from cursors.
-Panic at the bingo | Make <b>100 septillion cookies</b> just from grandmas.
-Rake in the dough | Make <b>1 sextillion cookies</b> just from farms.
-Quarry on | Make <b>10 sextillion cookies</b> just from mines.
-Yes I love technology | Make <b>100 sextillion cookies</b> just from factories.
-Paid in full | Make <b>1 septillion cookies</b> just from banks.
-Church of Cookiology | Make <b>10 septillion cookies</b> just from temples.
-Too many rabbits, not enough hats | Make <b>100 septillion cookies</b> just from wizard towers.
-The most precious cargo | Make <b>1 octillion cookies</b> just from shipments.
-The Aureate | Make <b>10 octillion cookies</b> just from alchemy labs.
-Ever more hideous | Make <b>100 octillion cookies</b> just from portals.
-Be kind, rewind | Make <b>1 nonillion cookies</b> just from time machines.
-Infinitesimal | Make <b>10 nonillion cookies</b> just from antimatter condensers.
-A still more glorious dawn | Make <b>100 nonillion cookies</b> just from prisms.
-Rebirth | Ascend at least once.
-Here you go | Tap this achievement's slot.
-Resurrection | Ascend <b>10 times</b>.
-Reincarnation | Ascend <b>100 times</b>.
-Endless cycle | Ascend <b>1,000 times</b>.
 The agemaster | Have <b>300 grandmas</b>.
 To oldly go | Have <b>350 grandmas</b>.
 Gardener extraordinaire | Have <b>250 farms</b>.
@@ -204,32 +144,6 @@ A place lost in time | Have <b>250 portals</b>.
 Heat death | Have <b>250 time machines</b>.
 Microcosm | Have <b>250 antimatter condensers</b>.
 Bright future | Have <b>250 prisms</b>.
-How? | Bake <b>100 septillion</b> cookies in one ascension.
-The land of milk and cookies | Bake <b>1 octillion</b> cookies in one ascension.
-He who controls the cookies controls the universe | Bake <b>100 octillion</b> cookies in one ascension.<br><i>"The milk must flow!"</i>
-Tonight on Hoarders | Bake <b>1 nonillion</b> cookies in one ascension.
-Are you gonna eat all that? | Bake <b>100 nonillion</b> cookies in one ascension.
-We're gonna need a bigger bakery | Bake <b>1 decillion</b> cookies in one ascension.
-In the mouth of madness | Bake <b>100 decillion</b> cookies in one ascension.<br><i>"A cookie is just what we tell each other it is."</i>
-Brought to you by the letter <div style="display:inline-block;background:url(img/cookicon.png);width:16px;height:16px;"></div> | 
-A world filled with cookies | Bake <b>1 trillion</b> cookies per second.
-When this baby hits 36 quadrillion cookies per hour | Bake <b>10 trillion</b> cookies per second.
-Fast and delicious | Bake <b>100 trillion</b> cookies per second.
-Cookiehertz: a really, really tasty hertz | 
-Woops, you solved world hunger | Bake <b>10 quadrillion</b> cookies per second.
-Turbopuns | Bake <b>1 quintillion</b> cookies per second.<br><i>"Mother Nature will be like "slowwwww dowwwwwn"."</i>
-Faster menner | Bake <b>10 quintillion</b> cookies per second.
-And yet you're still hungry | Bake <b>100 quintillion</b> cookies per second.
-The Abakening | Bake <b>1 sextillion</b> cookies per second.
-There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been? | 
-Fast | Bake <b>1 septillion</b> cookies per second.<br><i>"Wow!"</i>
-Bicentennial and a half | Have at least <b>250</b> of everything.
-Clickastrophe | Make <b>100 quadrillion cookies</b> from clicking.
-Clickataclysm | Make <b>10 quintillion cookies</b> from clicking.
-Thumbs, phalanges, metacarpals | Have <b>500</b> cursors.
-Polymath | Own <b>300</b> upgrades and <b>3,000</b> buildings.
-The elder scrolls | Own a combined <b>777</b> grandmas and cursors.
-To crumbs, you say? | Ascend with <b>1 decillion</b> cookies baked.
 Seedy business | Have <b>300 farms</b>.
 Freak fracking | Have <b>300 mines</b>.
 Modern times | Have <b>300 factories</b>.
@@ -242,18 +156,6 @@ Forbidden zone | Have <b>300 portals</b>.
 cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com | Have <b>300 time machines</b>.
 Scientists baffled everywhere | Have <b>300 antimatter condensers</b>.
 Harmony of the spheres | Have <b>300 prisms</b>.
-Last Chance to See | Burst the near-extinct <b>shiny wrinkler</b>.
-Early bird | Click a golden cookie <b>less than 1 second after it spawns</b>.
-Fading luck | Click a golden cookie <b>less than 1 second before it dies</b>.
-Eldeer | Pop a reindeer <b>during an elder frenzy</b>.
-Tricentennial | Have at least <b>300</b> of everything.
-Knead for speed | Bake <b>10 septillion</b> cookies per second.<br><i>"How did we not make that one yet?"</i>
-Well the cookies start coming and they don't stop coming | Bake <b>100 septillion</b> cookies per second.<br><i>"Didn't make sense not to click for fun<b>."</b></i>
-I don't know if you've noticed but all these icons are very slightly off-center | Bake <b>1 octillion</b> cookies per second.
-The proof of the cookie is in the baking | Bake <b>10 octillion</b> cookies per second.<br><i>"How can you have any cookies if you don't bake your dough?"</i>
-If it's worth doing, it's worth overdoing | Bake <b>1 nonillion</b> cookies per second.
-The dreams in which I'm baking are the best I've ever had | Bake <b>100 undecillion </b>cookies in one ascension.
-Set for life | Bake <b>1 duodecillion </b>cookies in one ascension.
 You and the beanstalk | Have <b>350 farms</b>.
 Romancing the stone | Have <b>350 mines</b>.
 Ex machina | Have <b>350 factories</b>.
@@ -266,20 +168,6 @@ H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠͘ͅ�
 Way back then | Have <b>350 time machines</b>.
 Exotic matter | Have <b>350 antimatter condensers</b>.
 At the end of the tunnel | Have <b>350 prisms</b>.
-Click (starring Adam Sandler) | Make <b>1 decillion cookies</b> just from cursors.
-Frantiquities | Make <b>1 decillion cookies</b> just from grandmas.
-Overgrowth | Make <b>10 octillion cookies</b> just from farms.
-Sedimentalism | Make <b>100 octillion cookies</b> just from mines.
-Labor of love | Make <b>1 nonillion cookies</b> just from factories.
-Reverse funnel system | Make <b>10 nonillion cookies</b> just from banks.
-Thus spoke you | Make <b>100 nonillion cookies</b> just from temples.
-Manafest destiny | Make <b>1 decillion cookies</b> just from wizard towers.
-Neither snow nor rain nor heat nor gloom of night | Make <b>10 decillion cookies</b> just from shipments.
-I've got the Midas touch | Make <b>100 decillion cookies</b> just from alchemy labs.
-Which eternal lie | Make <b>1 undecillion cookies</b> just from portals.
-D&eacute;j&agrave; vu | 
-Powers of Ten | Make <b>100 undecillion cookies</b> just from antimatter condensers.
-Now the dark days are gone | Make <b>1 duodecillion cookies</b> just from prisms.
 Lucked out | Have <b>1 chancemaker</b>.
 What are the odds | Have <b>50 chancemakers</b>.
 Grandma needs a new pair of shoes | Have <b>100 chancemakers</b>.
@@ -288,10 +176,6 @@ As luck would have it | Have <b>200 chancemakers</b>.
 Ever in your favor | Have <b>250 chancemakers</b>.
 Be a lady | Have <b>300 chancemakers</b>.
 Dicey business | Have <b>350 chancemakers</b>.
-Fingers crossed | Make <b>100 septillion cookies</b> just from chancemakers.
-Just a statistic | Make <b>1 decillion cookies</b> just from chancemakers.
-Murphy's wild guess | Make <b>10 duodecillion cookies</b> just from chancemakers.
-The ultimate clickdown | Make <b>1 sextillion cookies</b> from clicking.<br><i>"(of ultimate destiny.)"</i>
 Aged well | Have <b>400 grandmas</b>.
 101st birthday | Have <b>450 grandmas</b>.
 Defense of the ancients | Have <b>550 grandmas</b>.
@@ -321,31 +205,6 @@ Groundhog day | Have <b>450 time machines</b>.
 A matter of perspective | Have <b>450 antimatter condensers</b>.
 Optical illusion | Have <b>450 prisms</b>.
 Jackpot | Have <b>450 chancemakers</b>.
-Running with scissors | Bake <b>10 nonillion</b> cookies per second.
-Rarefied air | Bake <b>100 nonillion</b> cookies per second.
-Push it to the limit | Bake <b>1 decillion</b> cookies per second.
-Green cookies sleep furiously | Bake <b>10 decillion</b> cookies per second.
-Panic! at Nabisco | Bake <b>100 duodecillion</b> cookies in one ascension.
-Bursting at the seams | Bake <b>1 tredecillion</b> cookies in one ascension.
-Just about full | Bake <b>100 tredecillion</b> cookies in one ascension.
-Hungry for more | Bake <b>1 quattuordecillion</b> cookies in one ascension.
-All the other kids with the pumped up clicks | Make <b>100 sextillion cookies</b> from clicking.
-One...more...click... | Make <b>10 septillion cookies</b> from clicking.
-You get nothing | Ascend with <b>1 undecillion</b> cookies baked.
-Humble rebeginnings | Ascend with <b>1 duodecillion</b> cookies baked.
-The end of the world | Ascend with <b>1 tredecillion</b> cookies baked.
-Oh, you're back | Ascend with <b>1 quattuordecillion</b> cookies baked.
-Lazarus | Ascend with <b>1 quindecillion</b> cookies baked.
-Leisurely pace | Bake <b>1 undecillion</b> cookies per second.
-Hypersonic | Bake <b>10 undecillion</b> cookies per second.
-Feed me, Orteil | Bake <b>100 quattuordecillion</b> cookies in one ascension.
-And then what? | Bake <b>1 quindecillion</b> cookies in one ascension.
-Tricentennial and a half | Have at least <b>350</b> of everything.
-Quadricentennial | Have at least <b>400</b> of everything.
-Quadricentennial and a half | Have at least <b>450</b> of everything.
-Quincentennial | Have at least <b>500</b> of everything.
-When the cookies ascend just right | Ascend with exactly <b>1 trillion cookies</b>.
-With her finger and her thumb | Have <b>600</b> cursors.
 But wait 'til you get older | Have <b>500 grandmas</b>.
 Sharpest tool in the shed | Have <b>500 farms</b>.
 Hey now, you're a rock | Have <b>500 mines</b>.
@@ -371,13 +230,214 @@ An example of recursion | Have <b>350 fractal engines</b>.
 For more information on this achievement, please refer to its title | Have <b>400 fractal engines</b>.
 I'm so meta, even this achievement | Have <b>450 fractal engines</b>.
 Never get bored | Have <b>500 fractal engines</b>.
+Click delegator | Make <b>10 quintillion cookies</b> just from cursors.
+Finger clickin' good | Make <b>100 septillion cookies</b> just from cursors.
+Click (starring Adam Sandler) | Make <b>1 decillion cookies</b> just from cursors.
+Gushing grannies | Make <b>10 quintillion cookies</b> just from grandmas.
+Panic at the bingo | Make <b>100 septillion cookies</b> just from grandmas.
+Frantiquities | Make <b>1 decillion cookies</b> just from grandmas.
+I hate manure | Make <b>100 trillion cookies</b> just from farms.
+Rake in the dough | Make <b>1 sextillion cookies</b> just from farms.
+Overgrowth | Make <b>10 octillion cookies</b> just from farms.
+Never dig down | Make <b>1 quadrillion cookies</b> just from mines.
+Quarry on | Make <b>10 sextillion cookies</b> just from mines.
+Sedimentalism | Make <b>100 octillion cookies</b> just from mines.
+The incredible machine | Make <b>10 quadrillion cookies</b> just from factories.
+Yes I love technology | Make <b>100 sextillion cookies</b> just from factories.
+Labor of love | Make <b>1 nonillion cookies</b> just from factories.
+Vested interest | Make <b>100 quadrillion cookies</b> just from banks.
+Paid in full | Make <b>1 septillion cookies</b> just from banks.
+Reverse funnel system | Make <b>10 nonillion cookies</b> just from banks.
+New world order | Make <b>1 quintillion cookies</b> just from temples.
+Church of Cookiology | Make <b>10 septillion cookies</b> just from temples.
+Thus spoke you | Make <b>100 nonillion cookies</b> just from temples.
+Hocus pocus | Make <b>10 quintillion cookies</b> just from wizard towers.
+Too many rabbits, not enough hats | Make <b>100 septillion cookies</b> just from wizard towers.
+Manafest destiny | Make <b>1 decillion cookies</b> just from wizard towers.
+And beyond | Make <b>100 quintillion cookies</b> just from shipments.
+The most precious cargo | Make <b>1 octillion cookies</b> just from shipments.
+Neither snow nor rain nor heat nor gloom of night | Make <b>10 decillion cookies</b> just from shipments.
+Magnum Opus | Make <b>1 sextillion cookies</b> just from alchemy labs.
+The Aureate | Make <b>10 octillion cookies</b> just from alchemy labs.
+I've got the Midas touch | Make <b>100 decillion cookies</b> just from alchemy labs.
+With strange eons | Make <b>10 sextillion cookies</b> just from portals.
+Ever more hideous | Make <b>100 octillion cookies</b> just from portals.
+Which eternal lie | Make <b>1 undecillion cookies</b> just from portals.
+Spacetime jigamaroo | Make <b>100 sextillion cookies</b> just from time machines.
+Be kind, rewind | Make <b>1 nonillion cookies</b> just from time machines.
+D&eacute;j&agrave; vu | 
+Supermassive | Make <b>1 septillion cookies</b> just from antimatter condensers.
+Infinitesimal | Make <b>10 nonillion cookies</b> just from antimatter condensers.
+Powers of Ten | Make <b>100 undecillion cookies</b> just from antimatter condensers.
+Praise the sun | Make <b>10 septillion cookies</b> just from prisms.
+A still more glorious dawn | Make <b>100 nonillion cookies</b> just from prisms.
+Now the dark days are gone | Make <b>1 duodecillion cookies</b> just from prisms.
+Fingers crossed | Make <b>100 septillion cookies</b> just from chancemakers.
+Just a statistic | Make <b>1 decillion cookies</b> just from chancemakers.
+Murphy's wild guess | Make <b>10 duodecillion cookies</b> just from chancemakers.
 The needs of the many | Make <b>1 octillion cookies</b> just from fractal engines.
 Eating its own | Make <b>10 decillion cookies</b> just from fractal engines.
 We must go deeper | Make <b>100 duodecillion cookies</b> just from fractal engines.
-Gotta go fast | Bake <b>100 undecillion</b> cookies per second.
-I think it's safe to say you've got it made | Bake <b>100 quindecillion</b> cookies in one ascension.
-Renaissance baker | Own <b>400</b> upgrades and <b>4,000</b> buildings.
+Click | Have <b>1</b> cursor.
+Double-click | Have <b>2</b> cursors.
+Mouse wheel | Have <b>50</b> cursors.
+Of Mice and Men | Have <b>100</b> cursors.
+The Digital | Have <b>200</b> cursors.
+Extreme polydactyly | Have <b>300</b> cursors.
+Dr. T | Have <b>400</b> cursors.
+Thumbs, phalanges, metacarpals | Have <b>500</b> cursors.
+With her finger and her thumb | Have <b>600</b> cursors.
+Gotta hand it to you | Have <b>700 cursors</b>.
+The devil's workshop | Have <b>800 cursors</b>.
+All on deck | Have <b>900 cursors</b>.
+A round of applause | Have <b>1,000 cursors</b>.
+Clicktastic | Make <b>1,000 cookies</b> from <a href="/wiki/Big_Cookie" title="Big Cookie">clicking</a>.
+Clickathlon | Make <b>100,000 cookies</b> from clicking.
+Clickolympics | Make <b>10 million cookies</b> from clicking.
+Clickorama | Make <b>1 billion cookies</b> from clicking.
+Clickasmic | Make <b>100 billion cookies</b> from clicking.
+Clickageddon | Make <b>10 trillion cookies</b> from clicking.
+Clicknarok | Make <b>1 quadrillion cookies</b> from clicking.
+Clickastrophe | Make <b>100 quadrillion cookies</b> from clicking.
+Clickataclysm | Make <b>10 quintillion cookies</b> from clicking.
+The ultimate clickdown | Make <b>1 sextillion cookies</b> from clicking.<br><i>"(of ultimate destiny.)"</i>
+All the other kids with the pumped up clicks | Make <b>100 sextillion cookies</b> from clicking.
+One...more...click... | Make <b>10 septillion cookies</b> from clicking.
+Clickety split | Make <b>1 octillion cookies</b> from clicking.
+Ain't that a click in the head | Make <b>100 octillion cookies</b> from clicking.
+What's not clicking | Make <b>10 nonillion cookies</b> from clicking.
+Centennial | Have at least <b>100</b> of everything.
+Centennial and a half | Have at least <b>150</b> of everything.
+Bicentennial | Have at least <b>200</b> of everything.
+Bicentennial and a half | Have at least <b>250</b> of everything.
+Tricentennial | Have at least <b>300</b> of everything.
+Tricentennial and a half | Have at least <b>350</b> of everything.
+Quadricentennial | Have at least <b>400</b> of everything.
+Quadricentennial and a half | Have at least <b>450</b> of everything.
+Quincentennial | Have at least <b>500</b> of everything.
+Golden cookie | Click a <b>golden cookie</b>.
+Lucky cookie | Click <b>7 golden cookies</b>.
+A stroke of luck | Click <b>27 golden cookies</b>.
+Fortune | Click <b>77 golden cookies</b>.
+Leprechaun | Click <b>777 golden cookies</b>.
+Black cat's paw | Click <b>7,777 golden cookies</b>.
+Just wrong | Sell a grandma.
+Elder | Own at least <b>7</b> grandma types.
 Veteran | Own at least <b>14</b> grandma types.
+Elder nap | Appease the grandmatriarchs at least <b>once</b>.
+Elder slumber | Appease the grandmatriarchs at least <b>5 times</b>.
+Elder calm | Declare a covenant with the grandmatriarchs.
+Itchscratcher | Burst <b>1 wrinkler</b>.
+Wrinklesquisher | Burst <b>50 wrinklers</b>.
+Moistburster | Burst <b>200 wrinklers</b>.
+Last Chance to See | Burst the near-extinct <b>shiny wrinkler</b>.
+Early bird | Click a golden cookie <b>less than 1 second after it spawns</b>.
+Fading luck | Click a golden cookie <b>less than 1 second before it dies</b>.
+Builder | Own <b>100</b> buildings.
+Architect | Own <b>500</b> buildings.
+Engineer | Own <b>1,000</b> buildings.
+Lord of Constructs | Own <b>2,000</b> buildings.
+Grand design | Own <b>5,000 buildings</b>.
+Ecumenopolis | Own <b>7,500 buildings</b>.
+Myriad | Own <b>10,000 buildings</b>.
+Enhancer | Purchase <b>20</b> upgrades.
+Augmenter | Purchase <b>50</b> upgrades.
+Upgrader | Purchase <b>100</b> upgrades.
+Lord of Progress | Purchase <b>200</b> upgrades.
+The full picture | Purchase <b>300 upgrades</b>.
+When there's nothing left to add | Purchase <b>400 upgrades</b>.
+Kaizen | Purchase <b>500 upgrades</b>.
+Beyond quality | Purchase <b>600 upgrades</b>.
+Oft we mar what's well | Purchase <b>700 upgrades</b>.
+Polymath | Own <b>300</b> upgrades and <b>3,000</b> buildings.
+Renaissance baker | Own <b>400</b> upgrades and <b>4,000</b> buildings.
+The elder scrolls | Own a combined <b>777</b> grandmas and cursors.
+One with everything | Have <b>at least 1</b> of every building.
+Mathematician | Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128).
+Base 10 | Have at least <b>10 of the most expensive object, 20 of the second-most expensive, 30 of the next</b> and so on.
+Rebirth | Ascend at least once.
+Resurrection | Ascend <b>10 times</b>.
+Reincarnation | Ascend <b>100 times</b>.
+Endless cycle | Ascend <b>1,000 times</b>.
+Sacrifice | Ascend with <b>1 million</b> cookies baked.
+Oblivion | Ascend with <b>1 billion</b> cookies baked.
+From scratch | Ascend with <b>1 trillion</b> cookies baked.
+Nihilism | Ascend with <b>1 quadrillion</b> cookies baked.
+Dematerialize | Ascend with <b>1 quintillion</b> cookies baked.
+Nil zero zilch | Ascend with <b>1 sextillion</b> cookies baked.
+Transcendence | Ascend with <b>1 septillion</b> cookies baked.
+Obliterate | Ascend with <b>1 octillion</b> cookies baked.
+Negative void | Ascend with <b>1 nonillion</b> cookies baked.
+To crumbs, you say? | Ascend with <b>1 decillion</b> cookies baked.
+You get nothing | Ascend with <b>1 undecillion</b> cookies baked.
+Humble rebeginnings | Ascend with <b>1 duodecillion</b> cookies baked.
+The end of the world | Ascend with <b>1 tredecillion</b> cookies baked.
+Oh, you're back | Ascend with <b>1 quattuordecillion</b> cookies baked.
+Lazarus | Ascend with <b>1 quindecillion</b> cookies baked.
+Smurf account | Ascend with <b>1 sexdecillion</b> cookies baked.
+If at first you don't succeed | Ascend with <b>1 septendecillion</b> cookies baked.
+No more room in hell | Ascend with <b>1 octodecillion cookies</b> baked.
+When the cookies ascend just right | Ascend with exactly <b>1 trillion cookies</b>.
+Wholesome | Unlock <b>100%</b> of your heavenly chips power.
+Okay boomer | Have <b>600 grandmas</b>.
+They moistly come at night | Have <b>650 grandmas</b>.
+And now you're even older | Have <b>700 grandmas</b>.
+Overripe | Have <b>550 farms</b>.
+In the green | Have <b>600 farms</b>.
+It's grown on you | Have <b>650 farms</b>.
+Au naturel | Have <b>700 farms</b>.
+Rock on | Have <b>550 mines</b>.
+Mountain out of a molehill, but like in a good way | Have <b>600 mines</b>.
+Don't let the walls cave in on you | Have <b>650 mines</b>.
+Dirt-rich | Have <b>700 mines</b>.
+Self-manmade man | Have <b>550 factories</b>.
+The wheels of progress | Have <b>600 factories</b>.
+Replaced by robots | Have <b>650 factories</b>.
+Bots build bots | Have <b>700 factories</b>.
+Checks out | Have <b>550 banks</b>.
+That's rich | Have <b>600 banks</b>.
+Financial prodigy | Have <b>650 banks</b>.<br><i>"Imagine how it would be, to be at the top making cash money."</i>
+Getting that bag | Have <b>700 banks</b>.
+Living on a prayer | Have <b>550 temples</b>.
+Preaches and cream | Have <b>600 temples</b>.
+And I will pray to a big god | Have <b>650 temples</b>.
+The leader is good, the leader is great | Have <b>700 temples</b>.
+Higitus figitus migitus mum | Have <b>550 wizard towers</b>.
+Magic thinking | Have <b>600 wizard towers</b>.
+Shosple Colupis | Have <b>650 wizard towers</b>.
+You don't think they could've used... it couldn't have been ma- | Have <b>700 wizard towers</b>.
+The incredible journey | Have <b>550 shipments</b>.
+Is there life on Mars? | Have <b>600 shipments</b>.<br><i>"Yes, there is. You're currently using it as filling in experimental flavor prototype #810657."</i>
+False vacuum | Have <b>650 shipments</b>.
+Signed, sealed, delivered | Have <b>700 shipments</b>.
+Just a phase | Have <b>550 alchemy labs</b>.
+Bad chemistry | Have <b>600 alchemy labs</b>.
+Metallic taste | Have <b>650 alchemy labs</b>.
+Sugar, spice, and everything nice | Have <b>700 alchemy labs</b>.<br><i>"These were the ingredients chosen to create the perfect cookies."</i>
+Don't let me leave, Murph | Have <b>550 portals</b>.
+Reduced to gibbering heaps | Have <b>600 portals</b>.
+Swiss cheese | Have <b>650 portals</b>.
+Not even remotely close to Kansas anymore | Have <b>700 portals</b>.
+Caveman to cosmos | Have <b>550 time machines</b>.
+Back already? | Have <b>600 time machines</b>.
+But the future refused to change | Have <b>650 time machines</b>.
+I only meant to stay a while | Have <b>700 time machines</b>.
+Particular tastes | Have <b>550 antimatter condensers</b>.
+Nuclear throne | Have <b>600 antimatter condensers</b>.
+What's the dark matter with you | Have <b>650 antimatter condensers</b>.
+Not 20 years away forever | Have <b>700 antimatter condensers</b>.
+A light snack | Have <b>550 prisms</b>.
+Making light of the situation | Have <b>600 prisms</b>.
+Enlightenment | Have <b>650 prisms</b>.
+Bright side of the Moon | Have <b>700 prisms</b>.
+Tempting fate | Have <b>550 chancemakers</b>.
+Flip a cookie. Chips, I win. Crust, you lose. | Have <b>600 chancemakers</b>.
+Never tell me the odds | Have <b>650 chancemakers</b>.
+Riding the Mersenne twister | Have <b>700 chancemakers</b>.
+Tautological | Have <b>550 fractal engines</b>.
+In and of itself | Have <b>600 fractal engines</b>.
+Blowing an Apollonian gasket | Have <b>650 fractal engines</b>.
+Divide and conquer | Have <b>700 fractal engines</b>.
 F12 | Have <b>1 javascript console</b>.
 Variable success | Have <b>50 javascript consoles</b>.
 No comments | Have <b>100 javascript consoles</b>.
@@ -389,61 +449,10 @@ Inconsolable | Have <b>350 javascript consoles</b>.
 Closure | Have <b>400 javascript consoles</b>.
 Dude what if we're all living in a simulation like what if we're all just code on a computer somewhere | Have <b>450 javascript consoles</b>.
 Taking the back streets | Have <b>500 javascript consoles</b>.
-Inherited prototype | Make <b>10 octillion cookies</b> just from javascript consoles.
-A model of document object | Make <b>100 decillion cookies</b> just from javascript consoles.
-First-class citizen | Make <b>1 tredecillion cookies</b> just from javascript consoles.
-Bake him away, toys | Bake <b>1 duodecillion</b> cookies per second.
-You're #1 so why try harder | Bake <b>10 duodecillion</b> cookies per second.
-Haven't even begun to peak | Bake <b>1 tredecillion</b> cookies per second.
-A sometimes food | Bake <b>1 sexdecillion</b> cookies in one ascension.
-Not enough of a good thing | Bake <b>100 sexdecillion</b> cookies in one ascension.
-Horn of plenty | Bake <b>1 septendecillion</b> cookies in one ascension.
-Smurf account | Ascend with <b>1 sexdecillion</b> cookies baked.
-If at first you don't succeed | Ascend with <b>1 septendecillion</b> cookies baked.
-O Fortuna | Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
-Jellicles | Own <b>10</b> kitten upgrades.
-Quincentennial and a half | Have at least <b>550</b> of everything.
-What did we even eat before these | Bake <b>10 tredecillion</b> cookies per second.
-Heavy flow | Bake <b>100 tredecillion</b> cookies per second.
-More you say? | Bake <b>1 quattuordecillion</b> cookies per second.
-Large and in charge | Bake <b>100 septendecillion</b> cookies in one ascension.
-Absolutely stuffed | Bake <b>1 octodecillion</b> cookies in one ascension.
-It's only wafer-thin | Bake <b>100 octodecillion</b> cookies in one ascension.<br><i>"Just the one!"</i>
-Clickety split | Make <b>1 octillion cookies</b> from clicking.
-Gotta hand it to you | Have <b>700 cursors</b>.
-Okay boomer | Have <b>600 grandmas</b>.
-Overripe | Have <b>550 farms</b>.
-Rock on | Have <b>550 mines</b>.
-Self-manmade man | Have <b>550 factories</b>.
-Checks out | Have <b>550 banks</b>.
-Living on a prayer | Have <b>550 temples</b>.
-Higitus figitus migitus mum | Have <b>550 wizard towers</b>.
-The incredible journey | Have <b>550 shipments</b>.
-Just a phase | Have <b>550 alchemy labs</b>.
-Don't let me leave, Murph | Have <b>550 portals</b>.
-Caveman to cosmos | Have <b>550 time machines</b>.
-Particular tastes | Have <b>550 antimatter condensers</b>.
-A light snack | Have <b>550 prisms</b>.
-Tempting fate | Have <b>550 chancemakers</b>.
-Tautological | Have <b>550 fractal engines</b>.
 Curly braces | Have <b>550 javascript consoles</b>.<br><i>"Or as the French call them, mustache boxes.<br>Go well with quotes."</i>
-Olden days | Find the <b>forgotten madeleine</b>.
-The devil's workshop | Have <b>800 cursors</b>.
-In the green | Have <b>600 farms</b>.
-Mountain out of a molehill, but like in a good way | Have <b>600 mines</b>.
-The wheels of progress | Have <b>600 factories</b>.
-That's rich | Have <b>600 banks</b>.
-Preaches and cream | Have <b>600 temples</b>.
-Magic thinking | Have <b>600 wizard towers</b>.
-Is there life on Mars? | Have <b>600 shipments</b>.<br><i>"Yes, there is. You're currently using it as filling in experimental flavor prototype #810657."</i>
-Bad chemistry | Have <b>600 alchemy labs</b>.
-Reduced to gibbering heaps | Have <b>600 portals</b>.
-Back already? | Have <b>600 time machines</b>.
-Nuclear throne | Have <b>600 antimatter condensers</b>.
-Making light of the situation | Have <b>600 prisms</b>.
-Flip a cookie. Chips, I win. Crust, you lose. | Have <b>600 chancemakers</b>.
-In and of itself | Have <b>600 fractal engines</b>.
 Duck typing | Have <b>600 javascript consoles</b>.<br><i>"Hello, this is a duck typing. Got any grapes?"</i>
+Get with the program | Have <b>650 javascript consoles</b>.
+Pebcakes | Have <b>700 javascript consoles</b>.<br><i>"Problem exists in my mouth!"</i>
 They'll never know what hit 'em | Have <b>1 idleverse</b>.
 Well-versed | Have <b>50 idleverses</b>.
 Ripe for the picking | Have <b>100 idleverses</b>.
@@ -457,20 +466,8 @@ You are inevitable | Have <b>450 idleverses</b>.
 Away from this place | Have <b>500 idleverses</b>.
 Everywhere at once | Have <b>550 idleverses</b>.
 Reject reality, substitute your own | Have <b>600 idleverses</b>.
-Fringe | Make <b>100 octillion cookies</b> just from idleverses.
-Coherence | Make <b>1 undecillion cookies</b> just from idleverses.
-Earth-616 | Make <b>10 tredecillion cookies</b> just from idleverses.
-Grand design | Own <b>5,000 buildings</b>.
-Ecumenopolis | Own <b>7,500 buildings</b>.
-The full picture | Purchase <b>300 upgrades</b>.
-When there's nothing left to add | Purchase <b>400 upgrades</b>.
-Sexcentennial | Have at least <b>600</b> of everything.
-Keep going until I say stop | Bake <b>10 quattuordecillion</b> cookies per second.
-But I didn't say stop, did I? | Bake <b>1 quindecillion</b> cookies per second.
-With unrivaled fervor | Bake <b>10 quindecillion</b> cookies per second.
-Think big | Bake <b>1 novemdecillion</b> cookies in one ascension.
-Hypersize me | Bake <b>100 novemdecillion</b> cookies in one ascension.
-Max capacity | Bake <b>1 vigintillion</b> cookies in one ascension.
+Lost your cosmic marbles | Have <b>650 idleverses</b>.
+Greener on the other sides | Have <b>700 idleverses</b>.
 It's big brain time | Have <b>1 cortex baker</b>.
 Just my imagination | Have <b>50 cortex bakers</b>.
 Now there's an idea | Have <b>100 cortex bakers</b>.
@@ -484,49 +481,8 @@ Though fools seldom differ |
 Looking kind of dumb | Have <b>500 cortex bakers</b>.
 A beautiful mind | Have <b>550 cortex bakers</b>.
 Cardinal synapses | Have <b>600 cortex bakers</b>.
-Positive thinking | Make <b>1 nonillion cookies</b> just from cortex bakers.
-The thought that counts | Make <b>10 undecillion cookies</b> just from cortex bakers.
-Unthinkable | Make <b>100 tredecillion cookies</b> just from cortex bakers.
-They moistly come at night | Have <b>650 grandmas</b>.
-It's grown on you | Have <b>650 farms</b>.
-Don't let the walls cave in on you | Have <b>650 mines</b>.
-Replaced by robots | Have <b>650 factories</b>.
-Financial prodigy | Have <b>650 banks</b>.<br><i>"Imagine how it would be, to be at the top making cash money."</i>
-And I will pray to a big god | Have <b>650 temples</b>.
-Shosple Colupis | Have <b>650 wizard towers</b>.
-False vacuum | Have <b>650 shipments</b>.
-Metallic taste | Have <b>650 alchemy labs</b>.
-Swiss cheese | Have <b>650 portals</b>.
-But the future refused to change | Have <b>650 time machines</b>.
-What's the dark matter with you | Have <b>650 antimatter condensers</b>.
-Enlightenment | Have <b>650 prisms</b>.
-Never tell me the odds | Have <b>650 chancemakers</b>.
-Blowing an Apollonian gasket | Have <b>650 fractal engines</b>.
-Get with the program | Have <b>650 javascript consoles</b>.
-Lost your cosmic marbles | Have <b>650 idleverses</b>.
 By will alone I set my mind in motion | Have <b>650 cortex bakers</b>.
-Ain't that a click in the head | Make <b>100 octillion cookies</b> from clicking.
-Sexcentennial and a half | Have at least <b>650</b> of everything.
-I am speed | Bake <b>100 quindecillion</b> cookies per second.
-And on and on | Bake <b>1 sexdecillion</b> cookies per second.
-Fake it till you bake it | Bake <b>100 vigintillion</b> cookies in one ascension.
-History in the baking | Bake <b>1 unvigintillion</b> cookies in one ascension.
-Myriad | Own <b>10,000 buildings</b>.
-Kaizen | Purchase <b>500 upgrades</b>.
-Beyond quality | Purchase <b>600 upgrades</b>.
-Everything happens so much | Bake <b>10 sexdecillion</b> cookies per second.
-I'll rest when I'm dead | Bake <b>1 septendecillion</b> cookies per second.
-What do you get for the baker who has everything | Bake <b>100 unvigintillion</b> cookies in one ascension.
-Bottomless pit | Bake <b>1 duovigintillion</b> cookies in one ascension.
-Can we get much higher | Bake <b>10 septendecillion</b> cookies per second.
-Speed's the name of the game (no it's not it's called Cookie Clicker) | Bake <b>100 septendecillion</b> cookies per second.
-Rainy day fund | Bake <b>100 duovigintillion</b> cookies in one ascension.
-And a little extra | Bake <b>1 trevigintillion</b> cookies in one ascension.
-Grandmapocalypse | Trigger the grandmapocalypse for the first time.
-Wrath cookie | Click a <b>wrath cookie</b>.
-No more room in hell | Ascend with <b>1 octodecillion cookies</b> baked.
-Wrinkler poker | Poke a wrinkler <b>50 times</b> without killing it.
-Septcentennial | Have at least <b>700</b> of everything.
+Where is my mind | Have <b>700 cortex bakers</b>.
 My own clone | Have <b>1 You</b>.
 Multiplicity | Have <b>50 You</b>.
 Born for this job | Have <b>100 You</b>.
@@ -541,29 +497,73 @@ Didn't make sense not to live | Have <b>500 You</b>.
 Genetic bottleneck | Have <b>550 You</b>.
 Despite everything, it's still you | Have <b>600 You</b>.
 Everyone everywhere all at once | Have <b>650 You</b>.
+Introspection | Have <b>700 You</b>.
+A sometimes food | Bake <b>1 sexdecillion</b> cookies in one ascension.
+Not enough of a good thing | Bake <b>100 sexdecillion</b> cookies in one ascension.
+Horn of plenty | Bake <b>1 septendecillion</b> cookies in one ascension.
+Large and in charge | Bake <b>100 septendecillion</b> cookies in one ascension.
+Absolutely stuffed | Bake <b>1 octodecillion</b> cookies in one ascension.
+It's only wafer-thin | Bake <b>100 octodecillion</b> cookies in one ascension.<br><i>"Just the one!"</i>
+Think big | Bake <b>1 novemdecillion</b> cookies in one ascension.
+Hypersize me | Bake <b>100 novemdecillion</b> cookies in one ascension.
+Max capacity | Bake <b>1 vigintillion</b> cookies in one ascension.
+Fake it till you bake it | Bake <b>100 vigintillion</b> cookies in one ascension.
+History in the baking | Bake <b>1 unvigintillion</b> cookies in one ascension.
+What do you get for the baker who has everything | Bake <b>100 unvigintillion</b> cookies in one ascension.
+Bottomless pit | Bake <b>1 duovigintillion</b> cookies in one ascension.
+Rainy day fund | Bake <b>100 duovigintillion</b> cookies in one ascension.
+And a little extra | Bake <b>1 trevigintillion</b> cookies in one ascension.
+Bake him away, toys | Bake <b>1 duodecillion</b> cookies per second.
+You're #1 so why try harder | Bake <b>10 duodecillion</b> cookies per second.
+Haven't even begun to peak | Bake <b>1 tredecillion</b> cookies per second.
+What did we even eat before these | Bake <b>10 tredecillion</b> cookies per second.
+Heavy flow | Bake <b>100 tredecillion</b> cookies per second.
+More you say? | Bake <b>1 quattuordecillion</b> cookies per second.
+Keep going until I say stop | Bake <b>10 quattuordecillion</b> cookies per second.
+But I didn't say stop, did I? | Bake <b>1 quindecillion</b> cookies per second.
+With unrivaled fervor | Bake <b>10 quindecillion</b> cookies per second.
+I am speed | Bake <b>100 quindecillion</b> cookies per second.
+And on and on | Bake <b>1 sexdecillion</b> cookies per second.
+Everything happens so much | Bake <b>10 sexdecillion</b> cookies per second.
+I'll rest when I'm dead | Bake <b>1 septendecillion</b> cookies per second.
+Can we get much higher | Bake <b>10 septendecillion</b> cookies per second.
+Speed's the name of the game (no it's not it's called Cookie Clicker) | Bake <b>100 septendecillion</b> cookies per second.
+Quincentennial and a half | Have at least <b>550</b> of everything.
+Sexcentennial | Have at least <b>600</b> of everything.
+Sexcentennial and a half | Have at least <b>650</b> of everything.
+Septcentennial | Have at least <b>700</b> of everything.
+Inherited prototype | Make <b>10 octillion cookies</b> just from javascript consoles.
+A model of document object | Make <b>100 decillion cookies</b> just from javascript consoles.
+First-class citizen | Make <b>1 tredecillion cookies</b> just from javascript consoles.
+Fringe | Make <b>100 octillion cookies</b> just from idleverses.
+Coherence | Make <b>1 undecillion cookies</b> just from idleverses.
+Earth-616 | Make <b>10 tredecillion cookies</b> just from idleverses.
+Positive thinking | Make <b>1 nonillion cookies</b> just from cortex bakers.
+The thought that counts | Make <b>10 undecillion cookies</b> just from cortex bakers.
+Unthinkable | Make <b>100 tredecillion cookies</b> just from cortex bakers.
 Self-made | Make <b>10 nonillion cookies</b> just from You.
 Reproducible results | Make <b>100 undecillion cookies</b> just from You.
 That's all you | Make <b>1 quattuordecillion cookies</b> just from You.
-And now you're even older | Have <b>700 grandmas</b>.
-Au naturel | Have <b>700 farms</b>.
-Dirt-rich | Have <b>700 mines</b>.
-Bots build bots | Have <b>700 factories</b>.
-Getting that bag | Have <b>700 banks</b>.
-The leader is good, the leader is great | Have <b>700 temples</b>.
-You don't think they could've used... it couldn't have been ma- | Have <b>700 wizard towers</b>.
-Signed, sealed, delivered | Have <b>700 shipments</b>.
-Sugar, spice, and everything nice | Have <b>700 alchemy labs</b>.<br><i>"These were the ingredients chosen to create the perfect cookies."</i>
-Not even remotely close to Kansas anymore | Have <b>700 portals</b>.
-I only meant to stay a while | Have <b>700 time machines</b>.
-Not 20 years away forever | Have <b>700 antimatter condensers</b>.
-Bright side of the Moon | Have <b>700 prisms</b>.
-Riding the Mersenne twister | Have <b>700 chancemakers</b>.
-Divide and conquer | Have <b>700 fractal engines</b>.
-Pebcakes | Have <b>700 javascript consoles</b>.<br><i>"Problem exists in my mouth!"</i>
-Greener on the other sides | Have <b>700 idleverses</b>.
-Where is my mind | Have <b>700 cortex bakers</b>.
-Introspection | Have <b>700 You</b>.
-Oft we mar what's well | Purchase <b>700 upgrades</b>.
-What's not clicking | Make <b>10 nonillion cookies</b> from clicking.
-All on deck | Have <b>900 cursors</b>.
-A round of applause | Have <b>1,000 cursors</b>.
+O Fortuna | Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
+The hunt is on | Unlock <b>1 egg</b>.
+Egging on | Unlock <b>7 eggs</b>.
+Mass Easteria | Unlock <b>14 eggs</b>.
+Hide & seek champion | Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
+Spooky cookies | Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
+Coming to town | Reach <b>Santa's 7th form</b>.
+All hail Santa | Reach <b>Santa's final form</b>.
+Let it snow | Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
+Oh deer | Pop <b>1 reindeer</b>.
+Sleigh of hand | Pop <b>50 reindeer</b>.
+Reindeer sleigher | Pop <b>200 reindeer</b>.
+Eldeer | Pop a reindeer <b>during an elder frenzy</b>.
+Olden days | Find the <b>forgotten madeleine</b>.
+Lovely cookies | Unlock <b>every Valentine-themed cookie</b>.
+Wrath cookie | Click a <b>wrath cookie</b>.
+Grandmapocalypse | Trigger the grandmapocalypse for the first time.
+Just plain lucky | You have <b>1 chance in 1 million</b> every second of earning this achievement.
+Jellicles | Own <b>10</b> kitten upgrades.
+You win a cookie | This is for baking 100 trillion cookies and making it on the local news.
+Cookie-dunker | Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.
+Here you go | Tap this achievement's slot.
+Wrinkler poker | Poke a wrinkler <b>50 times</b> without killing it.
