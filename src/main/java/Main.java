@@ -8,6 +8,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Locale;
 import lombok.AllArgsConstructor;
 
 public class Main {
@@ -20,17 +21,34 @@ public class Main {
         addExtraAchievementData();
     }
 
+    private static final List<Heavenly> HEAVENLIES = new ArrayList<>();
+
+    @AllArgsConstructor
+    private static class Heavenly implements Comparable<Heavenly> {
+        private int id;
+        private double order;
+        private String name;
+        private String name2;
+        private String desc;
+        private long cost;
+
+        @Override
+        public int compareTo(Heavenly o) {
+            return Double.compare(cost, o.cost);
+        }
+    }
+
     private static void printHeavenlyUpgrades() throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(FILE));
         PrintWriter export = new PrintWriter(Files.newOutputStream(Paths.get("heavenly.txt")));
         String line;
-        boolean upgrade = false;
-        boolean name = false;
-        boolean desc = false;
-        boolean cost = false;
         String nameStr = "";
+        String idStr = "";
         String descStr = "";
         String costStr = "";
+        String orderStr = "";
+        boolean upgrade = false;
+        boolean heavenly = false;
         while ((line = reader.readLine()) != null) {
             line = line.trim();
             if (line.startsWith("new G.Upgrade")) {
@@ -38,43 +56,59 @@ public class Main {
                 continue;
             }
             if (upgrade && line.startsWith("name:")) {
-                name = true;
-                nameStr = line.replaceFirst("name:\\s*`", "")
-                        .replace("`,", "");
+                nameStr = line.replaceFirst("name:\\s*`", "").replace("`,", "");
                 continue;
             }
-            if (name && line.startsWith("id:")) {
-                desc = true;
-                descStr = line.replaceFirst("id:\\s*", "")
-                        .replace("`,", "");
+            if (upgrade && line.startsWith("id:")) {
+                idStr = line.replaceFirst("id:", "").replace(",", "");
                 continue;
             }
-            if (name && line.startsWith("desc:")) {
-                desc = true;
-                descStr = line.replaceFirst("desc:\\s*`", "")
-                        .replace("`,", "");
+            if (upgrade && line.startsWith("desc:")) {
+                descStr = line.replaceFirst("desc:\\s*`", "").replace("`,", "");
                 continue;
             }
-            if (desc && line.startsWith("cost:")) {
-                cost = true;
-                costStr = line.replaceFirst("cost:\\s*", "")
-                        .replace(",", "");
+            if (upgrade && line.startsWith("cost:")) {
+                costStr = line.replaceFirst("cost:\\s*", "").replace(",", "");
                 continue;
             }
-            if (cost && line.startsWith("pool:")) {
-                if (line.contains("'prestige'")) {
-                    export.println(nameStr + " | " + costStr + " | " + descStr);
-                }
-                upgrade = false;
-                name = false;
-                desc = false;
-                cost = false;
+            if (upgrade && line.startsWith("order:")) {
+                orderStr = line.replaceFirst("order:\\s*", "").replace(",", "");
+                continue;
+            }
+            if (upgrade && line.startsWith("pool:")) {
+                if (line.contains("'prestige'")) heavenly = true;
+                continue;
+            }
+            if (upgrade && heavenly && line.startsWith("});")) {
+                HEAVENLIES.add(new Heavenly(Integer.parseInt(idStr), Double.parseDouble(orderStr),
+                        nameStr, "", descStr, Long.parseLong(costStr)));
                 nameStr = "";
+                idStr = "";
                 descStr = "";
-                costStr = "";
+                orderStr = "";
+                upgrade = false;
+                heavenly = false;
                 continue;
             }
         }
+        Collections.sort(HEAVENLIES);
+
+        for (Heavenly h : HEAVENLIES) {
+            File fileFixes = new File("fixes.txt");
+            reader = new BufferedReader(new FileReader(fileFixes));
+            while (h.desc.isEmpty() && (line = reader.readLine()) != null) {
+                String[] split = (line.trim() + " ").split("\\|");
+                if (h.name.equalsIgnoreCase(split[0])) {
+                    h.name = split[1].isEmpty() ? h.name : split[1];
+                    h.name2 = split[2].isEmpty() ? h.name2 : split[2];
+                    h.desc = split[3].trim();
+                }
+            }
+            reader.close();
+        }
+
+        for (Heavenly h : HEAVENLIES)
+            export.println(h.name + " | " + String.format(Locale.ROOT, "%,d", h.cost) + " | " + h.desc);
         export.flush();
         export.close();
     }

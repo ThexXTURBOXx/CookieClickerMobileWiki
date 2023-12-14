@@ -8,3 +8,8 @@ H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠͘ͅ�
 D&eacute;j&agrave; vu||Déjà vu|
 Though fools seldom differ||Though fool seldom differ|
 Clicktastic|||Make <b>1,000 cookies</b> from clicking.
+Permanent upgrade slot I|||Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Permanent upgrade slot II|||Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Permanent upgrade slot III|||Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Permanent upgrade slot IV|||Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Permanent upgrade slot V|||Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.

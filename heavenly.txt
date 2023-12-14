@@ -1,51 +1,51 @@
-Kitten angels | 9000 | You gain <b>more CpS</b> the more milk you have.
-Synergies Vol. I | 222222 | Unlocks a new tier of upgrades that affect <b>2 buildings at the same time</b>.<br>Synergies appear once you have <b>15</b> of both buildings.
-Synergies Vol. II | 2222222 | Unlocks a new tier of upgrades that affect <b>2 buildings at the same time</b>.<br>Synergies appear once you have <b>75</b> of both buildings.
-Chimera | 40353607 | Synergy upgrades are <b>2% cheaper</b>.<br>You gain another <b>+5%</b> of your regular CpS while the game is closed.<br>You retain optimal cookie production while the game is closed for <b>2 more days</b>.
 Legacy | 1 | This is the first heavenly upgrade; it unlocks the <b>Heavenly chips</b> system.<line></line>Each time you ascend, the cookies you made in your past life are turned into <b>heavenly chips</b> and <b>prestige</b>.<line></line><b>Heavenly chips</b> can be spent on a variety of permanent transcendental upgrades.<line></line>Your <b>prestige level</b> also gives you a permanent <b>+1% CpS</b> per level.
+Twin Gates of Transcendence | 1 | You now <b>build up power clicks</b> while the game is closed, at the rate of <b>1 every 30 minutes</b> with a maximum storage capacity of <b>5</b> power clicks.<br>You use up <b>1 power click</b> whenever you click the big cookie; these clicks produce <b>2 times</b> more cookies and boost all cookie production by <b>+10%</b> for <b>10 seconds</b>.
 Heavenly cookies | 3 | Cookie production multiplier <b>+10% permanently</b>.
+Angels | 7 | You now produce a power click <b>every 28 minutes</b> while the game is closed.<br>Your <b>maximum power click capacity</b> is now <b>10</b>.//todo; maybe "You produce power clicks 2 minutes faster"
+Belphegor | 7 | Your power clicks now produce <b>3 times</b> more cookies than normal and boost all cookie production by <b>+12%</b> for <b>15 seconds</b>.
 Tin of butter cookies | 25 | Contains an assortment of rich butter cookies.
 Tin of british tea biscuits | 25 | Contains an assortment of fancy biscuits.
 Box of brand biscuits | 25 | Contains an assortment of popular biscuits.
 Box of macarons | 25 | Contains an assortment of macarons.
-Starter kit | 50 | You start with <b>10 cursors</b>.
-Halo gloves | 55555 | Clicks are <b>10% more powerful</b>.
-Starter kitchen | 5000 | You start with <b>5 grandmas</b>.
-Unholy bait | 44444 | Wrinklers appear <b>5 times</b> as fast.
-Elder spice | 444444 | You can attract <b>2 more wrinklers</b>.
-Sacrilegious corruption | 444444 | Wrinklers regurgitate <b>5%</b> more cookies.
-Wrinkly cookies | 6666666 | Cookie production multiplier <b>+10% permanently</b>.
-Persistent memory | 500 | Subsequent research will be <b>10 times</b> as fast.
-Heavenly luck | 77 | Golden cookies appear <b>5%</b> more often.
-Lasting fortune | 777 | Golden cookies effects last <b>10%</b> longer.
-Decisive fate | 7777 | Golden cookies stay <b>5%</b> longer.
-Divine sales | 99999 | Upgrades are <b>1% cheaper</b>.
-Divine discount | 99999 | Buildings are <b>1% cheaper</b>.
-Divine bakeries | 399999 | Cookie upgrades are <b>5 times cheaper</b>.
-Twin Gates of Transcendence | 1 | You now <b>build up power clicks</b> while the game is closed, at the rate of <b>1 every 30 minutes</b> with a maximum storage capacity of <b>5</b> power clicks.<br>You use up <b>1 power click</b> whenever you click the big cookie; these clicks produce <b>2 times</b> more cookies and boost all cookie production by <b>+10%</b> for <b>10 seconds</b>.
-Angels | 7 | You now produce a power click <b>every 28 minutes</b> while the game is closed.<br>Your <b>maximum power click capacity</b> is now <b>10</b>.//todo; maybe "You produce power clicks 2 minutes faster"
 Archangels | 49 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>25%</b>.
-Virtues | 343 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>35%</b>.
-Dominions | 2401 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>45%</b>.
-Cherubim | 16807 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>55%</b>.
-Seraphim | 117649 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>65%</b>.
-God | 823543 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>75%</b>.
-Belphegor | 7 | Your power clicks now produce <b>3 times</b> more cookies than normal and boost all cookie production by <b>+12%</b> for <b>15 seconds</b>.
 Mammon | 49 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>4 hours</b>.
+Starter kit | 50 | You start with <b>10 cursors</b>.
+Heavenly luck | 77 | Golden cookies appear <b>5%</b> more often.
+Permanent upgrade slot I | 100 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Virtues | 343 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>35%</b>.
 Abaddon | 343 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>8 hours</b>.
-Satan | 2401 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>16 hours</b>.
-Asmodeus | 16807 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>1 day, 8 hours</b>.
-Beelzebub | 117649 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>2 days, 16 hours</b>.
-Lucifer | 823543 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>5 days, 8 hours</b>.
-Permanent upgrade slot I | 100 | 
-Permanent upgrade slot II | 2000 | 
-Permanent upgrade slot III | 30000 | 
-Permanent upgrade slot IV | 400000 | 
-Permanent upgrade slot V | 5000000 | 
-Fortune cookies | 77777777777 | The news ticker may occasionally have <b>fortunes</b>, which may be clicked for something good.
-Starspawn | 111111 | Eggs drop <b>10%</b> more often.<br>Golden cookies appear <b>2%</b> more often during Easter.
-Starsnow | 111111 | Christmas cookies drop <b>5%</b> more often.<br>Reindeer appear <b>5%</b> more often.
-Starterror | 111111 | Spooky cookies drop <b>10%</b> more often.<br>Golden cookies appear <b>2%</b> more often during Halloween.
-Starlove | 111111 | Heart cookies are <b>50%</b> more powerful.<br>Golden cookies appear <b>2%</b> more often during Valentine's day.
-Startrade | 111111 | Golden cookies appear <b>5%</b> more often during Business day.
-Keepsakes | 1111111111 | Seasonal random drops have a <b>1/5 chance</b> to carry over through ascensions.
+Persistent memory | 500 | Subsequent research will be <b>10 times</b> as fast.
+Lasting fortune | 777 | Golden cookies effects last <b>10%</b> longer.
+Permanent upgrade slot II | 2,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Dominions | 2,401 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>45%</b>.
+Satan | 2,401 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>16 hours</b>.
+Starter kitchen | 5,000 | You start with <b>5 grandmas</b>.
+Decisive fate | 7,777 | Golden cookies stay <b>5%</b> longer.
+Kitten angels | 9,000 | You gain <b>more CpS</b> the more milk you have.
+Cherubim | 16,807 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>55%</b>.
+Asmodeus | 16,807 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>1 day, 8 hours</b>.
+Permanent upgrade slot III | 30,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Unholy bait | 44,444 | Wrinklers appear <b>5 times</b> as fast.
+Halo gloves | 55,555 | Clicks are <b>10% more powerful</b>.
+Divine sales | 99,999 | Upgrades are <b>1% cheaper</b>.
+Divine discount | 99,999 | Buildings are <b>1% cheaper</b>.
+Starspawn | 111,111 | Eggs drop <b>10%</b> more often.<br>Golden cookies appear <b>2%</b> more often during Easter.
+Starsnow | 111,111 | Christmas cookies drop <b>5%</b> more often.<br>Reindeer appear <b>5%</b> more often.
+Starterror | 111,111 | Spooky cookies drop <b>10%</b> more often.<br>Golden cookies appear <b>2%</b> more often during Halloween.
+Starlove | 111,111 | Heart cookies are <b>50%</b> more powerful.<br>Golden cookies appear <b>2%</b> more often during Valentine's day.
+Startrade | 111,111 | Golden cookies appear <b>5%</b> more often during Business day.
+Seraphim | 117,649 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>65%</b>.
+Beelzebub | 117,649 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>2 days, 16 hours</b>.
+Synergies Vol. I | 222,222 | Unlocks a new tier of upgrades that affect <b>2 buildings at the same time</b>.<br>Synergies appear once you have <b>15</b> of both buildings.
+Divine bakeries | 399,999 | Cookie upgrades are <b>5 times cheaper</b>.
+Permanent upgrade slot IV | 400,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Elder spice | 444,444 | You can attract <b>2 more wrinklers</b>.
+Sacrilegious corruption | 444,444 | Wrinklers regurgitate <b>5%</b> more cookies.
+God | 823,543 | You gain another <b>+10%</b> of your regular CpS while the game is closed, for a total of <b>75%</b>.
+Lucifer | 823,543 | You retain optimal cookie production while the game is closed for twice as long, for a total of <b>5 days, 8 hours</b>.
+Synergies Vol. II | 2,222,222 | Unlocks a new tier of upgrades that affect <b>2 buildings at the same time</b>.<br>Synergies appear once you have <b>75</b> of both buildings.
+Permanent upgrade slot V | 5,000,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs.
+Wrinkly cookies | 6,666,666 | Cookie production multiplier <b>+10% permanently</b>.
+Chimera | 40,353,607 | Synergy upgrades are <b>2% cheaper</b>.<br>You gain another <b>+5%</b> of your regular CpS while the game is closed.<br>You retain optimal cookie production while the game is closed for <b>2 more days</b>.
+Keepsakes | 1,111,111,111 | Seasonal random drops have a <b>1/5 chance</b> to carry over through ascensions.
+Fortune cookies | 77,777,777,777 | The news ticker may occasionally have <b>fortunes</b>, which may be clicked for something good.
