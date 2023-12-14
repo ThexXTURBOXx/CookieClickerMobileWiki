@@ -4,7 +4,7 @@ Currently on <b>v7.23</b> (Android).
 
 Name | Description
 ------------- | ------------- 
-Wake and bake | Bake <b>1</b> cookie in one ascension.
+Wake and bake | Bake <b>100</b> cookie in one ascension.
 Making some dough | Bake <b>1,000</b> cookies in one ascension.
 So baked right now | Bake <b>100,000</b> cookies in one ascension.
 Fledgling bakery | Bake <b>1 million</b> cookies in one ascension.
