@@ -4,7 +4,7 @@ Currently on <b>v7.23</b> (Android).
 
 Name | Description
 ------------- | ------------- 
-Wake and bake | Bake <b>1</b> cookie in one ascension.
+Wake and bake | Bake <b>100</b> cookies in one ascension.
 Making some dough | Bake <b>1,000</b> cookies in one ascension.
 So baked right now | Bake <b>100,000</b> cookies in one ascension.
 Fledgling bakery | Bake <b>1 million</b> cookies in one ascension.
@@ -532,10 +532,10 @@ Wrinkler poker | Poke a wrinkler <b>50 times</b> without killing it.
 Itchscratcher | Burst <b>1 wrinkler</b>.
 Wrinklesquisher | Burst <b>50 wrinklers</b>.
 Moistburster | Burst <b>200 wrinklers</b>.
-Spooky cookies | Unlock <b>every Halloween-themed cookie</b>.<div class="line"></div>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
+Spooky cookies | Unlock <b>every Halloween-themed cookie</b>.<br>Owning this achievement makes Halloween-themed cookies drop more frequently in future playthroughs.
 Coming to town | Reach <b>Santa's 7th form</b>.
 All hail Santa | Reach <b>Santa's final form</b>.
-Let it snow | Unlock <b>every Christmas-themed cookie</b>.<div class="line"></div>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
+Let it snow | Unlock <b>every Christmas-themed cookie</b>.<br>Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.
 Oh deer | Pop <b>1 reindeer</b>.
 Sleigh of hand | Pop <b>50 reindeer</b>.
 Reindeer sleigher | Pop <b>200 reindeer</b>.
@@ -544,7 +544,7 @@ Lovely cookies | Unlock <b>every Valentine-themed cookie</b>.
 The hunt is on | Unlock <b>1 egg</b>.
 Egging on | Unlock <b>7 eggs</b>.
 Mass Easteria | Unlock <b>14 eggs</b>.
-Hide & seek champion | Unlock <b>all the eggs</b>.<div class="line"></div>Owning this achievement makes eggs drop more frequently in future playthroughs.
+Hide & seek champion | Unlock <b>all the eggs</b>.<br>Owning this achievement makes eggs drop more frequently in future playthroughs.
 Rebirth | Ascend at least once.
 Resurrection | Ascend <b>10 times</b>.
 Reincarnation | Ascend <b>100 times</b>.
@@ -567,7 +567,7 @@ Smurf account | Ascend with <b>1 sexdecillion</b> cookies baked.
 If at first you don't succeed | Ascend with <b>1 septendecillion</b> cookies baked.
 No more room in hell | Ascend with <b>1 octodecillion cookies</b> baked.
 Wholesome | Unlock <b>100%</b> of your heavenly chips power.
-O Fortuna | Own every <b>fortune upgrade</b>.<div class="line"></div>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
+O Fortuna | Own every <b>fortune upgrade</b>.<br>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending.
 You win a cookie | This is for baking 100 trillion cookies and making it on the local news.
 Endless cycle [SHADOW] | Ascend <b>1,000 times</b>.
 When the cookies ascend just right [SHADOW] | Ascend with exactly <b>1 trillion cookies</b>.
