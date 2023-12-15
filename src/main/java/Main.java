@@ -30,6 +30,8 @@ public class Main {
         private String name;
         private String altName;
         private String desc;
+        private String desc2;
+        private String[] parents;
         private long cost;
 
         @Override
@@ -45,8 +47,10 @@ public class Main {
         String nameStr = "";
         String idStr = "";
         String descStr = "";
+        String desc2Str = "";
         String costStr = "";
         String orderStr = "";
+        String[] parents = new String[0];
         boolean upgrade = false;
         boolean heavenly = false;
         while ((line = reader.readLine()) != null) {
@@ -64,7 +68,13 @@ public class Main {
                 continue;
             }
             if (upgrade && line.startsWith("desc:")) {
-                descStr = line.replaceFirst("desc:\\s*`", "").replace("`,", "");
+                descStr = line.replaceFirst("desc:\\s*`", "");
+                descStr = descStr.substring(0, descStr.indexOf("`,"));
+                continue;
+            }
+            if (upgrade && line.startsWith("q:")) {
+                desc2Str = line.replaceFirst("q:\\s*`", "");
+                desc2Str = desc2Str.substring(0, desc2Str.indexOf("`,"));
                 continue;
             }
             if (upgrade && line.startsWith("cost:")) {
@@ -79,13 +89,24 @@ public class Main {
                 if (line.contains("'prestige'")) heavenly = true;
                 continue;
             }
+            if (upgrade && line.startsWith("parents:")) {
+                line = line.replaceFirst("parents:\\s*\\[", "");
+                line = line.substring(0, line.indexOf("],"));
+                parents = line.split(",");
+                for (int i = 0; i < parents.length; ++i)
+                    parents[i] = parents[i].substring(1, parents[i].length() - 1);
+                continue;
+            }
             if (upgrade && heavenly && line.startsWith("});")) {
                 HEAVENLY_LIST.add(new Heavenly(Integer.parseInt(idStr), Double.parseDouble(orderStr),
-                        nameStr, "", descStr, Long.parseLong(costStr)));
+                        nameStr, "", descStr, desc2Str, parents, Long.parseLong(costStr)));
                 nameStr = "";
                 idStr = "";
                 descStr = "";
+                desc2Str = "";
                 orderStr = "";
+                // Parents are not entirely correct... They are really stored in G.HeavenlyUpgradeParents
+                parents = new String[0];
                 upgrade = false;
                 heavenly = false;
                 continue;
@@ -108,7 +129,8 @@ public class Main {
         }
 
         for (Heavenly h : HEAVENLY_LIST)
-            export.println(h.name + " | " + String.format(Locale.ROOT, "%,d", h.cost) + " | " + h.desc);
+            export.println(h.name + " | " + String.format(Locale.ROOT, "%,d", h.cost) + " | " + h.desc +
+                           (!h.desc2.isEmpty() ? "<br><i>" + h.desc2 + "</i>" : ""));
         export.flush();
         export.close();
     }
