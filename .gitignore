@@ -1,2 +1,5 @@
 .idea/
 target/
+out/
+test_data_scripts/
+*.apk
