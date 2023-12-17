@@ -1,5 +1,8 @@
 .idea/
+*.iml
 target/
 out/
-test_data_scripts/
+json/
 *.apk
+*.idsig
+*.keystore

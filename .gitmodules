@@ -1,0 +1,3 @@
+[submodule "makedebuggable"]
+	path = makedebuggable
+	url = https://github.com/julkali/makedebuggable
