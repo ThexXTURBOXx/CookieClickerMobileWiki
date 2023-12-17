@@ -2,119 +2,121 @@
 
 Currently on <b>v7.23</b> (Android).
 
+~~Strikethrough~~ indicates that this achievement has not yet been implemented.
+
 | Name | Description |
 |------|-------------|
-| Wake and bake | Bake <b>100</b> cookies in one ascension. |
-| Making some dough | Bake <b>1,000</b> cookies in one ascension. |
-| So baked right now | Bake <b>100,000</b> cookies in one ascension. |
-| Fledgling bakery | Bake <b>1 million</b> cookies in one ascension. |
-| Affluent bakery | Bake <b>100 million</b> cookies in one ascension. |
-| World-famous bakery | Bake <b>1 billion</b> cookies in one ascension. |
-| Cosmic bakery | Bake <b>100 billion</b> cookies in one ascension. |
-| Galactic bakery | Bake <b>1 trillion</b> cookies in one ascension. |
-| Universal bakery | Bake <b>100 trillion</b> cookies in one ascension. |
-| Timeless bakery | Bake <b>1 quadrillion</b> cookies in one ascension. |
-| Infinite bakery | Bake <b>100 quadrillion</b> cookies in one ascension. |
-| Immortal bakery | Bake <b>1 quintillion</b> cookies in one ascension. |
-| Don't stop me now | Bake <b>100 quintillion</b> cookies in one ascension. |
-| You can stop now | Bake <b>1 sextillion</b> cookies in one ascension. |
-| Cookies all the way down | Bake <b>100 sextillion</b> cookies in one ascension. |
-| Overdose | Bake <b>1 septillion</b> cookies in one ascension. |
-| How? | Bake <b>100 septillion</b> cookies in one ascension. |
-| The land of milk and cookies | Bake <b>1 octillion</b> cookies in one ascension. |
-| He who controls the cookies controls the universe | Bake <b>100 octillion</b> cookies in one ascension.<br><i>The milk must flow!</i> |
-| Tonight on Hoarders | Bake <b>1 nonillion</b> cookies in one ascension. |
-| Are you gonna eat all that? | Bake <b>100 nonillion</b> cookies in one ascension. |
-| We're gonna need a bigger bakery | Bake <b>1 decillion</b> cookies in one ascension. |
-| In the mouth of madness | Bake <b>100 decillion</b> cookies in one ascension.<br><i>A cookie is just what we tell each other it is.</i> |
-| Brought to you by the letter 🍪 | Bake <b>1 undecillion</b> cookies in one ascension. |
-| The dreams in which I'm baking are the best I've ever had | Bake <b>100 undecillion </b>cookies in one ascension. |
-| Set for life | Bake <b>1 duodecillion </b>cookies in one ascension. |
-| Panic! at Nabisco | Bake <b>100 duodecillion</b> cookies in one ascension. |
-| Bursting at the seams | Bake <b>1 tredecillion</b> cookies in one ascension. |
-| Just about full | Bake <b>100 tredecillion</b> cookies in one ascension. |
-| Hungry for more | Bake <b>1 quattuordecillion</b> cookies in one ascension. |
-| Feed me, Orteil | Bake <b>100 quattuordecillion</b> cookies in one ascension. |
-| And then what? | Bake <b>1 quindecillion</b> cookies in one ascension. |
-| I think it's safe to say you've got it made | Bake <b>100 quindecillion</b> cookies in one ascension. |
-| A sometimes food | Bake <b>1 sexdecillion</b> cookies in one ascension. |
-| Not enough of a good thing | Bake <b>100 sexdecillion</b> cookies in one ascension. |
-| Horn of plenty | Bake <b>1 septendecillion</b> cookies in one ascension. |
-| Large and in charge | Bake <b>100 septendecillion</b> cookies in one ascension. |
-| Absolutely stuffed | Bake <b>1 octodecillion</b> cookies in one ascension. |
-| It's only wafer-thin | Bake <b>100 octodecillion</b> cookies in one ascension.<br><i>Just the one!</i> |
-| Think big | Bake <b>1 novemdecillion</b> cookies in one ascension. |
-| Hypersize me | Bake <b>100 novemdecillion</b> cookies in one ascension. |
-| Max capacity | Bake <b>1 vigintillion</b> cookies in one ascension. |
-| Fake it till you bake it | Bake <b>100 vigintillion</b> cookies in one ascension. |
-| History in the baking | Bake <b>1 unvigintillion</b> cookies in one ascension. |
-| What do you get for the baker who has everything | Bake <b>100 unvigintillion</b> cookies in one ascension. |
-| Bottomless pit | Bake <b>1 duovigintillion</b> cookies in one ascension. |
-| Rainy day fund | Bake <b>100 duovigintillion</b> cookies in one ascension. |
-| And a little extra | Bake <b>1 trevigintillion</b> cookies in one ascension. |
-| Casual baking | Bake <b>1</b> cookie per second. |
-| Hardcore baking | Bake <b>10</b> cookies per second. |
-| Steady tasty stream | Bake <b>100</b> cookies per second. |
-| Cookie monster | Bake <b>1,000</b> cookies per second. |
-| Mass producer | Bake <b>10,000</b> cookies per second. |
-| Cookie vortex | Bake <b>1 million</b> cookies per second. |
-| Cookie pulsar | Bake <b>10 million</b> cookies per second. |
-| Cookie quasar | Bake <b>100 million</b> cookies per second. |
-| Oh hey, you're still here | Bake <b>1 billion</b> cookies per second. |
-| Let's never bake again | Bake <b>10 billion</b> cookies per second. |
-| A world filled with cookies | Bake <b>1 trillion</b> cookies per second. |
-| When this baby hits 36 quadrillion cookies per hour | Bake <b>10 trillion</b> cookies per second. |
-| Fast and delicious | Bake <b>100 trillion</b> cookies per second. |
-| Cookiehertz : a really, really tasty hertz | Bake <b>1 quadrillion</b> cookies per second.<br><i>Tastier than a hertz donut, anyway.</i> |
-| Woops, you solved world hunger | Bake <b>10 quadrillion</b> cookies per second. |
-| Turbopuns | Bake <b>1 quintillion</b> cookies per second.<br><i>Mother Nature will be like "slowwwww dowwwwwn".</i> |
-| Faster menner | Bake <b>10 quintillion</b> cookies per second. |
-| And yet you're still hungry | Bake <b>100 quintillion</b> cookies per second. |
-| The Abakening | Bake <b>1 sextillion</b> cookies per second. |
-| There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been? | Bake <b>10 sextillion</b> cookies per second. |
-| Fast | Bake <b>1 septillion</b> cookies per second.<br><i>Wow!</i> |
-| Knead for speed | Bake <b>10 septillion</b> cookies per second.<br><i>How did we not make that one yet?</i> |
-| Well the cookies start coming and they don't stop coming | Bake <b>100 septillion</b> cookies per second.<br><i>Didn't make sense not to click for fun.</i> |
-| I don't know if you've noticed but all these icons are very slightly off-center | Bake <b>1 octillion</b> cookies per second. |
-| The proof of the cookie is in the baking | Bake <b>10 octillion</b> cookies per second.<br><i>How can you have any cookies if you don't bake your dough?</i> |
-| If it's worth doing, it's worth overdoing | Bake <b>1 nonillion</b> cookies per second. |
-| Running with scissors | Bake <b>10 nonillion</b> cookies per second. |
-| Rarefied air | Bake <b>100 nonillion</b> cookies per second. |
-| Push it to the limit | Bake <b>1 decillion</b> cookies per second. |
-| Green cookies sleep furiously | Bake <b>10 decillion</b> cookies per second. |
-| Leisurely pace | Bake <b>1 undecillion</b> cookies per second. |
-| Hypersonic | Bake <b>10 undecillion</b> cookies per second. |
-| Gotta go fast | Bake <b>100 undecillion</b> cookies per second. |
-| Bake him away, toys | Bake <b>1 duodecillion</b> cookies per second. |
-| You're #1 so why try harder | Bake <b>10 duodecillion</b> cookies per second. |
-| Haven't even begun to peak | Bake <b>1 tredecillion</b> cookies per second. |
-| What did we even eat before these | Bake <b>10 tredecillion</b> cookies per second. |
-| Heavy flow | Bake <b>100 tredecillion</b> cookies per second. |
-| More you say? | Bake <b>1 quattuordecillion</b> cookies per second. |
-| Keep going until I say stop | Bake <b>10 quattuordecillion</b> cookies per second. |
-| But I didn't say stop, did I? | Bake <b>1 quindecillion</b> cookies per second. |
-| With unrivaled fervor | Bake <b>10 quindecillion</b> cookies per second. |
-| I am speed | Bake <b>100 quindecillion</b> cookies per second. |
-| And on and on | Bake <b>1 sexdecillion</b> cookies per second. |
-| Everything happens so much | Bake <b>10 sexdecillion</b> cookies per second. |
-| I'll rest when I'm dead | Bake <b>1 septendecillion</b> cookies per second. |
-| Can we get much higher | Bake <b>10 septendecillion</b> cookies per second. |
-| Speed's the name of the game (no it's not it's called Cookie Clicker) | Bake <b>100 septendecillion</b> cookies per second. |
-| Clicktastic | Make <b>1,000 cookies</b> from clicking. |
-| Clickathlon | Make <b>100,000 cookies</b> from clicking. |
-| Clickolympics | Make <b>10 million cookies</b> from clicking. |
-| Clickorama | Make <b>1 billion cookies</b> from clicking. |
-| Clickasmic | Make <b>100 billion cookies</b> from clicking. |
-| Clickageddon | Make <b>10 trillion cookies</b> from clicking. |
-| Clicknarok | Make <b>1 quadrillion cookies</b> from clicking. |
-| Clickastrophe | Make <b>100 quadrillion cookies</b> from clicking. |
-| Clickataclysm | Make <b>10 quintillion cookies</b> from clicking. |
-| The ultimate clickdown | Make <b>1 sextillion cookies</b> from clicking.<br><i>(of ultimate destiny.)</i> |
-| All the other kids with the pumped up clicks | Make <b>100 sextillion cookies</b> from clicking. |
-| One...more...click... | Make <b>10 septillion cookies</b> from clicking. |
-| Clickety split | Make <b>1 octillion cookies</b> from clicking. |
-| Ain't that a click in the head | Make <b>100 octillion cookies</b> from clicking. |
-| What's not clicking | Make <b>10 nonillion cookies</b> from clicking. |
+| Wake and bake | Bake <b>100 cookies</b> in one ascension. |
+| Making some dough | Bake <b>1,000 cookies</b> in one ascension. |
+| So baked right now | Bake <b>100,000 cookies</b> in one ascension. |
+| Fledgling bakery | Bake <b>1M cookies</b> in one ascension. |
+| Affluent bakery | Bake <b>100M cookies</b> in one ascension. |
+| World-famous bakery | Bake <b>1B cookies</b> in one ascension. |
+| Cosmic bakery | Bake <b>100B cookies</b> in one ascension. |
+| Galactic bakery | Bake <b>1T cookies</b> in one ascension. |
+| Universal bakery | Bake <b>100T cookies</b> in one ascension. |
+| Timeless bakery | Bake <b>1Qa cookies</b> in one ascension. |
+| Infinite bakery | Bake <b>100Qa cookies</b> in one ascension. |
+| Immortal bakery | Bake <b>1Qi cookies</b> in one ascension. |
+| Don't stop me now | Bake <b>100Qi cookies</b> in one ascension. |
+| You can stop now | Bake <b>1Sx cookies</b> in one ascension. |
+| Cookies all the way down | Bake <b>100Sx cookies</b> in one ascension. |
+| Overdose | Bake <b>1Sp cookies</b> in one ascension. |
+| How? | Bake <b>100Sp cookies</b> in one ascension. |
+| The land of milk and cookies | Bake <b>1Oc cookies</b> in one ascension. |
+| He who controls the cookies controls the universe | Bake <b>100Oc cookies</b> in one ascension.<br><i>The milk must flow!</i> |
+| Tonight on Hoarders | Bake <b>1No cookies</b> in one ascension. |
+| Are you gonna eat all that? | Bake <b>100No cookies</b> in one ascension. |
+| We're gonna need a bigger bakery | Bake <b>1Dc cookies</b> in one ascension. |
+| In the mouth of madness | Bake <b>100Dc cookies</b> in one ascension.<br><i>A cookie is just what we tell each other it is.</i> |
+| Brought to you by the letter 🍪 | Bake <b>1 UnD cookies</b> in one ascension. |
+| The dreams in which I'm baking are the best I've ever had | Bake <b>100 UnD cookies</b> in one ascension. |
+| Set for life | Bake <b>1 DoD cookies</b> in one ascension. |
+| Panic! at Nabisco | Bake <b>100 DoD cookies</b> in one ascension. |
+| Bursting at the seams | Bake <b>1 TrD cookies</b> in one ascension. |
+| Just about full | Bake <b>100 TrD cookies</b> in one ascension. |
+| Hungry for more | Bake <b>1 QaD cookies</b> in one ascension. |
+| Feed me, Orteil | Bake <b>100 QaD cookies</b> in one ascension. |
+| And then what? | Bake <b>1 QiD cookies</b> in one ascension. |
+| I think it's safe to say you've got it made | Bake <b>100 QiD cookies</b> in one ascension. |
+| A sometimes food | Bake <b>1 SxD cookies</b> in one ascension. |
+| Not enough of a good thing | Bake <b>100 SxD cookies</b> in one ascension. |
+| Horn of plenty | Bake <b>1 SpD cookies</b> in one ascension. |
+| Large and in charge | Bake <b>100 SpD cookies</b> in one ascension. |
+| Absolutely stuffed | Bake <b>1 OcD cookies</b> in one ascension. |
+| It's only wafer-thin | Bake <b>100 OcD cookies</b> in one ascension.<br><i>Just the one!</i> |
+| Think big | Bake <b>1 NoD cookies</b> in one ascension. |
+| Hypersize me | Bake <b>100 NoD cookies</b> in one ascension. |
+| Max capacity | Bake <b>1 V cookies</b> in one ascension. |
+| Fake it till you bake it | Bake <b>100 V cookies</b> in one ascension. |
+| History in the baking | Bake <b>1 UnV cookies</b> in one ascension. |
+| What do you get for the baker who has everything | Bake <b>100 UnV cookies</b> in one ascension. |
+| Bottomless pit | Bake <b>1 DoV cookies</b> in one ascension. |
+| Rainy day fund | Bake <b>100 DoV cookies</b> in one ascension. |
+| And a little extra | Bake <b>1 TrV cookies</b> in one ascension. |
+| Casual baking | Bake <b>1 cookie</b> per second. |
+| Hardcore baking | Bake <b>10 cookies</b> per second. |
+| Steady tasty stream | Bake <b>100 cookies</b> per second. |
+| Cookie monster | Bake <b>1,000 cookies</b> per second. |
+| Mass producer | Bake <b>10,000 cookies</b> per second. |
+| Cookie vortex | Bake <b>1M cookies</b> per second. |
+| Cookie pulsar | Bake <b>10M cookies</b> per second. |
+| Cookie quasar | Bake <b>100M cookies</b> per second. |
+| Oh hey, you're still here | Bake <b>1B cookies</b> per second. |
+| Let's never bake again | Bake <b>10B cookies</b> per second. |
+| A world filled with cookies | Bake <b>1T cookies</b> per second. |
+| When this baby hits 36 quadrillion cookies per hour | Bake <b>10T cookies</b> per second. |
+| Fast and delicious | Bake <b>100T cookies</b> per second. |
+| Cookiehertz: a really, really tasty hertz | Bake <b>1Qa cookies</b> per second.<br><i>Tastier than a hertz donut, anyway.</i> |
+| Woops, you solved world hunger | Bake <b>10Qa cookies</b> per second. |
+| Turbopuns | Bake <b>1Qi cookies</b> per second.<br><i>Mother Nature will be like "slowwwww dowwwwwn".</i> |
+| Faster menner | Bake <b>10Qi cookies</b> per second. |
+| And yet you're still hungry | Bake <b>100Qi cookies</b> per second. |
+| The Abakening | Bake <b>1Sx cookies</b> per second. |
+| There's really no hard limit to how long these achievement names can be and to be quite honest I'm rather curious to see how far we can go.<br>Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian at the New York Mercantile Library; from 1867 to 1869, he was promoted to full librarian. From 1869 to 1873, he worked for Evarts, Southmayd & Choate, a law firm co-founded by William M. Evarts, Charles Ferdinand Southmayd and Joseph Hodges Choate. He was admitted to the New York State Bar Association in 1873.<br>Anyway, how's your day been? | Bake <b>10Sx cookies</b> per second. |
+| Fast | Bake <b>1Sp cookies</b> per second.<br><i>Wow!</i> |
+| Knead for speed | Bake <b>10Sp cookies</b> per second.<br><i>How did we not make that one yet?</i> |
+| Well the cookies start coming and they don't stop coming | Bake <b>100Sp cookies</b> per second.<br><i>Didn't make sense not to click for fun.</i> |
+| I don't know if you've noticed but all these icons are very slightly off-center | Bake <b>1Oc cookies</b> per second. |
+| The proof of the cookie is in the baking | Bake <b>10Oc cookies</b> per second.<br><i>How can you have any cookies if you don't bake your dough?</i> |
+| If it's worth doing, it's worth overdoing | Bake <b>1No cookies</b> per second. |
+| Running with scissors | Bake <b>10No cookies</b> per second. |
+| Rarefied air | Bake <b>100No cookies</b> per second. |
+| Push it to the limit | Bake <b>1Dc cookies</b> per second. |
+| Green cookies sleep furiously | Bake <b>10Dc cookies</b> per second. |
+| Leisurely pace | Bake <b>1 UnD cookies</b> per second. |
+| Hypersonic | Bake <b>10 UnD cookies</b> per second. |
+| Gotta go fast | Bake <b>100 UnD cookies</b> per second. |
+| Bake him away, toys | Bake <b>1 DoD cookies</b> per second. |
+| You're #1 so why try harder | Bake <b>10 DoD cookies</b> per second. |
+| Haven't even begun to peak | Bake <b>1 TrD cookies</b> per second. |
+| What did we even eat before these | Bake <b>10 TrD cookies</b> per second. |
+| Heavy flow | Bake <b>100 TrD cookies</b> per second. |
+| More you say? | Bake <b>1 QaD cookies</b> per second. |
+| Keep going until I say stop | Bake <b>10 QaD cookies</b> per second. |
+| But I didn't say stop, did I? | Bake <b>1 QiD cookies</b> per second. |
+| With unrivaled fervor | Bake <b>10 QiD cookies</b> per second. |
+| I am speed | Bake <b>100 QiD cookies</b> per second. |
+| And on and on | Bake <b>1 SxD cookies</b> per second. |
+| Everything happens so much | Bake <b>10 SxD cookies</b> per second. |
+| I'll rest when I'm dead | Bake <b>1 SpD cookies</b> per second. |
+| Can we get much higher | Bake <b>10 SpD cookies</b> per second. |
+| Speed's the name of the game (no it's not it's called Cookie Clicker) | Bake <b>100 SpD cookies</b> per second. |
+| Clicktastic | Make <b>1,000</b> cookies from tapping. |
+| Clickathlon | Make <b>100,000</b> cookies from tapping. |
+| Clickolympics | Make <b>10M</b> cookies from tapping. |
+| Clickorama | Make <b>1B</b> cookies from tapping. |
+| Clickasmic | Make <b>100B</b> cookies from tapping. |
+| Clickageddon | Make <b>10T</b> cookies from tapping. |
+| Clicknarok | Make <b>1Qa</b> cookies from tapping. |
+| Clickastrophe | Make <b>100Qa</b> cookies from tapping. |
+| Clickataclysm | Make <b>10Qi</b> cookies from tapping. |
+| The ultimate clickdown | Make <b>1Sx</b> cookies from tapping.<br><i>(of ultimate destiny.)</i> |
+| All the other kids with the pumped up clicks | Make <b>100Sx</b> cookies from tapping. |
+| One...more...click... | Make <b>10Sp</b> cookies from tapping. |
+| Clickety split | Make <b>1Oc</b> cookies from tapping. |
+| Ain't that a click in the head | Make <b>100Oc</b> cookies from tapping. |
+| What's not clicking | Make <b>10No</b> cookies from tapping. |
 | Click | Have <b>1</b> cursor. |
 | Double-click | Have <b>2</b> cursors. |
 | Mouse wheel | Have <b>50</b> cursors. |
@@ -128,354 +130,354 @@ Currently on <b>v7.23</b> (Android).
 | The devil's workshop | Have <b>800 cursors</b>. |
 | All on deck | Have <b>900 cursors</b>. |
 | A round of applause | Have <b>1,000 cursors</b>.<br><i>Boy, are my arms tired!</i> |
-| Click delegator | Make <b>10 quintillion cookies</b> just from cursors. |
-| Finger clickin' good | Make <b>100 septillion cookies</b> just from cursors. |
-| Click (starring Adam Sandler) | Make <b>1 decillion cookies</b> just from cursors. |
+| Click delegator | Make <b>10Qi</b> cookies just from cursors. |
+| Finger clickin' good | Make <b>100Sp</b> cookies just from cursors. |
+| Click (starring Adam Sandler) | Make <b>1Dc</b> cookies just from cursors. |
 | Just wrong | Sell a grandma.<br><i>I thought you loved me.</i> |
-| Grandma's cookies | Have <b>1 grandma</b>. |
-| Sloppy kisses | Have <b>50 grandmas</b>. |
-| Retirement home | Have <b>100 grandmas</b>. |
-| Friend of the ancients | Have <b>150 grandmas</b>. |
-| Ruler of the ancients | Have <b>200 grandmas</b>. |
-| The old never bothered me anyway | Have <b>250 grandmas</b>. |
-| The agemaster | Have <b>300 grandmas</b>. |
-| To oldly go | Have <b>350 grandmas</b>. |
-| Aged well | Have <b>400 grandmas</b>. |
-| 101st birthday | Have <b>450 grandmas</b>. |
-| Defense of the ancients | Have <b>550 grandmas</b>. |
-| But wait 'til you get older | Have <b>500 grandmas</b>. |
-| Okay boomer | Have <b>600 grandmas</b>. |
-| They moistly come at night | Have <b>650 grandmas</b>. |
-| And now you're even older | Have <b>700 grandmas</b>. |
-| Gushing grannies | Make <b>10 quintillion cookies</b> just from grandmas. |
-| Panic at the bingo | Make <b>100 septillion cookies</b> just from grandmas. |
-| Frantiquities | Make <b>1 decillion cookies</b> just from grandmas. |
+| Grandma's cookies | Have <b>1</b> grandma. |
+| Sloppy kisses | Have <b>50</b> grandmas. |
+| Retirement home | Have <b>100</b> grandmas. |
+| Friend of the ancients | Have <b>150</b> grandmas. |
+| Ruler of the ancients | Have <b>200</b> grandmas. |
+| The old never bothered me anyway | Have <b>250</b> grandmas. |
+| The agemaster | Have <b>300</b> grandmas. |
+| To oldly go | Have <b>350</b> grandmas. |
+| Aged well | Have <b>400</b> grandmas. |
+| 101st birthday | Have <b>450</b> grandmas. |
+| Defense of the ancients | Have <b>500</b> grandmas. |
+| But wait 'til you get older | Have <b>550</b> grandmas. |
+| Okay boomer | Have <b>600</b> grandmas. |
+| They moistly come at night | Have <b>650</b> grandmas. |
+| And now you're even older | Have <b>700</b> grandmas. |
+| Gushing grannies | Make <b>10Qi</b> cookies just from grandmas. |
+| Panic at the bingo | Make <b>100Sp</b> cookies just from grandmas. |
+| Frantiquities | Make <b>1Dc</b> cookies just from grandmas. |
 | Elder | Own at least <b>7</b> grandma types. |
 | Veteran | Own at least <b>14</b> grandma types.<br><i>14's a crowd!</i> |
-| Bought the farm | Have <b>1 farm</b>. |
-| Reap what you sow | Have <b>50 farms</b>. |
-| Farm ill | Have <b>100 farms</b>. |
-| Perfected agriculture | Have <b>150 farms</b>. |
-| Homegrown | Have <b>200 farms</b>. |
-| Gardener extraordinaire | Have <b>250 farms</b>. |
-| Seedy business | Have <b>300 farms</b>. |
-| You and the beanstalk | Have <b>350 farms</b>. |
-| Harvest moon | Have <b>400 farms</b>. |
-| Make like a tree | Have <b>450 farms</b>. |
-| Sharpest tool in the shed | Have <b>500 farms</b>. |
-| Overripe | Have <b>550 farms</b>. |
-| In the green | Have <b>600 farms</b>. |
-| It's grown on you | Have <b>650 farms</b>. |
-| Au naturel | Have <b>700 farms</b>. |
-| I hate manure | Make <b>100 trillion cookies</b> just from farms. |
-| Rake in the dough | Make <b>1 sextillion cookies</b> just from farms. |
-| Overgrowth | Make <b>10 octillion cookies</b> just from farms. |
-| You know the drill | Have <b>1 mine</b>. |
-| Excavation site | Have <b>50 mines</b>. |
-| Hollow the planet | Have <b>100 mines</b>. |
-| Can you dig it | Have <b>150 mines</b>. |
-| The center of the Earth | Have <b>200 mines</b>. |
-| Tectonic ambassador | Have <b>250 mines</b>. |
-| Freak fracking | Have <b>300 mines</b>. |
-| Romancing the stone | Have <b>350 mines</b>. |
-| Mine? | Have <b>400 mines</b>. |
-| Cave story | Have <b>450 mines</b>. |
-| Hey now, you're a rock | Have <b>500 mines</b>. |
-| Rock on | Have <b>550 mines</b>. |
-| Mountain out of a molehill, but like in a good way | Have <b>600 mines</b>. |
-| Don't let the walls cave in on you | Have <b>650 mines</b>. |
-| Dirt-rich | Have <b>700 mines</b>. |
-| Never dig down | Make <b>1 quadrillion cookies</b> just from mines. |
-| Quarry on | Make <b>10 sextillion cookies</b> just from mines. |
-| Sedimentalism | Make <b>100 octillion cookies</b> just from mines. |
-| Production chain | Have <b>1 factory</b>. |
-| Industrial revolution | Have <b>50 factories</b>. |
-| Global warming | Have <b>100 factories</b>. |
-| Ultimate automation | Have <b>150 factories</b>. |
-| Technocracy | Have <b>200 factories</b>. |
-| Rise of the machines | Have <b>250 factories</b>. |
-| Modern times | Have <b>300 factories</b>. |
-| Ex machina | Have <b>350 factories</b>. |
-| In full gear | Have <b>400 factories</b>. |
-| In-cog-neato | Have <b>450 factories</b>. |
-| Break the mold | Have <b>500 factories</b>. |
-| Self-manmade man | Have <b>550 factories</b>. |
-| The wheels of progress | Have <b>600 factories</b>. |
-| Replaced by robots | Have <b>650 factories</b>. |
-| Bots build bots | Have <b>700 factories</b>. |
-| The incredible machine | Make <b>10 quadrillion cookies</b> just from factories. |
-| Yes I love technology | Make <b>100 sextillion cookies</b> just from factories. |
-| Labor of love | Make <b>1 nonillion cookies</b> just from factories. |
-| Pretty penny | Have <b>1 bank</b>. |
-| Fit the bill | Have <b>50 banks</b>. |
-| A loan in the dark | Have <b>100 banks</b>. |
-| Need for greed | Have <b>150 banks</b>. |
-| It's the economy, stupid | Have <b>200 banks</b>. |
-| Acquire currency | Have <b>250 banks</b>. |
-| The nerve of war | Have <b>300 banks</b>. |
-| And I need it now | Have <b>350 banks</b>. |
-| Treacle tart economics | Have <b>400 banks</b>. |
-| Save your breath because that's all you've got left | Have <b>450 banks</b>. |
-| Get the show on, get paid | Have <b>500 banks</b>. |
-| Checks out | Have <b>550 banks</b>. |
-| That's rich | Have <b>600 banks</b>. |
-| Financial prodigy | Have <b>650 banks</b>.<br><i>Imagine how it would be, to be at the top making cash money.</i> |
-| Getting that bag | Have <b>700 banks</b>. |
-| Vested interest | Make <b>100 quadrillion cookies</b> just from banks. |
-| Paid in full | Make <b>1 septillion cookies</b> just from banks. |
-| Reverse funnel system | Make <b>10 nonillion cookies</b> just from banks. |
-| Your time to shrine | Have <b>1 temple</b>. |
-| Shady sect | Have <b>50 temples</b>. |
-| New-age cult | Have <b>100 temples</b>. |
-| Organized religion | Have <b>150 temples</b>. |
-| Fanaticism | Have <b>200 temples</b>. |
-| Zealotry | Have <b>250 temples</b>. |
-| Wololo | Have <b>300 temples</b>. |
-| Pray on the weak | Have <b>350 temples</b>. |
-| Holy cookies, grandma! | Have <b>400 temples</b>. |
-| Vengeful and almighty | Have <b>450 temples</b>. |
-| My world's on fire, how about yours | Have <b>500 temples</b>. |
-| Living on a prayer | Have <b>550 temples</b>. |
-| Preaches and cream | Have <b>600 temples</b>. |
-| And I will pray to a big god | Have <b>650 temples</b>. |
-| The leader is good, the leader is great | Have <b>700 temples</b>. |
-| New world order | Make <b>1 quintillion cookies</b> just from temples. |
-| Church of Cookiology | Make <b>10 septillion cookies</b> just from temples. |
-| Thus spoke you | Make <b>100 nonillion cookies</b> just from temples. |
-| Bewitched | Have <b>1 wizard tower</b>. |
-| The sorcerer's apprentice | Have <b>50 wizard towers</b>. |
-| Charms and enchantments | Have <b>100 wizard towers</b>. |
-| Curses and maledictions | Have <b>150 wizard towers</b>. |
-| Magic kingdom | Have <b>200 wizard towers</b>. |
-| The wizarding world | Have <b>250 wizard towers</b>. |
-| And now for my next trick, I'll need a volunteer from the audience | Have <b>300 wizard towers</b>. |
-| It's a kind of magic | Have <b>350 wizard towers</b>. |
-| The Prestige | Have <b>400 wizard towers</b>.<br><i>(Unrelated to the Cookie Clicker feature of the same name.)</i> |
-| Spell it out for you | Have <b>450 wizard towers</b>. |
-| The meteor men beg to differ | Have <b>500 wizard towers</b>. |
-| Higitus figitus migitus mum | Have <b>550 wizard towers</b>. |
-| Magic thinking | Have <b>600 wizard towers</b>. |
-| Shosple Colupis | Have <b>650 wizard towers</b>. |
-| You don't think they could've used... it couldn't have been ma- | Have <b>700 wizard towers</b>. |
-| Hocus pocus | Make <b>10 quintillion cookies</b> just from wizard towers. |
-| Too many rabbits, not enough hats | Make <b>100 septillion cookies</b> just from wizard towers. |
-| Manafest destiny | Make <b>1 decillion cookies</b> just from wizard towers. |
-| Expedition | Have <b>1 shipment</b>. |
-| Galactic highway | Have <b>50 shipments</b>. |
-| Far far away | Have <b>100 shipments</b>. |
-| Type II civilization | Have <b>150 shipments</b>. |
-| We come in peace | Have <b>200 shipments</b>. |
-| Parsec-masher | Have <b>250 shipments</b>. |
-| It's not delivery | Have <b>300 shipments</b>. |
-| Make it so | Have <b>350 shipments</b>. |
-| That's just peanuts to space | Have <b>400 shipments</b>. |
-| Space space space space space | Have <b>450 shipments</b>.<br><i>It's too far away...</i> |
-| Only shooting stars | Have <b>500 shipments</b>. |
-| The incredible journey | Have <b>550 shipments</b>. |
-| Is there life on Mars? | Have <b>600 shipments</b>.<br><i>Yes, there is. You're currently using it as filling in experimental flavor prototype #810657.</i> |
-| False vacuum | Have <b>650 shipments</b>. |
-| Signed, sealed, delivered | Have <b>700 shipments</b>. |
-| And beyond | Make <b>100 quintillion cookies</b> just from shipments. |
-| The most precious cargo | Make <b>1 octillion cookies</b> just from shipments. |
-| Neither snow nor rain nor heat nor gloom of night | Make <b>10 decillion cookies</b> just from shipments. |
-| Transmutation | Have <b>1 alchemy lab</b>. |
-| Transmogrification | Have <b>50 alchemy labs</b>. |
-| Gold member | Have <b>100 alchemy labs</b>. |
-| Gild wars | Have <b>150 alchemy labs</b>. |
-| The secrets of the universe | Have <b>200 alchemy labs</b>. |
-| The work of a lifetime | Have <b>250 alchemy labs</b>. |
-| Gold, Jerry! Gold! | Have <b>300 alchemy labs</b>. |
-| All that glitters is gold | Have <b>350 alchemy labs</b>. |
-| Worth its weight in lead | Have <b>400 alchemy labs</b>. |
-| Don't get used to yourself, you're gonna have to change | Have <b>450 alchemy labs</b>. |
-| We could all use a little change | Have <b>500 alchemy labs</b>. |
-| Just a phase | Have <b>550 alchemy labs</b>. |
-| Bad chemistry | Have <b>600 alchemy labs</b>. |
-| Metallic taste | Have <b>650 alchemy labs</b>. |
-| Sugar, spice, and everything nice | Have <b>700 alchemy labs</b>.<br><i>These were the ingredients chosen to create the perfect cookies.</i> |
-| Magnum Opus | Make <b>1 sextillion cookies</b> just from alchemy labs. |
-| The Aureate | Make <b>10 octillion cookies</b> just from alchemy labs. |
-| I've got the Midas touch | Make <b>100 decillion cookies</b> just from alchemy labs. |
-| A whole new world | Have <b>1 portal</b>. |
-| Now you're thinking | Have <b>50 portals</b>. |
-| Dimensional shift | Have <b>100 portals</b>. |
-| Brain-split | Have <b>150 portals</b>. |
-| Realm of the Mad God | Have <b>200 portals</b>. |
-| A place lost in time | Have <b>250 portals</b>. |
-| Forbidden zone | Have <b>300 portals</b>. |
-| H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠̫̖̣͙̬͘ͅC̨̦̺̩̲̥͉̭͚̜̻̝̣̼͙̮̯̪o̴̡͇̘͎̞̲͇̦̲͞͡m̸̩̺̝̣̹̱͚̬̥̫̳̼̞̘̯͘ͅẹ͇̺̜́̕͢s̶̙̟̱̥̮̯̰̦͓͇͖͖̝͘͘͞ | Have <b>350 portals</b>. |
-| What happens in the vortex stays in the vortex | Have <b>400 portals</b>. |
-| Objects in the mirror dimension are closer than they appear | Have <b>450 portals</b>. |
-| Your brain gets smart but your head gets dumb | Have <b>500 portals</b>. |
-| Don't let me leave, Murph | Have <b>550 portals</b>. |
-| Reduced to gibbering heaps | Have <b>600 portals</b>. |
-| Swiss cheese | Have <b>650 portals</b>. |
-| Not even remotely close to Kansas anymore | Have <b>700 portals</b>. |
-| With strange eons | Make <b>10 sextillion cookies</b> just from portals. |
-| Ever more hideous | Make <b>100 octillion cookies</b> just from portals. |
-| Which eternal lie | Make <b>1 undecillion cookies</b> just from portals. |
-| Time warp | Have <b>1 time machine</b>. |
-| Alternate timeline | Have <b>50 time machines</b>. |
-| Rewriting history | Have <b>100 time machines</b>. |
-| Time duke | Have <b>150 time machines</b>. |
-| Forever and ever | Have <b>200 time machines</b>. |
-| Heat death | Have <b>250 time machines</b>. |
-| cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com | Have <b>300 time machines</b>. |
-| Way back then | Have <b>350 time machines</b>. |
-| Invited to yesterday's party | Have <b>400 time machines</b>. |
-| Groundhog day | Have <b>450 time machines</b>. |
-| The years start coming | Have <b>500 time machines</b>. |
-| Caveman to cosmos | Have <b>550 time machines</b>. |
-| Back already? | Have <b>600 time machines</b>. |
-| But the future refused to change | Have <b>650 time machines</b>. |
-| I only meant to stay a while | Have <b>700 time machines</b>. |
-| Spacetime jigamaroo | Make <b>100 sextillion cookies</b> just from time machines. |
-| Be kind, rewind | Make <b>1 nonillion cookies</b> just from time machines. |
-| D&eacute;j&agrave; vu | Make <b>10 undecillion cookies</b> just from time machines. |
-| Antibatter | Have <b>1 antimatter condenser</b>. |
-| Quirky quarks | Have <b>50 antimatter condensers</b>. |
-| It does matter! | Have <b>100 antimatter condensers</b>. |
-| Molecular maestro | Have <b>150 antimatter condensers</b>. |
-| Walk the planck | Have <b>200 antimatter condensers</b>. |
-| Microcosm | Have <b>250 antimatter condensers</b>. |
-| Scientists baffled everywhere | Have <b>300 antimatter condensers</b>. |
-| Exotic matter | Have <b>350 antimatter condensers</b>. |
-| Downsizing | Have <b>400 antimatter condensers</b>. |
-| A matter of perspective | Have <b>450 antimatter condensers</b>. |
-| What a concept | Have <b>500 antimatter condensers</b>. |
-| Particular tastes | Have <b>550 antimatter condensers</b>. |
-| Nuclear throne | Have <b>600 antimatter condensers</b>. |
-| What's the dark matter with you | Have <b>650 antimatter condensers</b>. |
-| Not 20 years away forever | Have <b>700 antimatter condensers</b>. |
-| Supermassive | Make <b>1 septillion cookies</b> just from antimatter condensers. |
-| Infinitesimal | Make <b>10 nonillion cookies</b> just from antimatter condensers. |
-| Powers of Ten | Make <b>100 undecillion cookies</b> just from antimatter condensers. |
-| Lone photon | Have <b>1 prism</b>. |
-| Dazzling glimmer | Have <b>50 prisms</b>. |
-| Blinding flash | Have <b>100 prisms</b>. |
-| Unending glow | Have <b>150 prisms</b>. |
-| Rise and shine | Have <b>200 prisms</b>. |
-| Bright future | Have <b>250 prisms</b>. |
-| Harmony of the spheres | Have <b>300 prisms</b>. |
-| At the end of the tunnel | Have <b>350 prisms</b>. |
-| My eyes | Have <b>400 prisms</b>. |
-| Optical illusion | Have <b>450 prisms</b>. |
-| You'll never shine if you don't glow | Have <b>500 prisms</b>. |
-| A light snack | Have <b>550 prisms</b>. |
-| Making light of the situation | Have <b>600 prisms</b>. |
-| Enlightenment | Have <b>650 prisms</b>. |
-| Bright side of the Moon | Have <b>700 prisms</b>. |
-| Praise the sun | Make <b>10 septillion cookies</b> just from prisms. |
-| A still more glorious dawn | Make <b>100 nonillion cookies</b> just from prisms. |
-| Now the dark days are gone | Make <b>1 duodecillion cookies</b> just from prisms. |
-| Lucked out | Have <b>1 chancemaker</b>. |
-| What are the odds | Have <b>50 chancemakers</b>. |
-| Grandma needs a new pair of shoes | Have <b>100 chancemakers</b>. |
-| Million to one shot, doc | Have <b>150 chancemakers</b>. |
-| As luck would have it | Have <b>200 chancemakers</b>. |
-| Ever in your favor | Have <b>250 chancemakers</b>. |
-| Be a lady | Have <b>300 chancemakers</b>. |
-| Dicey business | Have <b>350 chancemakers</b>. |
-| Maybe a chance in hell, actually | Have <b>400 chancemakers</b>. |
-| Jackpot | Have <b>450 chancemakers</b>. |
-| You'll never know if you don't go | Have <b>500 chancemakers</b>. |
-| Tempting fate | Have <b>550 chancemakers</b>. |
-| Flip a cookie. Chips, I win. Crust, you lose. | Have <b>600 chancemakers</b>. |
-| Never tell me the odds | Have <b>650 chancemakers</b>. |
-| Riding the Mersenne twister | Have <b>700 chancemakers</b>. |
-| Fingers crossed | Make <b>100 septillion cookies</b> just from chancemakers. |
-| Just a statistic | Make <b>1 decillion cookies</b> just from chancemakers. |
-| Murphy's wild guess | Make <b>10 duodecillion cookies</b> just from chancemakers. |
-| Self-contained | Have <b>1 fractal engine</b>. |
-| Threw you for a loop | Have <b>50 fractal engines</b>. |
-| The sum of its parts | Have <b>100 fractal engines</b>. |
-| Bears repeating | Have <b>150 fractal engines</b>.<br><i>Where did these come from?</i> |
-| More of the same | Have <b>200 fractal engines</b>. |
-| Last recurse | Have <b>250 fractal engines</b>. |
-| Out of one, many | Have <b>300 fractal engines</b>. |
-| An example of recursion | Have <b>350 fractal engines</b>. |
-| For more information on this achievement, please refer to its title | Have <b>400 fractal engines</b>. |
-| I'm so meta, even this achievement | Have <b>450 fractal engines</b>. |
-| Never get bored | Have <b>500 fractal engines</b>. |
-| Tautological | Have <b>550 fractal engines</b>. |
-| In and of itself | Have <b>600 fractal engines</b>. |
-| Blowing an Apollonian gasket | Have <b>650 fractal engines</b>. |
-| Divide and conquer | Have <b>700 fractal engines</b>. |
-| The needs of the many | Make <b>1 octillion cookies</b> just from fractal engines. |
-| Eating its own | Make <b>10 decillion cookies</b> just from fractal engines. |
-| We must go deeper | Make <b>100 duodecillion cookies</b> just from fractal engines. |
-| F12 | Have <b>1 javascript console</b>. |
-| Variable success | Have <b>50 javascript consoles</b>. |
-| No comments | Have <b>100 javascript consoles</b>. |
-| Up to code | Have <b>150 javascript consoles</b>. |
-| Works on my machine | Have <b>200 javascript consoles</b>. |
-| Technical debt | Have <b>250 javascript consoles</b>. |
-| Mind your language | Have <b>300 javascript consoles</b>. |
-| Inconsolable | Have <b>350 javascript consoles</b>. |
-| Closure | Have <b>400 javascript consoles</b>. |
-| Dude what if we're all living in a simulation like what if we're all just code on a computer somewhere | Have <b>450 javascript consoles</b>. |
-| Taking the back streets | Have <b>500 javascript consoles</b>. |
-| Curly braces | Have <b>550 javascript consoles</b>.<br><i>Or as the French call them, mustache boxes.<br>Go well with quotes.</i> |
-| Duck typing | Have <b>600 javascript consoles</b>.<br><i>Hello, this is a duck typing. Got any grapes?</i> |
-| Get with the program | Have <b>650 javascript consoles</b>. |
-| Pebcakes | Have <b>700 javascript consoles</b>.<br><i>Problem exists in my mouth!</i> |
-| Inherited prototype | Make <b>10 octillion cookies</b> just from javascript consoles. |
-| A model of document object | Make <b>100 decillion cookies</b> just from javascript consoles. |
-| First-class citizen | Make <b>1 tredecillion cookies</b> just from javascript consoles. |
-| They'll never know what hit 'em | Have <b>1 idleverse</b>. |
-| Well-versed | Have <b>50 idleverses</b>. |
-| Ripe for the picking | Have <b>100 idleverses</b>. |
-| Unreal | Have <b>150 idleverses</b>. |
-| Once you've seen one | Have <b>200 idleverses</b>. |
-| Spoils and plunder | Have <b>250 idleverses</b>. |
-| Nobody exists on purpose, nobody belongs anywhere | Have <b>300 idleverses</b>.<br><i>Come watch TV?</i> |
-| Hyperspace expressway | Have <b>350 idleverses</b>. |
-| Versatile | Have <b>400 idleverses</b>. |
-| You are inevitable | Have <b>450 idleverses</b>. |
-| Away from this place | Have <b>500 idleverses</b>. |
-| Everywhere at once | Have <b>550 idleverses</b>. |
-| Reject reality, substitute your own | Have <b>600 idleverses</b>. |
-| Lost your cosmic marbles | Have <b>650 idleverses</b>. |
-| Greener on the other sides | Have <b>700 idleverses</b>. |
-| Fringe | Make <b>100 octillion cookies</b> just from idleverses. |
-| Coherence | Make <b>1 undecillion cookies</b> just from idleverses. |
-| Earth-616 | Make <b>10 tredecillion cookies</b> just from idleverses. |
-| It's big brain time | Have <b>1 cortex baker</b>. |
-| Just my imagination | Have <b>50 cortex bakers</b>. |
-| Now there's an idea | Have <b>100 cortex bakers</b>. |
-| The organ that named itself | Have <b>150 cortex bakers</b>. |
-| Gyrification | Have <b>200 cortex bakers</b>. |
-| A trademarked portmanteau of "imagination" and "engineering" | Have <b>250 cortex bakers</b>. |
-| Mindfulness | Have <b>300 cortex bakers</b>. |
-| The 10% myth | Have <b>350 cortex bakers</b>. |
-| Don't think about it too hard | Have <b>400 cortex bakers</b>. |
-| Though fools seldom differ | Have <b>450 cortex bakers</b>. |
-| Looking kind of dumb | Have <b>500 cortex bakers</b>. |
-| A beautiful mind | Have <b>550 cortex bakers</b>. |
-| Cardinal synapses | Have <b>600 cortex bakers</b>. |
-| By will alone I set my mind in motion | Have <b>650 cortex bakers</b>. |
-| Where is my mind | Have <b>700 cortex bakers</b>. |
-| Positive thinking | Make <b>1 nonillion cookies</b> just from cortex bakers. |
-| The thought that counts | Make <b>10 undecillion cookies</b> just from cortex bakers. |
-| Unthinkable | Make <b>100 tredecillion cookies</b> just from cortex bakers. |
-| My own clone | Have <b>1 You</b>. |
-| Multiplicity | Have <b>50 You</b>. |
-| Born for this job | Have <b>100 You</b>. |
-| Episode II | Have <b>150 You</b>. |
-| Copy that | Have <b>200 You</b>. |
-| Life finds a way | Have <b>250 You</b>. |
-| Overcrowding | Have <b>300 You</b>. |
-| Strength in numbers | Have <b>350 You</b>. |
-| Army of me | Have <b>400 You</b>. |
-| Know thyself | Have <b>450 You</b>.<br><i>Do you ever look at yourself in the mirror and wonder... What is going on inside your head?</i> |
-| Didn't make sense not to live | Have <b>500 You</b>. |
-| Genetic bottleneck | Have <b>550 You</b>. |
-| Despite everything, it's still you | Have <b>600 You</b>. |
-| Everyone everywhere all at once | Have <b>650 You</b>. |
-| Introspection | Have <b>700 You</b>. |
-| Self-made | Make <b>10 nonillion cookies</b> just from You. |
-| Reproducible results | Make <b>100 undecillion cookies</b> just from You. |
-| That's all you | Make <b>1 quattuordecillion cookies</b> just from You. |
+| Bought the farm | Have <b>1</b> farm. |
+| Reap what you sow | Have <b>50</b> farms. |
+| Farm ill | Have <b>100</b> farms. |
+| Perfected agriculture | Have <b>150</b> farms. |
+| Homegrown | Have <b>200</b> farms. |
+| Gardener extraordinaire | Have <b>250</b> farms. |
+| Seedy business | Have <b>300</b> farms. |
+| You and the beanstalk | Have <b>350</b> farms. |
+| Harvest moon | Have <b>400</b> farms. |
+| Make like a tree | Have <b>450</b> farms. |
+| Sharpest tool in the shed | Have <b>500</b> farms. |
+| Overripe | Have <b>550</b> farms. |
+| In the green | Have <b>600</b> farms. |
+| It's grown on you | Have <b>650</b> farms. |
+| Au naturel | Have <b>700</b> farms. |
+| I hate manure | Make <b>100T</b> cookies just from farms. |
+| Rake in the dough | Make <b>1Sx</b> cookies just from farms. |
+| Overgrowth | Make <b>10Oc</b> cookies just from farms. |
+| You know the drill | Have <b>1</b> mine. |
+| Excavation site | Have <b>50</b> mines. |
+| Hollow the planet | Have <b>100</b> mines. |
+| Can you dig it | Have <b>150</b> mines. |
+| The center of the Earth | Have <b>200</b> mines. |
+| Tectonic ambassador | Have <b>250</b> mines. |
+| Freak fracking | Have <b>300</b> mines. |
+| Romancing the stone | Have <b>350</b> mines. |
+| Mine? | Have <b>400</b> mines. |
+| Cave story | Have <b>450</b> mines. |
+| Hey now, you're a rock | Have <b>500</b> mines. |
+| Rock on | Have <b>550</b> mines. |
+| Mountain out of a molehill, but like in a good way | Have <b>600</b> mines. |
+| Don't let the walls cave in on you | Have <b>650</b> mines. |
+| Dirt-rich | Have <b>700</b> mines. |
+| Never dig down | Make <b>1Qa</b> cookies just from mines. |
+| Quarry on | Make <b>10Sx</b> cookies just from mines. |
+| Sedimentalism | Make <b>100Oc</b> cookies just from mines. |
+| Production chain | Have <b>1</b> factory. |
+| Industrial revolution | Have <b>50</b> factories. |
+| Global warming | Have <b>100</b> factories. |
+| Ultimate automation | Have <b>150</b> factories. |
+| Technocracy | Have <b>200</b> factories. |
+| Rise of the machines | Have <b>250</b> factories. |
+| Modern times | Have <b>300</b> factories. |
+| Ex machina | Have <b>350</b> factories. |
+| In full gear | Have <b>400</b> factories. |
+| In-cog-neato | Have <b>450</b> factories. |
+| Break the mold | Have <b>500</b> factories. |
+| Self-manmade man | Have <b>550</b> factories. |
+| The wheels of progress | Have <b>600</b> factories. |
+| Replaced by robots | Have <b>650</b> factories. |
+| Bots build bots | Have <b>700</b> factories. |
+| The incredible machine | Make <b>10Qa</b> cookies just from factories. |
+| Yes I love technology | Make <b>100Sx</b> cookies just from factories. |
+| Labor of love | Make <b>1No</b> cookies just from factories. |
+| Pretty penny | Have <b>1</b> bank. |
+| Fit the bill | Have <b>50</b> banks. |
+| A loan in the dark | Have <b>100</b> banks. |
+| Need for greed | Have <b>150</b> banks. |
+| It's the economy, stupid | Have <b>200</b> banks. |
+| Acquire currency | Have <b>250</b> banks. |
+| The nerve of war | Have <b>300</b> banks. |
+| And I need it now | Have <b>350</b> banks. |
+| Treacle tart economics | Have <b>400</b> banks. |
+| Save your breath because that's all you've got left | Have <b>450</b> banks. |
+| Get the show on, get paid | Have <b>500</b> banks. |
+| Checks out | Have <b>550</b> banks. |
+| That's rich | Have <b>600</b> banks. |
+| Financial prodigy | Have <b>650</b> banks.<br><i>Imagine how it would be, to be at the top making cash money.</i> |
+| Getting that bag | Have <b>700</b> banks. |
+| Vested interest | Make <b>100Qa</b> cookies just from banks. |
+| Paid in full | Make <b>1Sp</b> cookies just from banks. |
+| Reverse funnel system | Make <b>10No</b> cookies just from banks. |
+| Your time to shrine | Have <b>1</b> temple. |
+| Shady sect | Have <b>50</b> temples. |
+| New-age cult | Have <b>100</b> temples. |
+| Organized religion | Have <b>150</b> temples. |
+| Fanaticism | Have <b>200</b> temples. |
+| Zealotry | Have <b>250</b> temples. |
+| Wololo | Have <b>300</b> temples. |
+| Pray on the weak | Have <b>350</b> temples. |
+| Holy cookies, grandma! | Have <b>400</b> temples. |
+| Vengeful and almighty | Have <b>450</b> temples. |
+| My world's on fire, how about yours | Have <b>500</b> temples. |
+| Living on a prayer | Have <b>550</b> temples. |
+| Preaches and cream | Have <b>600</b> temples. |
+| And I will pray to a big god | Have <b>650</b> temples. |
+| The leader is good, the leader is great | Have <b>700</b> temples. |
+| New world order | Make <b>1Qi</b> cookies just from temples. |
+| Church of Cookiology | Make <b>10Sp</b> cookies just from temples. |
+| Thus spoke you | Make <b>100No</b> cookies just from temples. |
+| Bewitched | Have <b>1</b> wizard tower. |
+| The sorcerer's apprentice | Have <b>50</b> wizard towers. |
+| Charms and enchantments | Have <b>100</b> wizard towers. |
+| Curses and maledictions | Have <b>150</b> wizard towers. |
+| Magic kingdom | Have <b>200</b> wizard towers. |
+| The wizarding world | Have <b>250</b> wizard towers. |
+| And now for my next trick, I'll need a volunteer from the audience | Have <b>300</b> wizard towers. |
+| It's a kind of magic | Have <b>350</b> wizard towers. |
+| The Prestige | Have <b>400</b> wizard towers.<br><i>(Unrelated to the Cookie Clicker feature of the same name.)</i> |
+| Spell it out for you | Have <b>450</b> wizard towers. |
+| The meteor men beg to differ | Have <b>500</b> wizard towers. |
+| Higitus figitus migitus mum | Have <b>550</b> wizard towers. |
+| Magic thinking | Have <b>600</b> wizard towers. |
+| Shosple Colupis | Have <b>650</b> wizard towers. |
+| You don't think they could've used... it couldn't have been ma- | Have <b>700</b> wizard towers. |
+| Hocus pocus | Make <b>10Qi</b> cookies just from wizard towers. |
+| Too many rabbits, not enough hats | Make <b>100Sp</b> cookies just from wizard towers. |
+| Manafest destiny | Make <b>1Dc</b> cookies just from wizard towers. |
+| Expedition | Have <b>1</b> shipment. |
+| Galactic highway | Have <b>50</b> shipments. |
+| Far far away | Have <b>100</b> shipments. |
+| Type II civilization | Have <b>150</b> shipments. |
+| We come in peace | Have <b>200</b> shipments. |
+| Parsec-masher | Have <b>250</b> shipments. |
+| It's not delivery | Have <b>300</b> shipments. |
+| Make it so | Have <b>350</b> shipments. |
+| That's just peanuts to space | Have <b>400</b> shipments. |
+| Space space space space space | Have <b>450</b> shipments.<br><i>It's too far away...</i> |
+| Only shooting stars | Have <b>500</b> shipments. |
+| The incredible journey | Have <b>550</b> shipments. |
+| Is there life on Mars? | Have <b>600</b> shipments.<br><i>Yes, there is. You're currently using it as filling in experimental flavor prototype #810657.</i> |
+| False vacuum | Have <b>650</b> shipments. |
+| Signed, sealed, delivered | Have <b>700</b> shipments. |
+| And beyond | Make <b>100Qi</b> cookies just from shipments. |
+| The most precious cargo | Make <b>1Oc</b> cookies just from shipments. |
+| Neither snow nor rain nor heat nor gloom of night | Make <b>10Dc</b> cookies just from shipments. |
+| Transmutation | Have <b>1</b> alchemy lab. |
+| Transmogrification | Have <b>50</b> alchemy labs. |
+| Gold member | Have <b>100</b> alchemy labs. |
+| Gild wars | Have <b>150</b> alchemy labs. |
+| The secrets of the universe | Have <b>200</b> alchemy labs. |
+| The work of a lifetime | Have <b>250</b> alchemy labs. |
+| Gold, Jerry! Gold! | Have <b>300</b> alchemy labs. |
+| All that glitters is gold | Have <b>350</b> alchemy labs. |
+| Worth its weight in lead | Have <b>400</b> alchemy labs. |
+| Don't get used to yourself, you're gonna have to change | Have <b>450</b> alchemy labs. |
+| We could all use a little change | Have <b>500</b> alchemy labs. |
+| Just a phase | Have <b>550</b> alchemy labs. |
+| Bad chemistry | Have <b>600</b> alchemy labs. |
+| Metallic taste | Have <b>650</b> alchemy labs. |
+| Sugar, spice, and everything nice | Have <b>700</b> alchemy labs.<br><i>These were the ingredients chosen to create the perfect cookies.</i> |
+| Magnum Opus | Make <b>1Sx</b> cookies just from alchemy labs. |
+| The Aureate | Make <b>10Oc</b> cookies just from alchemy labs. |
+| I've got the Midas touch | Make <b>100Dc</b> cookies just from alchemy labs. |
+| A whole new world | Have <b>1</b> portal. |
+| Now you're thinking | Have <b>50</b> portals. |
+| Dimensional shift | Have <b>100</b> portals. |
+| Brain-split | Have <b>150</b> portals. |
+| Realm of the Mad God | Have <b>200</b> portals. |
+| A place lost in time | Have <b>250</b> portals. |
+| Forbidden zone | Have <b>300</b> portals. |
+| H̸̷͓̳̳̯̟͕̟͍͍̣͡ḛ̢̦̰̺̮̝͖͖̘̪͉͘͡ ̠̦͕̤̪̝̥̰̠̫̖̣͙̬͘ͅC̨̦̺̩̲̥͉̭͚̜̻̝̣̼͙̮̯̪o̴̡͇̘͎̞̲͇̦̲͞͡m̸̩̺̝̣̹̱͚̬̥̫̳̼̞̘̯͘ͅẹ͇̺̜́̕͢s̶̙̟̱̥̮̯̰̦͓͇͖͖̝͘͘͞ | Have <b>350</b> portals. |
+| What happens in the vortex stays in the vortex | Have <b>400</b> portals. |
+| Objects in the mirror dimension are closer than they appear | Have <b>450</b> portals. |
+| Your brain gets smart but your head gets dumb | Have <b>500</b> portals. |
+| Don't let me leave, Murph | Have <b>550</b> portals. |
+| Reduced to gibbering heaps | Have <b>600</b> portals. |
+| Swiss cheese | Have <b>650</b> portals. |
+| Not even remotely close to Kansas anymore | Have <b>700</b> portals. |
+| With strange eons | Make <b>10Sx</b> cookies just from portals. |
+| Ever more hideous | Make <b>100Oc</b> cookies just from portals. |
+| Which eternal lie | Make <b>1 UnD</b> cookies just from portals. |
+| Time warp | Have <b>1</b> time machine. |
+| Alternate timeline | Have <b>50</b> time machines. |
+| Rewriting history | Have <b>100</b> time machines. |
+| Time duke | Have <b>150</b> time machines. |
+| Forever and ever | Have <b>200</b> time machines. |
+| Heat death | Have <b>250</b> time machines. |
+| cookie clicker forever and forever a hundred years cookie clicker, all day long forever, forever a hundred times, over and over cookie clicker adventures dot com | Have <b>300</b> time machines. |
+| Way back then | Have <b>350</b> time machines. |
+| Invited to yesterday's party | Have <b>400</b> time machines. |
+| Groundhog day | Have <b>450</b> time machines. |
+| The years start coming | Have <b>500</b> time machines. |
+| Caveman to cosmos | Have <b>550</b> time machines. |
+| Back already? | Have <b>600</b> time machines. |
+| But the future refused to change | Have <b>650</b> time machines. |
+| I only meant to stay a while | Have <b>700</b> time machines. |
+| Spacetime jigamaroo | Make <b>100Sx</b> cookies just from time machines. |
+| Be kind, rewind | Make <b>1No</b> cookies just from time machines. |
+| D&eacute;j&agrave; vu | Make <b>10 UnD</b> cookies just from time machines. |
+| Antibatter | Have <b>1</b> antimatter condenser. |
+| Quirky quarks | Have <b>50</b> antimatter condensers. |
+| It does matter! | Have <b>100</b> antimatter condensers. |
+| Molecular maestro | Have <b>150</b> antimatter condensers. |
+| Walk the planck | Have <b>200</b> antimatter condensers. |
+| Microcosm | Have <b>250</b> antimatter condensers. |
+| Scientists baffled everywhere | Have <b>300</b> antimatter condensers. |
+| Exotic matter | Have <b>350</b> antimatter condensers. |
+| Downsizing | Have <b>400</b> antimatter condensers. |
+| A matter of perspective | Have <b>450</b> antimatter condensers. |
+| What a concept | Have <b>500</b> antimatter condensers. |
+| Particular tastes | Have <b>550</b> antimatter condensers. |
+| Nuclear throne | Have <b>600</b> antimatter condensers. |
+| What's the dark matter with you | Have <b>650</b> antimatter condensers. |
+| Not 20 years away forever | Have <b>700</b> antimatter condensers. |
+| Supermassive | Make <b>1Sp</b> cookies just from antimatter condensers. |
+| Infinitesimal | Make <b>10No</b> cookies just from antimatter condensers. |
+| Powers of Ten | Make <b>100 UnD</b> cookies just from antimatter condensers. |
+| Lone photon | Have <b>1</b> prism. |
+| Dazzling glimmer | Have <b>50</b> prisms. |
+| Blinding flash | Have <b>100</b> prisms. |
+| Unending glow | Have <b>150</b> prisms. |
+| Rise and shine | Have <b>200</b> prisms. |
+| Bright future | Have <b>250</b> prisms. |
+| Harmony of the spheres | Have <b>300</b> prisms. |
+| At the end of the tunnel | Have <b>350</b> prisms. |
+| My eyes | Have <b>400</b> prisms. |
+| Optical illusion | Have <b>450</b> prisms. |
+| You'll never shine if you don't glow | Have <b>500</b> prisms. |
+| A light snack | Have <b>550</b> prisms. |
+| Making light of the situation | Have <b>600</b> prisms. |
+| Enlightenment | Have <b>650</b> prisms. |
+| Bright side of the Moon | Have <b>700</b> prisms. |
+| Praise the sun | Make <b>10Sp</b> cookies just from prisms. |
+| A still more glorious dawn | Make <b>100No</b> cookies just from prisms. |
+| Now the dark days are gone | Make <b>1 DoD</b> cookies just from prisms. |
+| Lucked out | Have <b>1</b> chancemaker. |
+| What are the odds | Have <b>50</b> chancemakers. |
+| Grandma needs a new pair of shoes | Have <b>100</b> chancemakers. |
+| Million to one shot, doc | Have <b>150</b> chancemakers. |
+| As luck would have it | Have <b>200</b> chancemakers. |
+| Ever in your favor | Have <b>250</b> chancemakers. |
+| Be a lady | Have <b>300</b> chancemakers. |
+| Dicey business | Have <b>350</b> chancemakers. |
+| Maybe a chance in hell, actually | Have <b>400</b> chancemakers. |
+| Jackpot | Have <b>450</b> chancemakers. |
+| You'll never know if you don't go | Have <b>500</b> chancemakers. |
+| Tempting fate | Have <b>550</b> chancemakers. |
+| Flip a cookie. Chips, I win. Crust, you lose. | Have <b>600</b> chancemakers. |
+| Never tell me the odds | Have <b>650</b> chancemakers. |
+| Riding the Mersenne twister | Have <b>700</b> chancemakers. |
+| Fingers crossed | Make <b>100Sp</b> cookies just from chancemakers. |
+| Just a statistic | Make <b>1Dc</b> cookies just from chancemakers. |
+| Murphy's wild guess | Make <b>10 DoD</b> cookies just from chancemakers. |
+| Self-contained | Have <b>1</b> fractal engine. |
+| Threw you for a loop | Have <b>50</b> fractal engines. |
+| The sum of its parts | Have <b>100</b> fractal engines. |
+| Bears repeating | Have <b>150</b> fractal engines.<br><i>Where did these come from?</i> |
+| More of the same | Have <b>200</b> fractal engines. |
+| Last recurse | Have <b>250</b> fractal engines. |
+| Out of one, many | Have <b>300</b> fractal engines. |
+| An example of recursion | Have <b>350</b> fractal engines. |
+| For more information on this achievement, please refer to its title | Have <b>400</b> fractal engines. |
+| I'm so meta, even this achievement | Have <b>450</b> fractal engines. |
+| Never get bored | Have <b>500</b> fractal engines. |
+| Tautological | Have <b>550</b> fractal engines. |
+| In and of itself | Have <b>600</b> fractal engines. |
+| Blowing an Apollonian gasket | Have <b>650</b> fractal engines. |
+| Divide and conquer | Have <b>700</b> fractal engines. |
+| The needs of the many | Make <b>1Oc</b> cookies just from fractal engines. |
+| Eating its own | Make <b>10Dc</b> cookies just from fractal engines. |
+| We must go deeper | Make <b>100 DoD</b> cookies just from fractal engines. |
+| F12 | Have <b>1</b> javascript console. |
+| Variable success | Have <b>50</b> javascript consoles. |
+| No comments | Have <b>100</b> javascript consoles. |
+| Up to code | Have <b>150</b> javascript consoles. |
+| Works on my machine | Have <b>200</b> javascript consoles. |
+| Technical debt | Have <b>250</b> javascript consoles. |
+| Mind your language | Have <b>300</b> javascript consoles. |
+| Inconsolable | Have <b>350</b> javascript consoles. |
+| Closure | Have <b>400</b> javascript consoles. |
+| Dude what if we're all living in a simulation like what if we're all just code on a computer somewhere | Have <b>450</b> javascript consoles. |
+| Taking the back streets | Have <b>500</b> javascript consoles. |
+| Curly braces | Have <b>550</b> javascript consoles.<br><i>Or as the French call them, mustache boxes.<br>Go well with quotes.</i> |
+| Duck typing | Have <b>600</b> javascript consoles.<br><i>Hello, this is a duck typing. Got any grapes?</i> |
+| Get with the program | Have <b>650</b> javascript consoles. |
+| Pebcakes | Have <b>700</b> javascript consoles.<br><i>Problem exists in my mouth!</i> |
+| Inherited prototype | Make <b>10Oc</b> cookies just from javascript consoles. |
+| A model of document object | Make <b>100Dc</b> cookies just from javascript consoles. |
+| First-class citizen | Make <b>1 TrD</b> cookies just from javascript consoles. |
+| They'll never know what hit 'em | Have <b>1</b> idleverse. |
+| Well-versed | Have <b>50</b> idleverses. |
+| Ripe for the picking | Have <b>100</b> idleverses. |
+| Unreal | Have <b>150</b> idleverses. |
+| Once you've seen one | Have <b>200</b> idleverses. |
+| Spoils and plunder | Have <b>250</b> idleverses. |
+| Nobody exists on purpose, nobody belongs anywhere | Have <b>300</b> idleverses.<br><i>Come watch TV?</i> |
+| Hyperspace expressway | Have <b>350</b> idleverses. |
+| Versatile | Have <b>400</b> idleverses. |
+| You are inevitable | Have <b>450</b> idleverses. |
+| Away from this place | Have <b>500</b> idleverses. |
+| Everywhere at once | Have <b>550</b> idleverses. |
+| Reject reality, substitute your own | Have <b>600</b> idleverses. |
+| Lost your cosmic marbles | Have <b>650</b> idleverses. |
+| Greener on the other sides | Have <b>700</b> idleverses. |
+| Fringe | Make <b>100Oc</b> cookies just from idleverses. |
+| Coherence | Make <b>1 UnD</b> cookies just from idleverses. |
+| Earth-616 | Make <b>10 TrD</b> cookies just from idleverses. |
+| It's big brain time | Have <b>1</b> cortex baker. |
+| Just my imagination | Have <b>50</b> cortex bakers. |
+| Now there's an idea | Have <b>100</b> cortex bakers. |
+| The organ that named itself | Have <b>150</b> cortex bakers. |
+| Gyrification | Have <b>200</b> cortex bakers. |
+| A trademarked portmanteau of "imagination" and "engineering" | Have <b>250</b> cortex bakers. |
+| Mindfulness | Have <b>300</b> cortex bakers. |
+| The 10% myth | Have <b>350</b> cortex bakers. |
+| Don't think about it too hard | Have <b>400</b> cortex bakers. |
+| Though fools seldom differ | Have <b>450</b> cortex bakers. |
+| Looking kind of dumb | Have <b>500</b> cortex bakers. |
+| A beautiful mind | Have <b>550</b> cortex bakers. |
+| Cardinal synapses | Have <b>600</b> cortex bakers. |
+| By will alone I set my mind in motion | Have <b>650</b> cortex bakers. |
+| Where is my mind | Have <b>700</b> cortex bakers. |
+| Positive thinking | Make <b>1No</b> cookies just from cortex bakers. |
+| The thought that counts | Make <b>10 UnD</b> cookies just from cortex bakers. |
+| Unthinkable | Make <b>100 TrD</b> cookies just from cortex bakers. |
+| My own clone | Have <b>1</b> You. |
+| Multiplicity | Have <b>50</b> You. |
+| Born for this job | Have <b>100</b> You. |
+| Episode II | Have <b>150</b> You. |
+| Copy that | Have <b>200</b> You. |
+| Life finds a way | Have <b>250</b> You. |
+| Overcrowding | Have <b>300</b> You. |
+| Strength in numbers | Have <b>350</b> You. |
+| Army of me | Have <b>400</b> You. |
+| Know thyself | Have <b>450</b> You.<br><i>Do you ever look at yourself in the mirror and wonder... What is going on inside your head?</i> |
+| Didn't make sense not to live | Have <b>500</b> You. |
+| Genetic bottleneck | Have <b>550</b> You. |
+| Despite everything, it's still you | Have <b>600</b> You. |
+| Everyone everywhere all at once | Have <b>650</b> You. |
+| Introspection | Have <b>700</b> You. |
+| Self-made | Make <b>10No</b> cookies just from You. |
+| Reproducible results | Make <b>100 UnD</b> cookies just from You. |
+| That's all you | Make <b>1 QaD</b> cookies just from You. |
 | Builder | Own <b>100</b> buildings. |
 | Architect | Own <b>500</b> buildings. |
 | Engineer | Own <b>1,000</b> buildings. |
@@ -493,7 +495,7 @@ Currently on <b>v7.23</b> (Android).
 | When there's nothing left to add | Purchase <b>400 upgrades</b>.<br><i>...keep going.</i> |
 | Kaizen | Purchase <b>500 upgrades</b>.<br><i>Just a little more.</i> |
 | Beyond quality | Purchase <b>600 upgrades</b>.<br><i>Dwarfing all of mankind's accomplishments.</i> |
-| Oft we mar what's well | Purchase <b>700 upgrades</b>.<br><i>But don't let that stop you!</i> |
+| ~~Oft we mar what's well~~ | ~~Purchase <b>700 upgrades</b>.<br><i>But don't let that stop you!</i>~~ |
 | The elder scrolls | Own a combined <b>777</b> grandmas and cursors.<br><i>Let me guess. Someone stole your cookie.</i> |
 | One with everything | Have <b>at least 1</b> of every building. |
 | Mathematician | Have at least <b>1 of the most expensive object, 2 of the second-most expensive, 4 of the next</b> and so on (capped at 128). |
