@@ -1,4 +1,3 @@
-import achievements.AchievementsExport;
 import format.CCFormatter;
 import heavenlies.HeavenlyExport;
 import java.io.IOException;
@@ -14,17 +13,20 @@ public class Main {
     public static final String DEVICE = "Android";
 
     public static void main(String[] args) throws IOException {
+        // Enable ES6 JS standard
+        System.setProperty("nashorn.args", "--language=es6");
+
         String heavenliesTable = HeavenlyExport.printHeavenlyUpgrades(SCRIPT_FILE);
         Files.writeString(OUT_FOLDER.resolve("heavenly.md"),
                 CCFormatter.formatTemplate(
                         Files.readString(Paths.get("templates", "heavenly.md")),
                         VERSION, DEVICE, heavenliesTable));
 
-        String achievementsTable = AchievementsExport.formatAchievements(SCRIPT_FILE);
+        /*String achievementsTable = AchievementsExport.formatAchievements(SCRIPT_FILE);
         Files.writeString(OUT_FOLDER.resolve("achievements.md"),
                 CCFormatter.formatTemplate(
                         Files.readString(Paths.get("templates", "achievements.md")),
-                        VERSION, DEVICE, achievementsTable));
+                        VERSION, DEVICE, achievementsTable));*/
     }
 
 }

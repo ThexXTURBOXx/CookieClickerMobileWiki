@@ -1,7 +1,10 @@
 package heavenlies;
 
+import java.util.List;
 import lombok.AllArgsConstructor;
+import lombok.Data;
 
+@Data
 @AllArgsConstructor
 public class Heavenly implements Comparable<Heavenly> {
     public int id;
@@ -10,7 +13,7 @@ public class Heavenly implements Comparable<Heavenly> {
     public String altName;
     public String desc;
     public String desc2;
-    public String[] parents;
+    public List<Integer> parents;
     public long cost;
 
     @Override

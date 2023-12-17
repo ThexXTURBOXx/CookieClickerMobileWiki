@@ -1,7 +1,9 @@
 package achievements;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 
+@Data
 @AllArgsConstructor
 public class Achiev implements Comparable<Achiev> {
     public int id;
