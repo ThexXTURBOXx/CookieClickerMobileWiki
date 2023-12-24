@@ -76,7 +76,7 @@ public class UpgradesExport {
                     .append(u.unimplemented ? "~~" : "")
                     .append(" | ")
                     .append(u.unimplemented ? "~~" : "")
-                    .append(CCFormatter.DECIMAL_FORMAT.format(u.cost))
+                    .append(CCFormatter.formatScientificIfTooBig(u.cost))
                     .append(u.unimplemented ? "~~" : "")
                     .append(" | ")
                     .append(u.unimplemented ? "~~" : "")
