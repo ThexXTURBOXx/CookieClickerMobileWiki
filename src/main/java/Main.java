@@ -8,9 +8,8 @@ import upgrades.HeavenlyExport;
 
 public class Main {
 
-    public static final Path SCRIPT_FILE = Paths.get("test_data_scripts", "test_data_v7.23.js");
     public static final Path OUT_FOLDER = Paths.get("..", "CookieClickerMobileWiki");
-    public static final String VERSION = "v7.23";
+    public static final String VERSION = "v7.25";
     public static final String DEVICE = "Android";
 
     public static void main(String[] args) throws IOException {
