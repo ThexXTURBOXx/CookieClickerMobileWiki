@@ -1,4 +1,4 @@
-# Heavenly Upgrades
+# Upgrades
 
 Currently on <b>%(version)</b> (%(device)).
 
