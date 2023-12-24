@@ -69,7 +69,9 @@ public class UpgradesExport {
 
     public String formatNormalUpgrades() {
         StringBuilder builder = new StringBuilder();
-        for (Upgrade u : upgrades.stream().sorted(Upgrade::compareOrderOnly).toList()) {
+        for (Upgrade u : upgrades.stream()
+                .filter(u -> !u.isHeavenly())
+                .sorted(Upgrade::compareOrderOnly).toList()) {
             builder.append("| ")
                     .append(u.unimplemented ? "~~" : "")
                     .append(u.name)
