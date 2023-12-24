@@ -1,6 +1,6 @@
 # Achievements
 
-Currently on <b>v7.23</b> (Android).
+Currently on <b>v7.25</b> (Android).
 
 ~~Strikethrough~~ indicates that this achievement has not yet been implemented.
 
@@ -524,6 +524,7 @@ Currently on <b>v7.23</b> (Android).
 | Jellicles | Own <b>10</b> kitten upgrades.<br><i>Jellicles can and jellicles do! Make sure to wash your jellicles every day!</i> |
 | Cookie-dunker | Dislodge the cookie, then dunk it into the milk.<br>Unlocks the <b>Dislodge cookie</b> setting.<br><i>You did it!</i> |
 | Here you go | Tap this achievement's slot.<br><i>All you had to do was ask.</i> |
+| Tabloid addiction | Peruse the news.<br><i>Page 6: Mad individual taps on picture of pastry in a futile attempt to escape boredom!<br>Also page 6: British parliament ate my baby!</i> |
 | Olden days | Find the <b>forgotten madeleine</b>.<br><i>DashNet Farms remembers.</i> |
 | Grandmapocalypse | Trigger the grandmapocalypse for the first time. |
 | Wrath cookie | Click a <b>wrath cookie</b>. |
