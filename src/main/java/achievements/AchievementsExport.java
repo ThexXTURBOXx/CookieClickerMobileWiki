@@ -11,15 +11,16 @@ import java.util.List;
 
 public class AchievementsExport {
 
-    public static List<Achievement> achievements;
+    public final List<Achievement> achievements;
 
-    public static String formatAchievements() throws IOException {
+    public AchievementsExport() throws IOException {
         Type type = new TypeToken<List<Achievement>>() {
         }.getType();
         achievements = JSONFormatter.parse(Files.readString(Paths.get("json", "achievs.json")), type);
-
         Collections.sort(achievements);
+    }
 
+    public String formatAchievements() {
         StringBuilder builder = new StringBuilder();
         for (Achievement a : achievements) {
             builder.append("| ")
@@ -35,7 +36,6 @@ public class AchievementsExport {
                     .append(" |")
                     .append('\n');
         }
-
         return builder.substring(0, builder.length() - 1);
     }
 

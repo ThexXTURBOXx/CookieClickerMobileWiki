@@ -2,7 +2,10 @@ package index;
 
 public class IndexExport {
 
-    public static String formatIndex() {
+    public IndexExport() {
+    }
+
+    public String formatIndex() {
         return "";
     }
 

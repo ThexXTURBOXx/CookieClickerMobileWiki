@@ -33,4 +33,8 @@ public class Upgrade implements Comparable<Upgrade> {
         return Double.compare(order, o.order);
     }
 
+    public static int compareOrderOnly(Upgrade o1, Upgrade o2) {
+        return Double.compare(o1.order, o2.order);
+    }
+
 }
