@@ -18,7 +18,7 @@ public class HeavenlyExport {
 
     public static List<Upgrade> upgrades;
 
-    public static String printHeavenlyUpgrades() throws IOException {
+    public static String formatHeavenlyUpgrades() throws IOException {
         Type type = new TypeToken<List<Upgrade>>() {
         }.getType();
         upgrades = JSONFormatter.parse(Files.readString(Paths.get("json", "upgrades.json")), type);
