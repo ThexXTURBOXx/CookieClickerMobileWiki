@@ -13,6 +13,9 @@ public class JSONFormatter {
         json = json.replace("\\\\\"", "\\\"");
         json = json.replace("<div style=\\\"display:inline-block;background:url(img/cookicon.png);width:16px;"
                             + "height:16px;\\\"></div>", "\uD83C\uDF6A");
+        json = json.replaceAll("<div class=\\\\\"warning\\\\\">(.+?)</div>", "$1");
+        json = json.replaceAll("<div style=\\\\\"font-size:80%;text-align:center;\\\\\">Unshackled!"
+                               + ".+?</div><line></line>", "");
         return json.replace("<div class=\\\"line\\\"></div>", "<br>");
     }
 

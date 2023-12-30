@@ -1,7 +1,6 @@
 package upgrades;
 
 import com.google.gson.annotations.SerializedName;
-import java.math.BigDecimal;
 import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -13,7 +12,7 @@ public class Upgrade implements Comparable<Upgrade> {
     @SerializedName("effs")
     public List<List<String>> effects;
     public String pool;
-    public BigDecimal cost;
+    public double cost;
     public double order;
     public int[] icon;
     public int id;
@@ -29,7 +28,7 @@ public class Upgrade implements Comparable<Upgrade> {
 
     @Override
     public int compareTo(Upgrade o) {
-        if (!cost.equals(o.cost)) return cost.compareTo(o.cost);
+        if (cost != o.cost) return Double.compare(cost, o.cost);
         return Double.compare(order, o.order);
     }
 

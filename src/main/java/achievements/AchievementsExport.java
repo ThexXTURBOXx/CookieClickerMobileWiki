@@ -1,6 +1,7 @@
 package achievements;
 
 import com.google.gson.reflect.TypeToken;
+import format.CCFormatter;
 import format.JSONFormatter;
 import java.io.IOException;
 import java.lang.reflect.Type;
@@ -11,9 +12,12 @@ import java.util.List;
 
 public class AchievementsExport {
 
+    private final CCFormatter formatter;
     public final List<Achievement> achievements;
 
-    public AchievementsExport() throws IOException {
+    public AchievementsExport(CCFormatter formatter) throws IOException {
+        this.formatter = formatter;
+
         Type type = new TypeToken<List<Achievement>>() {
         }.getType();
         achievements = JSONFormatter.parse(Files.readString(Paths.get("json", "achievs.json")), type);

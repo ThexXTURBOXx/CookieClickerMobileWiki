@@ -16,9 +16,13 @@ import java.util.Set;
 
 public class UpgradesExport {
 
+
+    private final CCFormatter formatter;
     public final List<Upgrade> upgrades;
 
-    public UpgradesExport() throws IOException {
+    public UpgradesExport(CCFormatter formatter) throws IOException {
+        this.formatter = formatter;
+
         Type type = new TypeToken<List<Upgrade>>() {
         }.getType();
         upgrades = JSONFormatter.parse(Files.readString(Paths.get("json", "upgrades.json")), type);
@@ -44,7 +48,7 @@ public class UpgradesExport {
                     .append(u.unimplemented ? "~~" : "")
                     .append(" | ")
                     .append(u.unimplemented ? "~~" : "")
-                    .append(CCFormatter.DECIMAL_FORMAT.format(u.cost))
+                    .append(formatter.beautify(u.cost))
                     .append(u.unimplemented ? "~~" : "")
                     .append(" | ")
                     .append(u.unimplemented ? "~~" : "")
@@ -78,7 +82,7 @@ public class UpgradesExport {
                     .append(u.unimplemented ? "~~" : "")
                     .append(" | ")
                     .append(u.unimplemented ? "~~" : "")
-                    .append(CCFormatter.formatScientificIfTooBig(u.cost))
+                    .append(formatter.beautify(u.cost))
                     .append(u.unimplemented ? "~~" : "")
                     .append(" | ")
                     .append(u.unimplemented ? "~~" : "")

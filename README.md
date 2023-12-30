@@ -16,4 +16,7 @@ In order to extract the required values out of the app, follow these steps:
 5. Export the required values as JSON
    1. Execute the commands from `export.js` using the console
    2. Copy the output as-is to the required files in the folder `json`
-6. Execute the `Main` class and the Wiki files will be automatically generated
+6. [Probably never needed] Adjust the formatter
+   1. The formatter code can be found in `main.js` within `baseDebuggable.apk`
+   2. Copy it out of there and replace it within `CCFormatter.java`
+7. Execute the `Main` class and the Wiki files will be automatically generated
