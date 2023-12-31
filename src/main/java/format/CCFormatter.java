@@ -1,17 +1,23 @@
 package format;
 
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import org.apache.commons.text.StringSubstitutor;
 import org.graalvm.polyglot.Context;
+import org.graalvm.polyglot.Engine;
 
 public class CCFormatter {
 
     private final Context beautifyContext;
 
-    public CCFormatter() throws IOException {
-        beautifyContext = Context.create();
+    public CCFormatter() {
+        Engine engine = Engine.newBuilder()
+                .option("engine.WarnInterpreterOnly", "false")
+                .build();
+        beautifyContext = Context.newBuilder("js")
+                .allowAllAccess(false)
+                .engine(engine)
+                .build();
         beautifyContext.eval("js", FORMATTER_JS);
     }
 
@@ -27,6 +33,9 @@ public class CCFormatter {
         return beautifyContext.eval("js", "B(" + value + ")").toString();
     }
 
+    /**
+     * Copied as-is from main.js
+     */
     private static final String FORMATTER_JS = """
             //the old Beautify function from Cookie Clicker, shortened to B(value)
             //initially adapted from http://cookieclicker.wikia.com/wiki/Frozen_Cookies_%28JavaScript_Add-on%29
