@@ -1,6 +1,6 @@
 # Achievements
 
-Currently on <b>v7.25</b> (Android).
+Currently on <b>v7.26</b> (Android).
 
 ~~Strikethrough~~ indicates that this achievement has not yet been implemented.
 
@@ -543,11 +543,12 @@ Currently on <b>v7.25</b> (Android).
 | Sleigh of hand | Pop <b>50 reindeer</b>. |
 | Reindeer sleigher | Pop <b>200 reindeer</b>. |
 | Eldeer | Pop a reindeer <b>during an elder frenzy</b>. |
-| Lovely cookies | Unlock <b>every Valentine-themed cookie</b>. |
+| Lovely cookies | Own <b>every Valentine-themed cookie</b>. |
 | The hunt is on | Unlock <b>1 egg</b>. |
 | Egging on | Unlock <b>7 eggs</b>. |
 | Mass Easteria | Unlock <b>14 eggs</b>. |
 | Hide & seek champion | Unlock <b>all the eggs</b>.<br>Owning this achievement makes eggs drop more frequently in future playthroughs. |
+| Here be dragon | Complete your <b>dragon's training</b>. |
 | Rebirth | Ascend at least once. |
 | Resurrection | Ascend <b>10 times</b>. |
 | Reincarnation | Ascend <b>100 times</b>. |

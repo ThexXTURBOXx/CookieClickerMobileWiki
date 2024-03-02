@@ -1,15 +1,16 @@
 # Heavenly Upgrades
 
-Currently on <b>v7.25</b> (Android).
+Currently on <b>v7.26</b> (Android).
 
 ~~Strikethrough~~ indicates that this upgrade has not yet been implemented.
 
 | Name | Cost | Description |
 |------|------|-------------|
 | Legacy | 1 | This is the first heavenly upgrade; it unlocks the <b>Heavenly chips</b> system.<line></line>Each time you ascend, the cookies you made in your past life are turned into <b>heavenly chips</b> and <b>prestige</b>.<line></line><b>Heavenly chips</b> can be spent on a variety of permanent transcendental upgrades.<line></line>Your <b>prestige level</b> also gives you a permanent <b>+1% CpS</b> per level.<br><i>We've all been waiting for you.</i> |
-| Twin Gates of Transcendence | 1 | Unlocks the <b>power clicks</b> toggle.<line></line><b>Passive power clicks income:</b><br>&bull; you now <b>build up power clicks</b> while the game is closed at a rate of <b>one</b> every <b>30 minutes</b><br>&bull; maximum storage capacity: <b>5</b> power clicks<line></line><b>Toggle effect:</b><br>&bull; use up <b>1 power click</b> whenever you click the big cookie while the toggle is active<br>&bull; these clicks produce <b>2 times</b> more cookies<br>&bull; these clicks boost all cookie production by <b>+5%</b> for <b>10 seconds</b> (duration stacks)<br>&bull; cannot use power clicks during click frenzies<br><i>This is one occasion you're always underdressed for. Don't worry, just rush in past the bouncer and pretend you know people.</i> |
+| Power clicks | 1 | Unlocks the <b>power clicks</b> toggle.<line></line><b>Passive power clicks income:</b><br>&bull; you now <b>build up power clicks</b> while the game is closed at a rate of <b>one</b> every <b>30 minutes</b><br>&bull; maximum storage capacity: <b>5</b> power clicks<line></line><b>Toggle effect:</b><br>&bull; use up <b>1 power click</b> whenever you click the big cookie while the toggle is active<br>&bull; these clicks produce <b>2 times</b> more cookies<br>&bull; these clicks boost all cookie production by <b>+5%</b> for <b>10 seconds</b> (duration stacks)<br>&bull; cannot use power clicks during click frenzies<br><i>There's plenty of knowledgeable people up here, and you've been given some excellent pointers.</i> |
 | Heavenly cookies | 3 | Cookie production multiplier <b>+10% permanently</b>.<br><i>Baked with heavenly chips. An otherwordly flavor that transcends time and space.</i> |
-| How to bake your dragon | 9 | Allows you to purchase a <b>crumbly egg</b> once you have earned 1 million cookies.<br><b>Note: feature not yet usable.</b><br><i>A tome full of helpful tips such as "oh god, stay away from it", "why did we buy this thing, it's not even house-broken" and "groom twice a week in the direction of the scales".</i> |
+| How to bake your dragon | 9 | Allows you to purchase a <b>crumbly egg</b> once you have earned 1 million cookies.<br><i>A tome full of helpful tips such as "oh god, stay away from it", "why did we buy this thing, it's not even house-broken" and "groom twice a week in the direction of the scales".</i> |
+| Classic dairy selection | 9 | Unlocks the <b>milk selector</b>, letting you pick which milk is displayed under your cookie.<br>Comes with a variety of basic flavors.<br><i>Don't have a cow, man.</i> |
 | Heavenly luck | 77 | Golden cookies appear <b>5%</b> more often.<br><i>Someone up there likes you.</i> |
 | Permanent upgrade slot I | 100 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs. |
 | Persistent memory | 500 | Subsequent research will be <b>10 times</b> as fast.<br><i>It's all making sense!<br>Again!</i> |
@@ -20,7 +21,10 @@ Currently on <b>v7.25</b> (Android).
 | Box of macarons | 25 | Contains an assortment of macarons.<br><i>Multicolored delicacies filled with various kinds of jam.<br>Not to be confused with macaroons, macaroni, macarena or any of that nonsense.</i> |
 | Box of brand biscuits | 25 | Contains an assortment of popular biscuits.<br><i>They're brand new!</i> |
 | Tin of butter cookies | 25 | Contains an assortment of rich butter cookies.<br><i>Five varieties of danish cookies.<br>Complete with little paper cups.</i> |
+| Basic wallpaper assortment | 99 | Unlocks the <b>background selector</b>, letting you select the game's background.<br>Comes with a variety of basic flavors.<br><i>Prioritizing aesthetics over crucial utilitarian upgrades? Color me impressed.</i> |
+| Fanciful dairy selection | 1M | Contains more exotic flavors for your milk selector.<br><i>Strong bones for the skeleton army.</i> |
 | Lasting fortune | 777 | Golden cookies effects last <b>10%</b> longer.<br><i>This isn't your average everyday luck. This is... advanced luck.</i> |
+| Golden switch | 999 | Unlocks the <b>golden switch</b>, which passively boosts your CpS by 50% but disables golden cookies.<br><i>Less clicking, more idling.</i> |
 | Permanent upgrade slot II | 2,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs. |
 | Label printer | 5M | View an upgrade's info to see its tier.<br><small>Note: only some upgrades have tiers. Tiers are purely cosmetic and have no effect on gameplay.</small><br><i>Also comes in real handy when you want to tell catsup apart from ketchup.</i> |
 | Starspawn | 111,111 | Eggs drop <b>10%</b> more often.<br>Golden cookies appear <b>2%</b> more often during Easter. |
@@ -31,7 +35,9 @@ Currently on <b>v7.25</b> (Android).
 | Archangels | 49 | Power click production while the game is closed sped up to <b>one every 26 minutes</b>.<br>Maximum power click capacity increased to <b>15</b>.<br><i>Members of the first sphere of pastry heaven, archangels are responsible for the smooth functioning of the world's largest bakeries.</i> |
 | Mammon | 49 | Power click effects increased to <b>4 times</b> more cookies per click and <b>+7%</b> cookie production for <b>20 seconds</b>.<br><i>The demonic embodiment of wealth, Mammon requests a tithe of blood and gold from all his worshippers.</i> |
 | Starter kit | 50 | You start with <b>10 cursors</b>.<br><i>This can come in handy.</i> |
+| Distinguished wallpaper assortment | 10M | Contains more wallpapers for your background selector.<br><i>Do you ever think about the physicality of this place? Are you putting up these wallpapers in your office or something? Where are you, anyway?</i> |
 | Decisive fate | 7,777 | Golden cookies stay <b>5%</b> longer.<br><i>Life just got a bit more intense.</i> |
+| Residual luck | 99,999 | While the golden switch is on, you gain an additional <b>+10% CpS</b> per golden cookie upgrade owned.<br><i>Fortune comes in many flavors.</i> |
 | Permanent upgrade slot III | 30,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs. |
 | Unshackled flavor | 10M | Unshackles all <b>Plain-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>While the absence of flavoring may seem underwhelming, it allows innate aromas to be expressed at their most unadulterated.</i> |
 | Keepsakes | 1.1B | Seasonal random drops have a <b>1/5 chance</b> to carry over through ascensions.<br><i>Cherish the memories.</i> |
@@ -41,13 +47,16 @@ Currently on <b>v7.25</b> (Android).
 | Halo gloves | 55,555 | Clicks are <b>10% more powerful</b>.<br><i>Smite that cookie.</i> |
 | Divine discount | 99,999 | Buildings are <b>1% cheaper</b>.<br><i>Someone special deserves a special price.</i> |
 | Divine sales | 99,999 | Upgrades are <b>1% cheaper</b>.<br><i>Everything must go!</i> |
+| Distilled essence of redoubled luck | 7.8M | Golden cookies (and all other things that spawn, such as reindeer) have <b>1% chance of being doubled</b>.<br><i>Tastes glittery. The empty phial makes for a great pencil holder.</i> |
 | Permanent upgrade slot IV | 400,000 | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs. |
 | Unshackled cursors | 15M | Multiplies the gain from Thousand fingers by <b>25</b>.<br><i>These hands tell a story.</i> |
 | Unshackled berrylium | 1.8B | Unshackles all <b>Berrylium-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>Berrylium is a synthetic gem with a simple shine to it. Sticky to the touch and susceptible to melting in high heat, it is frequently used in the food industry rather than as adornment, as its atomic structure imparts it a vaguely fruity flavor.</i> |
 | Dominions | 2,401 | Power click production while the game is closed sped up to <b>one every 22 minutes</b>.<br>Maximum power click capacity increased to <b>25</b>.<br><i>Ruling over the second sphere of pastry heaven, dominions hold a managerial position and are in charge of accounting and regulating schedules.</i> |
 | Satan | 2,401 | Power click effects increased to <b>6 times</b> more cookies per click and <b>+9%</b> cookie production for <b>30 seconds</b>.<br><i>The counterpoint to everything righteous, this demon represents the nefarious influence of deceit and temptation.</i> |
+| Five-finger discount | 555,555 | All upgrades are <b>1% cheaper per 100 cursors</b>.<br><i>Stick it to the man.</i> |
 | Unholy bait | 44,444 | Wrinklers appear <b>5 times</b> as fast.<br><i>No wrinkler can resist the scent of worm biscuits.</i> |
 | Divine bakeries | 399,999 | Cookie upgrades are <b>5 times cheaper</b>.<br><i>They sure know what they're doing.</i> |
+| Fortune cookies | 77.8B | The news ticker may occasionally have <b>fortunes</b>, which may be clicked for something good.<br><i>These don't taste all that great but that's not really the point, is it?</i> |
 | Permanent upgrade slot V | 5M | Placing an upgrade in this slot will make its effects <b>permanent</b> across all playthroughs. |
 | Unshackled grandmas | 1.9B | Tiered upgrades for <b>Grandmas</b> provide an extra <b>+50%</b> production.<br>Only works with unshackled upgrade tiers.<br><i>Never too old.</i> |
 | Unshackled blueberrylium | 37.9B | Unshackles all <b>Blueberrylium-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>Blueberrylium is a refinement of berrylium, sharing nearly the same chemical makeup save for a few supplemental esters. These affect its flavor as well as its visual spectrum resonance.</i> |
@@ -57,9 +66,9 @@ Currently on <b>v7.25</b> (Android).
 | Asmodeus | 16,807 | Power click effects increased to <b>7 times</b> more cookies per click and <b>+10%</b> cookie production for <b>35 seconds</b>.<br><i>This demon with three monstrous heads draws his power from the all-consuming desire for cookies and all things sweet.</i> |
 | Sacrilegious corruption | 444,444 | Wrinklers regurgitate <b>5%</b> more cookies.<br><i>Unique in the animal kingdom, the wrinkler digestive tract is able to withstand an incredible degree of dilation - provided you prod them appropriately.</i> |
 | Elder spice | 444,444 | You can attract <b>2 more wrinklers</b>.<br><i>The cookie your cookie could smell like.</i> |
-| Fortune cookies | 77.8B | The news ticker may occasionally have <b>fortunes</b>, which may be clicked for something good.<br><i>These don't taste all that great but that's not really the point, is it?</i> |
 | Unshackled farms | 32.8B | Tiered upgrades for <b>Farms</b> provide an extra <b>+180%</b> production.<br>Only works with unshackled upgrade tiers.<br><i>Till the universe.</i> |
 | Unshackled chalcedhoney | 327.7B | Unshackles all <b>Chalcedhoney-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>Raw chalcedhoney is found in complex nodules within the fossilized remains of ancient forests. Once purified, it becomes a semi-valuable stone with a pleasant, waxy smell.</i> |
+| Kitten wages | 9B | Through clever accounting, this actually makes kitten upgrades <b>10% cheaper</b>.<br><i>Cats can have little a salary, as a treat.<br>Cats are expert hagglers and have a keen sense of bargaining, especially in the case of cash.</i> |
 | Seraphim | 117,649 | Power click production while the game is closed sped up to <b>one every 18 minutes</b>.<br>Maximum power click capacity increased to <b>35</b>.<br><i>Leading the first sphere of pastry heaven, seraphim possess ultimate knowledge of everything pertaining to baking.</i> |
 | Synergies Vol. II | 2.2M | Unlocks a new tier of upgrades that affect <b>2 buildings at the same time</b>.<br>Synergies appear once you have <b>150</b> of both buildings.<br><i>The several beats the many.</i> |
 | Beelzebub | 117,649 | Power click effects increased to <b>8 times</b> more cookies per click and <b>+11%</b> cookie production for <b>40 seconds</b>.<br><i>The festering incarnation of blight and disease, Beelzebub rules over the vast armies of pastry inferno.</i> |
@@ -77,7 +86,7 @@ Currently on <b>v7.25</b> (Android).
 | Unshackled cherrysilver | 59.3T | Unshackles all <b>Cherrysilver-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>Cherrysilver is a patented alloy with peculiar aromatic properties; it is non-edible, but produces strong flavor responses while losing very little of its mass when licked, though this also leaves a harmless red tinge upon the tongue.</i> |
 | Unshackled wizard towers | 31.5T | Tiered upgrades for <b>Wizard towers</b> provide an extra <b>+130%</b> production.<br>Only works with unshackled upgrade tiers.<br><i>There's a spell for everything.</i> |
 | Unshackled hazelrald | 143.5T | Unshackles all <b>Hazelrald-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>Hazelrald is a friable gemstone with complex green-brown inner reflections. It is considered ornamental in some cultures; in others, it may be consumed in small quantities as an upper-scale sweet.</i> |
-| Unshackled shipments | 71.7T | Tiered upgrades for <b>Shipments</b> provide an extra <b>+120%</b> production.<br>Only works with unshackled upgrade tiers.<br><i>Everywhere at once.</i> |
+| Unshackled shipments | 71.7T | Tiered upgrades for <b>Shipments</b> provide an extra <b>+120%</b> production.<br>Only works with unshackled upgrade tiers.<br><i>Distances nullified.</i> |
 | Unshackled mooncandy | 316.2T | Unshackles all <b>Mooncandy-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>While many get it mixed up with the trademarked snack of the same name made popular following its discovery, mooncandy is a very real mineral, first isolated within the space dust underneath astronaut boots. Left to its own devices in open air, a mooncandy crystal naturally spreads out and grows.</i> |
 | Unshackled alchemy labs | 150T | Tiered upgrades for <b>Alchemy labs</b> provide an extra <b>+110%</b> production.<br>Only works with unshackled upgrade tiers.<br><i>Anything you see, you can make.</i> |
 | Unshackled astrofudge | 646.3T | Unshackles all <b>Astrofudge-tier upgrades</b>, making them more powerful.<br>Only applies to unshackled buildings.<br><i>When you heat up the shimmering syrup oozing from mooncandy using a special caramelization process, you get astrofudge. Astrofudge is delicious and safe for humanoid consumption in certain quantities. Consult your local food safety agency for more details.</i> |

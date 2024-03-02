@@ -1,6 +1,6 @@
 # Upgrades
 
-Currently on <b>v7.25</b> (Android).
+Currently on <b>v7.26</b> (Android).
 
 ~~Strikethrough~~ indicates that this upgrade has not yet been implemented.
 
@@ -601,13 +601,13 @@ Currently on <b>v7.25</b> (Android).
 | ~~Duketater cookies~~ | ~~180~~ | ~~Cookie production multiplier <b>+10%</b>.<br><i>Fragrant and mealy, with a slight yellow aftertaste.</i>~~ |
 | ~~Green yeast digestives~~ | ~~180~~ | ~~Cookie production multiplier <b>+0%</b>.<br><i>These are tastier than you'd expect, but not by much.</i>~~ |
 | ~~Wheat slims~~ | ~~30~~ | ~~Cookie production multiplier <b>+1%</b>.<br><i>The only reason you'd consider these to be cookies is because you feel slightly sorry for them.</i>~~ |
-| Pure heart biscuits | 1M | Cookie production multiplier <b>+3%</b>.<br><i>Melty white chocolate<br>that says "I *like* like you".</i> |
-| Ardent heart biscuits | 1B | Cookie production multiplier <b>+3%</b>.<br><i>A red hot cherry biscuit that will nudge the target of your affection in interesting directions.</i> |
-| Sour heart biscuits | 1T | Cookie production multiplier <b>+3%</b>.<br><i>A bitter lime biscuit for the lonely and the heart-broken.</i> |
-| Weeping heart biscuits | 1Qa | Cookie production multiplier <b>+3%</b>.<br><i>An ice-cold blueberry biscuit, symbol of a mending heart.</i> |
-| Golden heart biscuits | 1Qi | Cookie production multiplier <b>+3%</b>.<br><i>A beautiful biscuit to symbolize kindness, true love, and sincerity.</i> |
-| Eternal heart biscuits | 1Sx | Cookie production multiplier <b>+3%</b>.<br><i>Silver icing for a very special someone you've liked for a long, long time.</i> |
-| Prism heart biscuits | 1Sp | Cookie production multiplier <b>+3%</b>.<br><i>An every-flavor biscuit that stands for universal love and being true to yourself.</i> |
+| Pure heart biscuits | 1M | Cookie production multiplier <b>+2%</b>.<br><i>Melty white chocolate<br>that says "I *like* like you".</i> |
+| Ardent heart biscuits | 1B | Cookie production multiplier <b>+2%</b>.<br><i>A red hot cherry biscuit that will nudge the target of your affection in interesting directions.</i> |
+| Sour heart biscuits | 1T | Cookie production multiplier <b>+2%</b>.<br><i>A bitter lime biscuit for the lonely and the heart-broken.</i> |
+| Weeping heart biscuits | 1Qa | Cookie production multiplier <b>+2%</b>.<br><i>An ice-cold blueberry biscuit, symbol of a mending heart.</i> |
+| Golden heart biscuits | 1Qi | Cookie production multiplier <b>+2%</b>.<br><i>A beautiful biscuit to symbolize kindness, true love, and sincerity.</i> |
+| Eternal heart biscuits | 1Sx | Cookie production multiplier <b>+2%</b>.<br><i>Silver icing for a very special someone you've liked for a long, long time.</i> |
+| Prism heart biscuits | 1Sp | Cookie production multiplier <b>+2%</b>.<br><i>An every-flavor biscuit that stands for universal love and being true to yourself.</i> |
 | Dragon cookie | 70Qa | Cookie production multiplier <b>+5%</b>.<br><i>Imbued with the vigor and vitality of a full-grown cookie dragon, this mystical cookie will embolden your empire for the generations to come.</i> |
 | Milk chocolate butter biscuit | 1Sx | Cookie production multiplier <b>+10%</b>.<br><i>Rewarded for owning 100 of everything.<br>It bears the engraving of a fine entrepreneur.</i> |
 | Dark chocolate butter biscuit | 1Sp | Cookie production multiplier <b>+10%</b>.<br><i>Rewarded for owning 150 of everything.<br>It is adorned with the image of an experienced cookie tycoon.</i> |
@@ -658,7 +658,7 @@ Currently on <b>v7.25</b> (Android).
 | Fortune #020 | 42 SpD | You are <b>7%</b> more efficient and <b>7%</b> cheaper.<br><i>No matter how hard you try, you're never truly alone.</i> |
 | Fortune #100 | 7.8Dc | All buildings and upgrades are <b>1% cheaper</b>. Cookie production multiplier <b>+1%</b>.<br><i>True wealth is counted in gifts.</i> |
 | Fortune #101 | 7.8 UnD | Cookie production multiplier <b>+7%</b>.<br><i>Some people dream of fortunes; others dream of cookies.</i> |
-| Fortune #102 | 7.8 DoD | <b>+2%</b> cookie production from power click buffs. <small>(Must own the Twin Gates of Transcendence upgrade.)</small><br><i>Help, I'm trapped in a mobile game!</i> |
+| Fortune #102 | 7.8 DoD | <b>+2%</b> cookie production from power click buffs. <small>(Must own the Power clicks upgrade.)</small><br><i>Help, I'm trapped in a mobile game!</i> |
 | Fortune #103 | 7.8 TrD | You gain <b>more CpS</b> the more milk you have.<br><i>Don't believe the superstitions; all cats are good luck.</i> |
 | Fortune #104 | 7.8 DoD | Tapping gains <b>+1% of your CpS</b>.<br><i>Remember to stay in touch.</i> |
 | Kitten helpers | 9M | You gain <b>more CpS</b> the more milk you have.<br><i>meow may I help you</i> |
@@ -717,10 +717,17 @@ Currently on <b>v7.25</b> (Android).
 | Santa's legacy | 2,525 | Cookie production multiplier <b>+3% per Santa's levels.</b><br>Cost scales with Santa level.<br><i>In the north pole, you gotta get the elves first. Then when you get the elves, you start making the toys. Then when you get the toys... then you get the cookies.</i> |
 | Santa's milk and cookies | 2,525 | Milk is <b>5% more powerful</b>.<br>Cost scales with Santa level.<br><i>Part of Santa's dreadfully unbalanced diet.</i> |
 | Santa's dominion | 2.5Qa | Cookie production multiplier <b>+20%</b>.<br>All buildings are <b>1% cheaper</b>.<br>All upgrades are <b>2% cheaper</b>.<br><i>My name is Claus, king of kings;<br>Look on my toys, ye Mighty, and despair!</i> |
+| Wrinkler ambergris | 60 | Cookie production multiplier <b>+6%</b>.<br>All upgrades are <b>1% cheaper</b>.<br>Cost scales with CpS.<br><i>Occasionally regurgitated by wrinklers.<br>The byproduct of some obscure metabolic process or other, it is as rare and precious as it is pungent.<br>Makes for a great toast spread.</i> |
 | A crumbly egg | 25 | Unlocks the <b>cookie dragon egg</b>.<br><i>Thank you for adopting this robust, fun-loving cookie dragon! It will bring you years of joy and entertainment.<br>Keep in a dry and cool place, and away from other house pets. Subscription to home insurance is strongly advised.</i> |
+| Dragon scale | 999 | Cookie production multiplier <b>+3%</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Your dragon sheds these regularly, so this one probably won't be missed.<br>Note: icon not to scale.</i> |
+| Dragon claw | 999 | Clicking is <b>3%</b> more powerful.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Will grow back in a few days' time.<br>A six-inch retractable claw, like a razor, from the middle toe. So you know, try to show a little respect.</i> |
+| Dragon fang | 999 | Golden cookies give <b>3%</b> more cookies.<br>Dragon harvest and Dragonflight are <b>10% stronger</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Just a fallen baby tooth your dragon wanted you to have, as a gift.<br>It might be smaller than an adult tooth, but it's still frighteningly sharp - and displays some awe-inspiring cavities, which you might expect from a creature made out of sweets.</i> |
+| Dragon teddy bear | 999 | Random drops are <b>3% more common</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Your dragon used to sleep with this, but it's yours now.<br>Crafted in the likeliness of a fearsome beast. Stuffed with magical herbs picked long ago by a wandering wizard. Woven from elven yarn and a polyester blend.</i> |
 | Heavenly chip secret | 11 | Unlocks <b>5%</b> of the potential of your prestige level.<br><i>Grants the knowledge of heavenly chips, and how to use them to make baking more efficient.<br>It's a secret to everyone.</i> |
 | Heavenly cookie stand | 1,111 | Unlocks <b>25%</b> of the potential of your prestige level.<br><i>Don't forget to visit the heavenly lemonade stand afterwards. When afterlife gives you lemons...</i> |
 | Heavenly bakery | 111,111 | Unlocks <b>50%</b> of the potential of your prestige level.<br><i>Also sells godly cakes and divine pastries. The pretzels aren't too bad either.</i> |
 | Heavenly confectionery | 11.1M | Unlocks <b>75%</b> of the potential of your prestige level.<br><i>They say angel bakers work there. They take angel lunch breaks and sometimes go on angel strikes.</i> |
 | Heavenly key | 1.1B | Unlocks <b>100%</b> of the potential of your prestige level.<br><i>This is the key to the pearly (and tasty) gates of pastry heaven, granting you access to your entire stockpile of heavenly chips for baking purposes.<br>May you use them wisely.</i> |
+| Golden switch [off] | 1M | Turning this on will passively boost your CpS, but prevents golden cookies from spawning.<br>Cost is equal to 1 hour of production. |
+| Golden switch [on] | 1M | The switch is currently boosting your CpS; it also prevents golden cookies from spawning.<br>Turning it off will revert those effects.<br>Cost is equal to 1 hour of production. |
 | Birthday cookie | 100Oc | Cookie production multiplier <b>+1%</b> for every year Cookie Clicker has existed (currently: <b>+10%</b>).<br><i>Thank you for playing Cookie Clicker!<br>-Orteil</i> |
