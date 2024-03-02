@@ -58,9 +58,9 @@ public class CCFormatter {
             		return (Math.round(val*10)/10)+notationValue;
             	};
             }
-                            
+                        
             function rawFormatter(val){return val>1000000000000?Math.round(val):(Math.round(val*1000)/1000);}
-                            
+                        
             var formatLong=[' thousand',' million',' billion',' trillion',' quadrillion',' quintillion',' sextillion',' septillion',' octillion',' nonillion'];
             var prefixes=['','un','duo','tre','quattuor','quin','sex','septen','octo','novem'];
             var suffixes=['decillion','vigintillion','trigintillion','quadragintillion','quinquagintillion','sexagintillion','septuagintillion','octogintillion','nonagintillion'];
@@ -71,7 +71,7 @@ public class CCFormatter {
             		formatLong.push(' '+prefixes[ii]+suffixes[i]);
             	}
             }
-                            
+                        
             var formatShort=['k','M','B','T','Qa','Qi','Sx','Sp','Oc','No'];
             var prefixes=['','Un','Do','Tr','Qa','Qi','Sx','Sp','Oc','No'];
             var suffixes=['D','V','T','Qa','Qi','Sx','Sp','O','N'];
@@ -83,8 +83,8 @@ public class CCFormatter {
             	}
             }
             formatShort[10]='Dc';
-                            
-                            
+                        
+                        
             var numberFormatters=
             [
             	formatEveryThirdPower(formatShort),
