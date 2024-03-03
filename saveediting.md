@@ -12,21 +12,48 @@ Table of contents:
 
 </div>
 
-## Backup and Restore (Very easy - Just do what I tell you to do)
+## NEWS! v7.2 did something...
+
+It was a long time coming, but v7.2 did something. First of all, it should be called v7.20 and that bothers me.
+But apart from ranting about its name (lol): It added an export/import button!
+If you are using the **live** version (NOT **alpha**), then you might not have this patch yet.
+However, for alpha users, this makes backups, restores and even cheating much easier:
 
 ### Backup
+
+1. Export the save in-game using the button `Misc -> Export save file...`
+2. The resulting file is your backup!
+
+### Restore
+
+1. Click the button `Misc -> Export save file...`
+2. Select your save file which you had exported at some point using the procedure described above
+
+### Cheating
+
+1. Open a backup file which you obtained by following the instructions from the [Backup section](#backup) above and decode its contents using some Base64 decoder (e.g., [base64decode.org](https://www.base64decode.org/))
+2. Take the resulting, decoded string and change all the values you want to change, but do **not** change or even break its [JSON](https://en.wikipedia.org/wiki/JSON) format!
+3. Encode the new string again using some Base64 encoder (e.g., [base64encode.org](https://www.base64encode.org/))
+4. Write the Base64 encoded string to some file on your phone
+5. Import the save as described in the [Restore section](#restore) above
+
+## Old procedures
+
+In case you are looking for alternatives or solutions for old versions of Cookie Clicker Mobile, here you are!
+
+### Backup [OLD INSTRUCTIONS]
 
 1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
 2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
 3. You have to execute the following command in the terminal now: ``adb backup org.dashnet.cookieclicker`` and confirm on your phone, which creates a file "backup.ab"
 
-### Restore
+### Restore [OLD INSTRUCTIONS]
 
 1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
 2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
 3. You have to execute the following command in the terminal now: ``adb restore backup.ab`` and confirm on your phone, which will load the save from the file "backup.ab".
 
-## Converting Alpha Save to Live Save (Very easy - With these instructions, even your grandpa can do it)
+## Converting Alpha Save to Live Save
 
 ### Using Weird Z the Cppkiemeister's Script
 
@@ -47,7 +74,7 @@ Table of contents:
 6. Pack it into a tar-File again and convert it to an ab-File using ``java -jar abe-all.jar pack backup.tar backup.ab``
 7. Do a ``adb restore backup.ab`` and confirm on your phone
 
-## Cheating (Moderate - You should know or understand JSON)
+## Cheating [OLD INSTRUCTIONS]
 
 1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
 2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
@@ -59,7 +86,7 @@ If you want to cheat on your Alpha save, edit the file ``CookieClickerSaveTest.t
 7. Pack it into a tar-File again and convert it to an ab-File using ``java -jar abe-all.jar pack backup.tar backup.ab``
 8. Do a ``adb restore backup.ab`` and confirm on your phone
 
-## Converting between Community Patches (Moderate - Only do, if you know, what you are doing)
+## Converting between Community Patches
 
 1. Install [adb](https://www.xda-developers.com/install-adb-windows-macos-linux/) if not installed already
 2. Connect your phone to your computer via USB and [with Debugging enabled](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html)
@@ -75,7 +102,7 @@ If you want to cheat on your Alpha save, edit the file ``CookieClickerSaveTest.t
 12. Pack the previously extracted folder into a tar-File again and convert it to an ab-File using ``java -jar abe-all.jar pack backup.tar backup.ab``
 13. Do a ``adb restore backup.ab`` and confirm on your phone
 
-## CCMobileToolbox (Very easy - BROKEN RIGHT NOW)
+## CCMobileToolbox (BROKEN FOR SOME DEVICES)
 
-**RIGHT NOW, IT DOESN'T WORK, WILL MAYBE FIX LATER**<br>
+**DOES NOT WORK ON SOME DEVICES. ON MINE IT WORKS, BUT IT MAY NOT WORK ON YOURS!**<br>
 The [Cookie Clicker Mobile Toolbox](toolbox) allows one to convert saves between patches and create backups and restore them.
