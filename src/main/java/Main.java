@@ -10,7 +10,7 @@ import upgrades.UpgradesExport;
 public class Main {
 
     public static final Path OUT_FOLDER = Paths.get("..", "CookieClickerMobileWiki");
-    public static final String VERSION = "v7.26";
+    public static final String VERSION = "v7.27";
     public static final String DEVICE = "Android";
 
     public static void main(String[] args) throws IOException {
