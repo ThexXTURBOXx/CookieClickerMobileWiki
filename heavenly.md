@@ -1,6 +1,6 @@
 # Heavenly Upgrades
 
-Currently on <b>v7.26</b> (Android).
+Currently on <b>v7.27</b> (Android).
 
 ~~Strikethrough~~ indicates that this upgrade has not yet been implemented.
 

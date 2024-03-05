@@ -1,6 +1,6 @@
 # Achievements
 
-Currently on <b>v7.26</b> (Android).
+Currently on <b>v7.27</b> (Android).
 
 ~~Strikethrough~~ indicates that this achievement has not yet been implemented.
 
