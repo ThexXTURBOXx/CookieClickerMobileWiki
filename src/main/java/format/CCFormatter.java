@@ -34,7 +34,7 @@ public class CCFormatter {
     }
 
     /**
-     * Copied as-is from main.js
+     * Copied as-is from test_main.js (the one in main.js behaves differently)
      */
     private static final String FORMATTER_JS = """
             //the old Beautify function from Cookie Clicker, shortened to B(value)
