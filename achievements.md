@@ -1,6 +1,6 @@
 # Achievements
 
-Currently on <b>v7.27</b> (Android).
+Currently on <b>v7.28</b> (Android).
 
 ~~Strikethrough~~ indicates that this achievement has not yet been implemented.
 
@@ -573,6 +573,7 @@ Currently on <b>v7.27</b> (Android).
 | Wholesome | Unlock <b>100%</b> of your heavenly chips power. |
 | O Fortuna | Own every <b>fortune upgrade</b>.<br>Owning this achievement makes fortunes appear <b>twice as often</b>; unlocked fortune upgrades also have a <b>40% chance</b> to carry over after ascending. |
 | You win a cookie | This is for baking 100 trillion cookies and making it on the local news.<br><i>We're all so proud of you.</i> |
+| Cookie Clicker | Unlock the final building. |
 | Endless cycle [SHADOW] | Ascend <b>1,000 times</b>.<br><i>Oh hey, it's you again.</i> |
 | When the cookies ascend just right [SHADOW] | Ascend with exactly <b>1 trillion cookies</b>. |
 | Just plain lucky [SHADOW] | You have <b>1 chance in 1 million</b> every second of earning this achievement. |

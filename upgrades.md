@@ -1,6 +1,6 @@
 # Upgrades
 
-Currently on <b>v7.27</b> (Android).
+Currently on <b>v7.28</b> (Android).
 
 ~~Strikethrough~~ indicates that this upgrade has not yet been implemented.
 
@@ -681,25 +681,25 @@ Currently on <b>v7.27</b> (Android).
 | Lovesick biscuit | 1B | Triggers <b>Valentine's day season</b>.<br><i>Romance never goes out of fashion.</i> |
 | Fool's biscuit | 1B | Triggers <b>Business day season</b>.<br><i>Business. Serious business. This is absolutely all of your business.</i> |
 | Bunny biscuit | 1B | Triggers <b>Easter season</b>.<br><i>All the world will be your enemy<br>and when they catch you,<br>they will kill you...<br>but first they must catch you.</i> |
-| Chicken egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>The egg. The egg came first. Get over it.</i> |
-| Duck egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>Then he waddled away.</i> |
-| Turkey egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>These hatch into strange, hand-shaped creatures.</i> |
-| Quail egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>These eggs are positively tiny. I mean look at them. How does this happen? Whose idea was that?</i> |
-| Robin egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>Holy azure-hued shelled embryos!</i> |
-| Ostrich egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>One of the largest eggs in the world. More like ostrouch, am I right?<br>Guys?</i> |
-| Cassowary egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>The cassowary is taller than you, possesses murderous claws and can easily outrun you.<br>You'd do well to be casso-wary of them.</i> |
-| Salmon roe | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>Do the impossible, see the invisible.<br>Roe roe, fight the power?</i> |
-| Frogspawn | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>I was going to make a pun about how these "toadally look like eyeballs", but froget it.</i> |
-| Shark egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>HELLO IS THIS FOOD?<br>LET ME TELL YOU ABOUT FOOD.<br>WHY DO I KEEP EATING MY FRIENDS</i> |
-| Turtle egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>Turtles, right? Hatch from shells. Grow into shells. What's up with that?<br>Now for my skit about airplane food.</i> |
-| Ant larva | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you own.<br><i>These are a delicacy in some countries, I swear. You will let these invade your digestive tract, and you will derive great pleasure from it.<br>And all will be well.</i> |
-| Golden goose egg | 100T | Golden cookies appear <b>5%</b> more often.<br>Cost scales with how many eggs you own.<br><i>The sole vestige of a tragic tale involving misguided investments.</i> |
-| Faberge egg | 100T | All buildings and upgrades are <b>1% cheaper</b>.<br>Cost scales with how many eggs you own.<br><i>This outrageous egg is definitely fab.</i> |
-| Wrinklerspawn | 100T | Wrinklers explode into <b>5% more cookies</b>.<br>Cost scales with how many eggs you own.<br><i>Look at this little guy! It's gonna be a big boy someday! Yes it is!</i> |
-| Cookie egg | 100T | Clicking is <b>10%</b> more powerful.<br>Cost scales with how many eggs you own.<br><i>The shell appears to be chipped.<br>I wonder what's inside this one!</i> |
-| Omelette | 100T | Other eggs appear <b>10% more frequently</b>.<br>Cost scales with how many eggs you own.<br><i>Fromage not included.</i> |
-| Chocolate egg | 100T | Contains <b>a lot of cookies</b>.<br>Cost scales with how many eggs you own.<br><i>Laid by the elusive cocoa bird. There's a surprise inside!</i> |
-| Century egg | 100T | You continually gain <b>more CpS the longer you've played</b> in the current ascension.<br>Cost scales with how many eggs you own.<br><i>Actually not centuries-old. This one isn't a day over 86!</i> |
+| Chicken egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>The egg. The egg came first. Get over it.</i> |
+| Duck egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>Then he waddled away.</i> |
+| Turkey egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>These hatch into strange, hand-shaped creatures.</i> |
+| Quail egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>These eggs are positively tiny. I mean look at them. How does this happen? Whose idea was that?</i> |
+| Robin egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>Holy azure-hued shelled embryos!</i> |
+| Ostrich egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>One of the largest eggs in the world. More like ostrouch, am I right?<br>Guys?</i> |
+| Cassowary egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>The cassowary is taller than you, possesses murderous claws and can easily outrun you.<br>You'd do well to be casso-wary of them.</i> |
+| Salmon roe | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>Do the impossible, see the invisible.<br>Roe roe, fight the power?</i> |
+| Frogspawn | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>I was going to make a pun about how these "toadally look like eyeballs", but froget it.</i> |
+| Shark egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>HELLO IS THIS FOOD?<br>LET ME TELL YOU ABOUT FOOD.<br>WHY DO I KEEP EATING MY FRIENDS</i> |
+| Turtle egg | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>Turtles, right? Hatch from shells. Grow into shells. What's up with that?<br>Now for my skit about airplane food.</i> |
+| Ant larva | 1T | Cookie production multiplier <b>+1%</b>.<br>Cost scales with how many eggs you've found.<br><i>These are a delicacy in some countries, I swear. You will let these invade your digestive tract, and you will derive great pleasure from it.<br>And all will be well.</i> |
+| Golden goose egg | 100T | Golden cookies appear <b>5%</b> more often.<br>Cost scales with how many eggs you've found.<br><i>The sole vestige of a tragic tale involving misguided investments.</i> |
+| Faberge egg | 100T | All buildings and upgrades are <b>1% cheaper</b>.<br>Cost scales with how many eggs you've found.<br><i>This outrageous egg is definitely fab.</i> |
+| Wrinklerspawn | 100T | Wrinklers explode into <b>5% more cookies</b>.<br>Cost scales with how many eggs you've found.<br><i>Look at this little guy! It's gonna be a big boy someday! Yes it is!</i> |
+| Cookie egg | 100T | Clicking is <b>10%</b> more powerful.<br>Cost scales with how many eggs you've found.<br><i>The shell appears to be chipped.<br>I wonder what's inside this one!</i> |
+| Omelette | 100T | Other eggs appear <b>10% more frequently</b>.<br>Cost scales with how many eggs you've found.<br><i>Fromage not included.</i> |
+| Chocolate egg | 100T | Contains <b>a lot of cookies</b>.<br>Cost scales with how many eggs you've found.<br><i>Laid by the elusive cocoa bird. There's a surprise inside!</i> |
+| Century egg | 100T | You continually gain <b>more CpS the longer you've played</b> in the current ascension.<br>Cost scales with how many eggs you've found.<br><i>Actually not centuries-old. This one isn't a day over 86!</i> |
 | "egg" | 100T | <b>+9 CpS</b><br><i>hey it's "egg"</i> |
 | A festive hat | 25 | <b>Unlocks... something.</b><br><i>Not a creature was stirring, not even a mouse.</i> |
 | Increased merriness | 2,525 | Cookie production multiplier <b>+15%</b>.<br>Cost scales with Santa level.<br><i>It turns out that the key to increased merriness, strangely enough, happens to be a good campfire and some s'mores.<br>You know what they say, after all; the s'more, the merrier.</i> |
@@ -722,7 +722,7 @@ Currently on <b>v7.27</b> (Android).
 | Dragon scale | 999 | Cookie production multiplier <b>+3%</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Your dragon sheds these regularly, so this one probably won't be missed.<br>Note: icon not to scale.</i> |
 | Dragon claw | 999 | Clicking is <b>3%</b> more powerful.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Will grow back in a few days' time.<br>A six-inch retractable claw, like a razor, from the middle toe. So you know, try to show a little respect.</i> |
 | Dragon fang | 999 | Golden cookies give <b>3%</b> more cookies.<br>Dragon harvest and Dragonflight are <b>10% stronger</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Just a fallen baby tooth your dragon wanted you to have, as a gift.<br>It might be smaller than an adult tooth, but it's still frighteningly sharp - and displays some awe-inspiring cavities, which you might expect from a creature made out of sweets.</i> |
-| Dragon teddy bear | 999 | Random drops are <b>3% more common</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Your dragon used to sleep with this, but it's yours now.<br>Crafted in the likeliness of a fearsome beast. Stuffed with magical herbs picked long ago by a wandering wizard. Woven from elven yarn and a polyester blend.</i> |
+| Dragon teddy bear | 999 | Random drops are <b>3% more common</b>.<br>Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.<br><i>Your dragon used to sleep with this, but it's yours now.<br>Crafted in the likeness of a fearsome beast. Stuffed with magical herbs picked long ago by a wandering wizard. Woven from elven yarn and a polyester blend.</i> |
 | Heavenly chip secret | 11 | Unlocks <b>5%</b> of the potential of your prestige level.<br><i>Grants the knowledge of heavenly chips, and how to use them to make baking more efficient.<br>It's a secret to everyone.</i> |
 | Heavenly cookie stand | 1,111 | Unlocks <b>25%</b> of the potential of your prestige level.<br><i>Don't forget to visit the heavenly lemonade stand afterwards. When afterlife gives you lemons...</i> |
 | Heavenly bakery | 111,111 | Unlocks <b>50%</b> of the potential of your prestige level.<br><i>Also sells godly cakes and divine pastries. The pretzels aren't too bad either.</i> |
