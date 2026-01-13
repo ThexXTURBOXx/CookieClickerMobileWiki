@@ -730,4 +730,4 @@ Currently on <b>v.8</b> (Android).
 | Heavenly key | 1.1B | Unlocks <b>100%</b> of the potential of your prestige level.<br><i>This is the key to the pearly (and tasty) gates of pastry heaven, granting you access to your entire stockpile of heavenly chips for baking purposes.<br>May you use them wisely.</i> |
 | Golden switch [off] | 1M | Turning this on will passively boost your CpS, but prevents golden cookies from spawning.<br>Cost is equal to 1 hour of production. |
 | Golden switch [on] | 1M | The switch is currently boosting your CpS; it also prevents golden cookies from spawning.<br>Turning it off will revert those effects.<br>Cost is equal to 1 hour of production. |
-| Birthday cookie | 100Oc | Cookie production multiplier <b>+1%</b> for every year Cookie Clicker has existed (currently: <b>+10%</b>).<br><i>Thank you for playing Cookie Clicker!<br>-Orteil</i> |
+| Birthday cookie | 100Oc | Cookie production multiplier <b>+1%</b> for every year Cookie Clicker has existed (currently: <b>+12%</b>).<br><i>Thank you for playing Cookie Clicker!<br>-Orteil</i> |
